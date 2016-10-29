@@ -18,5 +18,9 @@
 5. Pos processamento: interpretaçao dos padrões minerados por meio de diferentes formas de visualização. Normalmente informaçoes podem ser incorporadas aos sistemas de apoio a decisão.<br>
 
 
-
+### References
+http://portal.inep.gov.br/basica-levantamentos-acessar
+http://www.scielo.br/scielo.php?pid=S0102-46982016000100133&script=sci_arttext#B17
+http://www.bdtd.uerj.br/tde_busca/arquivo.php?codArquivo=6723
+http://www.bdtd.uerj.br/tde_arquivos/6/TDE-2014-05-12T135725Z-4410/Publico/Dissertacao_StellaOggioniDaFonseca.pdf#Hfootnote.1
 
