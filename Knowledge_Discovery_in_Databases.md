@@ -1,6 +1,7 @@
-KDD (Knowledge  Discovery  in  Databases)
+## KDD (Knowledge  Discovery  in  Databases)
 
-![alt tag](https://github.com/projetosdatamining/data_science/blob/master/KDD.jpg)
+![alt tag]("https://github.com/projetosdatamining/data_science/blob/master/KDD.jpg")
+
 Composto por
 	a)  preparação dos dados: seleção e transformaçao em formato apropriado
 	b) limpeza e pre-processamento: eliminar inconsistencias, dados distorcidos, dados duplicaods e ruidos
