@@ -2,7 +2,7 @@
 
 ![alt tag](https://github.com/projetosdatamining/data_science/blob/master/KDD.jpg)
 
-Composto por<br>
+### Composto por<br>
 	1.  preparação dos dados: seleção e transformaçao em formato apropriado<br>
 	2. limpeza e pre-processamento: eliminar inconsistencias, dados distorcidos, dados duplicaods e ruidos<br>
 	3. Reduçao de dimensionalidade e projeção dos dados para representação de acordo com a necessidade (discretização, transformação de atributos contínuos em discretos, binarização, agregação e normalização). Em muitos casos é uma tarefa das mais custosas dentro da analise e seu resultado impacta diretamente na qualidade do resultado.<br>
