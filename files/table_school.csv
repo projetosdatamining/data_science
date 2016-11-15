@@ -1,0 +1,1045 @@
+,Escola,sexo,idade,endereco,tamfamilia,paisjuntos,EducacaoMae,EducacaoPai,TrabMae,TrabPai,razoes,responsavel,deslocamento,TempoDeEstudo,reprovacoes,ApoioEscolar,ApoioFamiliar,AulasParticulares,AtividadeExtra,Creche,Graduacao,internet,namoro,relacionamentoFamiliar,TempoLivre,PasseiosComAmigos,ConsumoT,ConsumoFS,saude,faltas,nota1,nota2,Nota Final
+0,Escola1,F,18,U,GT3,A,4,4,em_casa,professor,curso preferido,mae,2,2,0,yes,no,no,no,yes,yes,no,no,4,3,4,1,1,3,6,5,6,6
+1,Escola1,F,17,U,GT3,T,1,1,em_casa,outro,curso preferido,pai,1,2,0,no,yes,no,no,no,yes,yes,no,5,3,3,1,1,3,4,5,5,6
+2,Escola1,F,15,U,LE3,T,1,1,em_casa,outro,outro,mae,1,2,3,yes,no,yes,no,yes,yes,yes,no,4,3,2,2,3,3,10,7,8,10
+3,Escola1,F,15,U,GT3,T,4,2,saude,servicos,proximidade,mae,1,3,0,no,yes,yes,yes,yes,yes,yes,yes,3,2,2,1,1,5,2,15,14,15
+4,Escola1,F,16,U,GT3,T,3,3,outro,outro,proximidade,pai,1,2,0,no,yes,yes,no,yes,yes,no,no,4,3,2,1,2,5,4,6,10,10
+5,Escola1,M,16,U,LE3,T,4,3,servicos,outro,reputacao,mae,1,2,0,no,yes,yes,yes,yes,yes,yes,no,5,4,2,1,2,5,10,15,15,15
+6,Escola1,M,16,U,LE3,T,2,2,outro,outro,proximidade,mae,1,2,0,no,no,no,no,yes,yes,yes,no,4,4,4,1,1,3,0,12,12,11
+7,Escola1,F,17,U,GT3,A,4,4,outro,professor,proximidade,mae,2,2,0,yes,yes,no,no,yes,yes,no,no,4,1,4,1,1,1,6,6,5,6
+8,Escola1,M,15,U,LE3,A,3,2,servicos,outro,proximidade,mae,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,2,2,1,1,1,0,16,18,19
+9,Escola1,M,15,U,GT3,T,3,4,outro,outro,proximidade,mae,1,2,0,no,yes,yes,yes,yes,yes,yes,no,5,5,1,1,1,5,0,14,15,15
+10,Escola1,F,15,U,GT3,T,4,4,professor,saude,reputacao,mae,1,2,0,no,yes,yes,no,yes,yes,yes,no,3,3,3,1,2,2,0,10,8,9
+11,Escola1,F,15,U,GT3,T,2,1,servicos,outro,reputacao,pai,3,3,0,no,yes,no,yes,yes,yes,yes,no,5,2,2,1,1,4,4,10,12,12
+12,Escola1,M,15,U,LE3,T,4,4,saude,servicos,curso preferido,pai,1,1,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,1,3,5,2,14,14,14
+13,Escola1,M,15,U,GT3,T,4,3,professor,outro,curso preferido,mae,2,2,0,no,yes,yes,no,yes,yes,yes,no,5,4,3,1,2,3,2,10,10,11
+14,Escola1,M,15,U,GT3,A,2,2,outro,outro,proximidade,outro,1,3,0,no,yes,no,no,yes,yes,yes,yes,4,5,2,1,1,3,0,14,16,16
+15,Escola1,F,16,U,GT3,T,4,4,saude,outro,proximidade,mae,1,1,0,no,yes,no,no,yes,yes,yes,no,4,4,4,1,2,2,4,14,14,14
+16,Escola1,F,16,U,GT3,T,4,4,servicos,servicos,reputacao,mae,1,3,0,no,yes,yes,yes,yes,yes,yes,no,3,2,3,1,2,2,6,13,14,14
+17,Escola1,F,16,U,GT3,T,3,3,outro,outro,reputacao,mae,3,2,0,yes,yes,no,yes,yes,yes,no,no,5,3,2,1,1,4,4,8,10,10
+18,Escola1,M,17,U,GT3,T,3,2,servicos,servicos,curso preferido,mae,1,1,3,no,yes,no,yes,yes,yes,yes,no,5,5,5,2,4,5,16,6,5,5
+19,Escola1,M,16,U,LE3,T,4,3,saude,outro,proximidade,pai,1,1,0,no,no,yes,yes,yes,yes,yes,no,3,1,3,1,3,5,4,8,10,10
+20,Escola1,M,15,U,GT3,T,4,3,professor,outro,reputacao,mae,1,2,0,no,no,no,no,yes,yes,yes,no,4,4,1,1,1,1,0,13,14,15
+21,Escola1,M,15,U,GT3,T,4,4,saude,saude,outro,pai,1,1,0,no,yes,yes,no,yes,yes,yes,no,5,4,2,1,1,5,0,12,15,15
+22,Escola1,M,16,U,LE3,T,4,2,professor,outro,curso preferido,mae,1,2,0,no,no,no,yes,yes,yes,yes,no,4,5,1,1,3,5,2,15,15,16
+23,Escola1,M,16,U,LE3,T,2,2,outro,outro,reputacao,mae,2,2,0,no,yes,no,yes,yes,yes,yes,no,5,4,4,2,4,5,0,13,13,12
+24,Escola1,F,15,R,GT3,T,2,4,servicos,saude,curso preferido,mae,1,3,0,yes,yes,yes,yes,yes,yes,yes,no,4,3,2,1,1,5,2,10,9,8
+25,Escola1,F,16,U,GT3,T,2,2,servicos,servicos,proximidade,mae,1,1,2,no,yes,yes,no,no,yes,yes,no,1,2,2,1,3,5,14,6,9,8
+26,Escola1,M,15,U,GT3,T,2,2,outro,outro,proximidade,mae,1,1,0,no,yes,yes,no,yes,yes,yes,no,4,2,2,1,2,5,2,12,12,11
+27,Escola1,M,15,U,GT3,T,4,2,saude,servicos,outro,mae,1,1,0,no,no,yes,no,yes,yes,yes,no,2,2,4,2,4,1,4,15,16,15
+28,Escola1,M,16,U,LE3,A,3,4,servicos,outro,proximidade,mae,1,2,0,yes,yes,no,yes,yes,yes,yes,no,5,3,3,1,1,5,4,11,11,11
+29,Escola1,M,16,U,GT3,T,4,4,professor,professor,proximidade,mae,1,2,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,5,5,5,5,16,10,12,11
+30,Escola1,M,15,U,GT3,T,4,4,saude,servicos,proximidade,mae,1,2,0,no,yes,yes,no,no,yes,yes,no,5,4,2,3,4,5,0,9,11,12
+31,Escola1,M,15,U,GT3,T,4,4,servicos,servicos,reputacao,mae,2,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,1,1,1,5,0,17,16,17
+32,Escola1,M,15,R,GT3,T,4,3,professor,em_casa,curso preferido,mae,1,2,0,no,yes,no,yes,yes,yes,yes,yes,4,5,2,1,1,5,0,17,16,16
+33,Escola1,M,15,U,LE3,T,3,3,outro,outro,curso preferido,mae,1,2,0,no,no,no,yes,no,yes,yes,no,5,3,2,1,1,2,0,8,10,12
+34,Escola1,M,16,U,GT3,T,3,2,outro,outro,proximidade,mae,1,1,0,no,yes,yes,no,no,yes,yes,no,5,4,3,1,1,5,0,12,14,15
+35,Escola1,F,15,U,GT3,T,2,3,outro,outro,outro,pai,2,1,0,no,yes,no,yes,yes,yes,no,no,3,5,1,1,1,5,0,8,7,6
+36,Escola1,M,15,U,LE3,T,4,3,professor,servicos,proximidade,mae,1,3,0,no,yes,no,yes,yes,yes,yes,no,5,4,3,1,1,4,2,15,16,18
+37,Escola1,M,16,R,GT3,A,4,4,outro,professor,reputacao,mae,2,3,0,no,yes,no,yes,yes,yes,yes,yes,2,4,3,1,1,5,7,15,16,15
+38,Escola1,F,15,R,GT3,T,3,4,servicos,saude,curso preferido,mae,1,3,0,yes,yes,yes,yes,yes,yes,yes,no,4,3,2,1,1,5,2,12,12,11
+39,Escola1,F,15,R,GT3,T,2,2,em_casa,outro,reputacao,mae,1,1,0,yes,yes,yes,yes,yes,yes,no,no,4,3,1,1,1,2,8,14,13,13
+40,Escola1,F,16,U,LE3,T,2,2,outro,outro,proximidade,mae,2,2,1,no,yes,no,yes,no,yes,yes,yes,3,3,3,1,2,3,25,7,10,11
+41,Escola1,M,15,U,LE3,T,4,4,professor,outro,proximidade,outro,1,1,0,no,yes,no,no,no,yes,yes,yes,5,4,3,2,4,5,8,12,12,12
+42,Escola1,M,15,U,GT3,T,4,4,servicos,professor,curso preferido,pai,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,1,1,5,2,19,18,18
+43,Escola1,M,15,U,GT3,T,2,2,servicos,servicos,curso preferido,pai,1,1,0,yes,yes,no,no,yes,yes,yes,no,5,4,1,1,1,1,0,8,8,11
+44,Escola1,F,16,U,LE3,T,2,2,outro,em_casa,curso preferido,pai,2,2,1,yes,no,no,yes,yes,yes,yes,no,4,3,3,2,2,5,14,10,10,9
+45,Escola1,F,15,U,LE3,A,4,3,outro,outro,curso preferido,mae,1,2,0,yes,yes,yes,yes,yes,yes,yes,yes,5,2,2,1,1,5,8,8,8,6
+46,Escola1,F,16,U,LE3,A,3,3,outro,servicos,proximidade,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,2,3,5,1,4,3,12,11,12,11
+47,Escola1,M,16,U,GT3,T,4,3,saude,servicos,reputacao,mae,1,4,0,no,no,no,yes,yes,yes,yes,no,4,2,2,1,1,2,4,19,19,20
+48,Escola1,M,15,U,GT3,T,4,2,professor,outro,proximidade,mae,1,2,0,no,yes,yes,no,yes,yes,no,no,4,3,3,2,2,5,2,15,15,14
+49,Escola1,F,15,U,GT3,T,4,4,servicos,professor,outro,pai,1,2,1,yes,yes,no,yes,no,yes,yes,no,4,4,4,1,1,3,2,7,7,7
+50,Escola1,F,16,U,LE3,T,2,2,servicos,servicos,curso preferido,mae,3,2,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,2,3,4,2,12,13,13
+51,Escola1,F,15,U,LE3,T,4,2,saude,outro,outro,mae,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,1,1,5,2,11,13,13
+52,Escola1,M,15,U,LE3,A,4,2,saude,saude,outro,pai,2,1,1,no,no,no,no,yes,yes,no,no,5,5,5,3,4,5,6,11,11,10
+53,Escola1,F,15,U,GT3,T,4,4,servicos,servicos,curso preferido,mae,1,1,0,yes,yes,yes,no,yes,yes,yes,no,3,3,4,2,3,5,0,8,10,11
+54,Escola1,F,15,U,LE3,A,3,3,outro,outro,outro,mae,1,1,0,no,no,yes,no,yes,yes,yes,no,5,3,4,4,4,1,6,10,13,13
+55,Escola1,F,16,U,GT3,A,2,1,outro,outro,outro,mae,1,2,0,no,no,yes,yes,yes,yes,yes,yes,5,3,4,1,1,2,8,8,9,10
+56,Escola1,F,15,U,GT3,A,4,3,servicos,servicos,reputacao,mae,1,2,0,no,yes,yes,yes,yes,yes,yes,no,4,3,2,1,1,1,0,14,15,15
+57,Escola1,M,15,U,GT3,T,4,4,professor,saude,reputacao,mae,1,2,0,no,yes,no,yes,yes,yes,no,no,3,2,2,1,1,5,4,14,15,15
+58,Escola1,M,15,U,LE3,T,1,2,outro,em_casa,proximidade,pai,1,2,0,yes,yes,no,yes,yes,yes,yes,no,4,3,2,1,1,5,2,9,10,9
+59,Escola1,F,16,U,GT3,T,4,2,servicos,outro,curso preferido,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,4,2,3,1,1,5,2,15,16,16
+60,Escola1,F,16,R,GT3,T,4,4,saude,professor,outro,mae,1,2,0,no,yes,no,yes,yes,yes,no,no,2,4,4,2,3,4,6,10,11,11
+61,Escola1,F,16,U,GT3,T,1,1,servicos,servicos,curso preferido,pai,4,1,0,yes,yes,no,yes,no,yes,yes,yes,5,5,5,5,5,5,6,10,8,11
+62,Escola1,F,16,U,LE3,T,1,2,outro,servicos,reputacao,pai,1,2,0,yes,no,no,yes,yes,yes,yes,no,4,4,3,1,1,1,4,8,10,9
+63,Escola1,F,16,U,GT3,T,4,3,professor,saude,proximidade,mae,1,3,0,yes,yes,yes,yes,yes,yes,yes,no,3,4,4,2,4,4,2,10,9,9
+64,Escola1,F,15,U,LE3,T,4,3,servicos,servicos,reputacao,pai,1,2,0,yes,no,no,yes,yes,yes,yes,yes,4,4,4,2,4,2,0,10,10,10
+65,Escola1,F,16,U,LE3,T,4,3,professor,servicos,curso preferido,mae,3,2,0,no,yes,no,yes,yes,yes,yes,no,5,4,3,1,2,1,2,16,15,15
+66,Escola1,M,15,U,GT3,A,4,4,outro,servicos,reputacao,mae,1,4,0,no,yes,no,yes,no,yes,yes,yes,1,3,3,5,5,3,4,13,13,12
+67,Escola1,F,16,U,GT3,T,3,1,servicos,outro,curso preferido,mae,1,4,0,yes,yes,yes,no,yes,yes,yes,no,4,3,3,1,2,5,4,7,7,6
+68,Escola1,F,15,R,LE3,T,2,2,saude,servicos,reputacao,mae,2,2,0,yes,yes,yes,no,yes,yes,yes,no,4,1,3,1,3,4,2,8,9,8
+69,Escola1,F,15,R,LE3,T,3,1,outro,outro,reputacao,pai,2,4,0,no,yes,no,no,no,yes,yes,no,4,4,2,2,3,3,12,16,16,16
+70,Escola1,M,16,U,GT3,T,3,1,outro,outro,reputacao,pai,2,4,0,no,yes,yes,no,yes,yes,yes,no,4,3,2,1,1,5,0,13,15,15
+71,Escola1,M,15,U,GT3,T,4,2,outro,outro,curso preferido,mae,1,4,0,no,no,no,no,yes,yes,yes,no,3,3,3,1,1,3,0,10,10,10
+72,Escola1,F,15,R,GT3,T,1,1,outro,outro,reputacao,mae,1,2,2,yes,yes,no,no,no,yes,yes,yes,3,3,4,2,4,5,2,8,6,5
+73,Escola1,M,16,U,GT3,T,3,1,outro,outro,reputacao,mae,1,1,0,no,no,no,yes,yes,yes,no,no,5,3,2,2,2,5,2,12,12,14
+74,Escola1,F,16,U,GT3,T,3,3,outro,servicos,proximidade,mae,1,2,0,yes,yes,yes,yes,yes,yes,yes,no,4,3,3,2,4,5,54,11,12,11
+75,Escola1,M,15,U,GT3,T,4,3,professor,outro,proximidade,mae,1,2,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,2,3,5,6,9,9,10
+76,Escola1,M,15,U,GT3,T,4,0,professor,outro,curso preferido,mae,2,4,0,no,no,no,yes,yes,yes,yes,no,3,4,3,1,1,1,8,11,11,10
+77,Escola1,F,16,U,GT3,T,2,2,outro,outro,reputacao,mae,1,4,0,no,no,yes,no,yes,yes,yes,yes,5,2,3,1,3,3,0,11,11,11
+78,Escola1,M,17,U,GT3,T,2,1,outro,outro,proximidade,mae,2,1,3,yes,yes,no,yes,yes,no,yes,no,4,5,1,1,1,3,2,8,8,10
+79,Escola1,F,16,U,GT3,T,3,4,em_casa,outro,curso preferido,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,2,4,3,1,2,3,12,5,5,5
+80,Escola1,M,15,U,GT3,T,2,3,outro,servicos,curso preferido,pai,1,1,0,yes,yes,yes,yes,no,yes,yes,yes,3,2,2,1,3,3,2,10,12,12
+81,Escola1,M,15,U,GT3,T,2,3,outro,outro,proximidade,mae,1,3,0,yes,no,yes,no,no,yes,yes,no,5,3,2,1,2,5,4,11,10,11
+82,Escola1,F,15,U,LE3,T,3,2,servicos,outro,reputacao,mae,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,4,4,1,1,5,10,7,6,6
+83,Escola1,M,15,U,LE3,T,2,2,servicos,servicos,proximidade,mae,2,2,0,no,no,yes,yes,yes,yes,yes,no,5,3,3,1,3,4,4,15,15,15
+84,Escola1,F,15,U,GT3,T,1,1,outro,outro,proximidade,pai,1,2,0,no,yes,no,yes,no,yes,yes,no,4,3,2,2,3,4,2,9,10,10
+85,Escola1,F,15,U,GT3,T,4,4,servicos,servicos,reputacao,pai,2,2,2,no,no,yes,no,yes,yes,yes,yes,4,4,4,2,3,5,6,7,9,8
+86,Escola1,F,16,U,LE3,T,2,2,em_casa,outro,curso preferido,mae,1,2,0,no,yes,no,no,yes,yes,no,no,4,3,4,1,2,2,4,8,7,6
+87,Escola1,F,15,U,GT3,T,4,2,outro,outro,reputacao,mae,1,3,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,3,1,4,13,14,14
+88,Escola1,M,16,U,GT3,T,2,2,servicos,outro,reputacao,pai,2,2,1,no,no,yes,yes,no,yes,yes,no,4,4,2,1,1,3,12,11,10,10
+89,Escola1,M,16,U,LE3,A,4,4,professor,saude,reputacao,mae,1,2,0,no,yes,no,no,yes,yes,no,no,4,1,3,3,5,5,18,8,6,7
+90,Escola1,F,16,U,GT3,T,3,3,outro,outro,proximidade,mae,1,3,0,no,yes,yes,no,yes,yes,yes,yes,4,3,3,1,3,4,0,7,7,8
+91,Escola1,F,15,U,GT3,T,4,3,servicos,outro,reputacao,mae,1,1,0,no,no,yes,yes,yes,yes,yes,no,4,5,5,1,3,1,4,16,17,18
+92,Escola1,F,16,U,LE3,T,3,1,outro,outro,proximidade,pai,1,2,0,yes,yes,no,no,yes,yes,no,no,3,3,3,2,3,2,4,7,6,6
+93,Escola1,F,16,U,GT3,T,4,2,professor,servicos,proximidade,mae,2,2,0,no,yes,yes,yes,yes,yes,yes,no,5,3,3,1,1,1,0,11,10,10
+94,Escola1,M,15,U,LE3,T,2,2,servicos,saude,reputacao,mae,1,4,0,no,yes,no,yes,yes,yes,yes,no,4,3,4,1,1,4,6,11,13,14
+95,Escola1,F,15,R,GT3,T,1,1,em_casa,outro,proximidade,mae,2,4,1,yes,yes,yes,yes,yes,yes,yes,no,3,1,2,1,1,1,2,7,10,10
+96,Escola1,M,16,R,GT3,T,4,3,servicos,outro,reputacao,mae,2,1,0,yes,yes,no,yes,no,yes,yes,no,3,3,3,1,1,4,2,11,15,15
+97,Escola1,F,16,U,GT3,T,2,1,outro,outro,curso preferido,mae,1,2,0,no,yes,yes,no,yes,yes,no,yes,4,3,5,1,1,5,2,8,9,10
+98,Escola1,F,16,U,GT3,T,4,4,outro,outro,reputacao,mae,1,1,0,no,no,no,yes,no,yes,yes,no,5,3,4,1,2,1,6,11,14,14
+99,Escola1,F,16,U,GT3,T,4,3,outro,em_casa,curso preferido,mae,1,3,0,yes,yes,yes,no,yes,yes,yes,no,5,3,5,1,1,3,0,7,9,8
+100,Escola1,M,16,U,GT3,T,4,4,servicos,servicos,outro,mae,1,1,0,yes,yes,yes,yes,yes,yes,yes,no,4,5,5,5,5,4,14,7,7,5
+101,Escola1,M,16,U,GT3,T,4,4,servicos,professor,outro,pai,1,3,0,no,yes,no,yes,yes,yes,yes,yes,4,4,3,1,1,4,0,16,17,17
+102,Escola1,M,15,U,GT3,T,4,4,servicos,outro,curso preferido,mae,1,1,0,no,yes,no,yes,no,yes,yes,no,5,3,3,1,1,5,4,10,13,14
+103,Escola1,F,15,U,GT3,T,3,2,servicos,outro,proximidade,mae,2,2,0,yes,yes,yes,no,yes,yes,yes,no,4,3,5,1,1,2,26,7,6,6
+104,Escola1,M,15,U,GT3,A,3,4,servicos,outro,curso preferido,mae,1,2,0,no,yes,yes,yes,yes,yes,yes,no,5,4,4,1,1,1,0,16,18,18
+105,Escola1,F,15,U,GT3,A,3,3,outro,saude,reputacao,pai,1,4,0,yes,no,no,no,yes,yes,no,no,4,3,3,1,1,4,10,10,11,11
+106,Escola1,F,15,U,GT3,T,2,2,outro,outro,curso preferido,mae,1,4,0,yes,yes,yes,no,yes,yes,yes,no,5,1,2,1,1,3,8,7,8,8
+107,Escola1,M,16,U,GT3,T,3,3,servicos,outro,proximidade,pai,1,3,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,1,5,2,16,18,18
+108,Escola1,M,15,R,GT3,T,4,4,outro,outro,proximidade,pai,4,4,0,no,yes,yes,yes,yes,yes,yes,yes,1,3,5,3,5,1,6,10,13,13
+109,Escola1,F,16,U,LE3,T,4,4,saude,saude,outro,mae,1,3,0,no,yes,yes,yes,yes,yes,yes,yes,5,4,5,1,1,4,4,14,15,16
+110,Escola1,M,15,U,LE3,A,4,4,professor,professor,curso preferido,mae,1,1,0,no,no,no,yes,yes,yes,yes,no,5,5,3,1,1,4,6,18,19,19
+111,Escola1,F,16,R,GT3,T,3,3,servicos,outro,reputacao,pai,1,3,1,yes,yes,no,yes,yes,yes,yes,no,4,1,2,1,1,2,0,7,10,10
+112,Escola1,F,16,U,GT3,T,2,2,em_casa,outro,proximidade,mae,1,2,1,yes,no,no,yes,yes,yes,yes,no,3,1,2,1,1,5,6,10,13,13
+113,Escola1,M,15,U,LE3,T,4,2,professor,outro,curso preferido,mae,1,1,0,no,no,no,no,yes,yes,yes,no,3,5,2,1,1,3,10,18,19,19
+114,Escola1,M,15,R,GT3,T,2,1,saude,servicos,reputacao,mae,1,2,0,no,no,no,yes,yes,yes,yes,yes,5,4,2,1,1,5,8,9,9,9
+115,Escola1,M,16,U,GT3,T,4,4,professor,professor,curso preferido,pai,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,4,4,1,2,5,2,15,15,16
+116,Escola1,M,15,U,GT3,T,4,4,outro,professor,reputacao,pai,2,2,0,no,yes,no,yes,yes,yes,no,no,4,4,3,1,1,2,2,11,13,14
+117,Escola1,M,16,U,GT3,T,3,3,outro,servicos,proximidade,pai,2,1,0,no,no,no,yes,yes,yes,yes,no,5,4,2,1,1,5,0,13,14,13
+118,Escola1,M,17,R,GT3,T,1,3,outro,outro,curso preferido,pai,3,2,1,no,yes,no,yes,yes,yes,yes,no,5,2,4,1,4,5,20,9,7,8
+119,Escola1,M,15,U,GT3,T,3,4,outro,outro,reputacao,pai,1,1,0,no,no,no,no,yes,yes,yes,no,3,4,3,1,2,4,6,14,13,13
+120,Escola1,F,15,U,GT3,T,1,2,em_casa,servicos,curso preferido,mae,1,2,0,no,no,no,no,no,yes,yes,no,3,2,3,1,2,1,2,16,15,15
+121,Escola1,M,15,U,GT3,T,2,2,servicos,servicos,proximidade,pai,1,4,0,no,yes,yes,yes,yes,yes,yes,no,5,5,4,1,2,5,6,16,14,15
+122,Escola1,F,16,U,LE3,T,2,4,outro,saude,curso preferido,pai,2,2,0,no,yes,yes,yes,yes,yes,yes,yes,4,2,2,1,2,5,2,13,13,13
+123,Escola1,M,16,U,GT3,T,4,4,saude,outro,curso preferido,mae,1,1,0,no,yes,no,yes,yes,yes,yes,no,3,4,4,1,4,5,18,14,11,13
+124,Escola1,F,16,U,GT3,T,2,2,outro,outro,proximidade,mae,1,2,0,no,no,yes,no,yes,yes,yes,yes,5,4,4,1,1,5,0,8,7,8
+125,Escola1,M,15,U,GT3,T,3,4,servicos,servicos,proximidade,pai,1,1,0,yes,no,no,no,yes,yes,yes,no,5,5,5,3,2,5,0,13,13,12
+126,Escola1,F,15,U,LE3,A,3,4,outro,outro,proximidade,mae,1,2,0,yes,no,no,yes,yes,yes,yes,yes,5,3,2,1,1,1,0,7,10,11
+127,Escola1,F,19,U,GT3,T,0,1,em_casa,outro,curso preferido,outro,1,2,3,no,yes,no,no,no,no,no,no,3,4,2,1,1,5,2,7,8,9
+128,Escola1,M,18,R,GT3,T,2,2,servicos,outro,reputacao,mae,1,1,2,no,yes,no,yes,yes,yes,yes,no,3,3,3,1,2,4,0,7,4,0
+129,Escola1,M,16,R,GT3,T,4,4,professor,professor,curso preferido,mae,1,1,0,no,no,yes,yes,yes,yes,yes,no,3,5,5,2,5,4,8,18,18,18
+130,Escola1,F,15,R,GT3,T,3,4,servicos,professor,curso preferido,pai,2,3,2,no,yes,no,no,yes,yes,yes,yes,4,2,2,2,2,5,0,12,0,0
+131,Escola1,F,15,U,GT3,T,1,1,em_casa,outro,curso preferido,mae,3,1,0,no,yes,no,yes,no,yes,yes,yes,4,3,3,1,2,4,0,8,0,0
+132,Escola1,F,17,U,LE3,T,2,2,outro,outro,curso preferido,pai,1,1,0,no,yes,no,no,yes,yes,yes,yes,3,4,4,1,3,5,12,10,13,12
+133,Escola1,F,16,U,GT3,A,3,4,servicos,outro,curso preferido,pai,1,1,0,no,no,no,no,yes,yes,yes,no,3,2,1,1,4,5,16,12,11,11
+134,Escola1,M,15,R,GT3,T,3,4,em_casa,professor,curso preferido,mae,4,2,0,no,yes,no,no,yes,yes,no,yes,5,3,3,1,1,5,0,9,0,0
+135,Escola1,F,15,U,GT3,T,4,4,servicos,em_casa,curso preferido,mae,1,3,0,no,yes,no,yes,yes,yes,yes,yes,4,3,3,1,1,5,0,11,0,0
+136,Escola1,M,17,R,GT3,T,3,4,em_casa,outro,curso preferido,mae,3,2,0,no,no,no,no,yes,yes,no,no,5,4,5,2,4,5,0,10,0,0
+137,Escola1,F,16,U,GT3,A,3,3,outro,outro,curso preferido,outro,2,1,2,no,yes,no,yes,no,yes,yes,yes,4,3,2,1,1,5,0,4,0,0
+138,Escola1,M,16,U,LE3,T,1,1,servicos,outro,curso preferido,mae,1,2,1,no,no,no,no,yes,yes,no,yes,4,4,4,1,3,5,0,14,12,12
+139,Escola1,F,15,U,GT3,T,4,4,professor,professor,curso preferido,mae,2,1,0,no,no,no,yes,yes,yes,yes,no,4,3,2,1,1,5,0,16,16,15
+140,Escola1,M,15,U,GT3,T,4,3,professor,servicos,curso preferido,pai,2,4,0,yes,yes,no,no,yes,yes,yes,no,2,2,2,1,1,3,0,7,9,0
+141,Escola1,M,16,U,LE3,T,2,2,servicos,servicos,reputacao,pai,2,1,2,no,yes,no,yes,yes,yes,yes,no,2,3,3,2,2,2,8,9,9,9
+142,Escola1,F,15,U,GT3,T,4,4,professor,servicos,curso preferido,mae,1,3,0,no,yes,yes,yes,yes,yes,yes,no,4,2,2,1,1,5,2,9,11,11
+143,Escola1,F,16,U,LE3,T,1,1,em_casa,em_casa,curso preferido,mae,1,1,0,no,no,no,no,yes,yes,yes,no,3,4,4,3,3,1,2,14,14,13
+144,Escola1,M,17,U,GT3,T,2,1,outro,outro,proximidade,mae,1,1,3,no,yes,no,no,yes,yes,yes,no,5,4,5,1,2,5,0,5,0,0
+145,Escola1,F,15,U,GT3,T,1,1,outro,servicos,curso preferido,pai,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,4,2,1,2,5,0,8,11,11
+146,Escola1,F,15,U,GT3,T,3,2,saude,servicos,proximidade,pai,1,2,3,no,yes,no,no,yes,yes,yes,no,3,3,2,1,1,3,0,6,7,0
+147,Escola1,F,15,U,GT3,T,1,2,em_casa,outro,curso preferido,mae,1,2,0,no,yes,yes,no,no,yes,yes,no,4,3,2,1,1,5,2,10,11,11
+148,Escola1,M,16,U,GT3,T,4,4,professor,professor,curso preferido,mae,1,1,0,no,yes,no,no,yes,no,yes,yes,3,3,2,2,1,5,0,7,6,0
+149,Escola1,M,15,U,LE3,A,2,1,servicos,outro,curso preferido,mae,4,1,3,no,no,no,no,yes,yes,yes,no,4,5,5,2,5,5,0,8,9,10
+150,Escola1,M,18,U,LE3,T,1,1,outro,outro,curso preferido,mae,1,1,3,no,no,no,no,yes,no,yes,yes,2,3,5,2,5,4,0,6,5,0
+151,Escola1,M,16,U,LE3,T,2,1,em_casa,outro,curso preferido,mae,1,1,1,no,no,no,yes,yes,yes,no,yes,4,4,4,3,5,5,6,12,13,14
+152,Escola1,F,15,R,GT3,T,3,3,servicos,servicos,reputacao,outro,2,3,2,no,yes,yes,yes,yes,yes,yes,yes,4,2,1,2,3,3,8,10,10,10
+153,Escola1,M,19,U,GT3,T,3,2,servicos,em_casa,proximidade,mae,1,1,3,no,yes,no,no,yes,no,yes,yes,4,5,4,1,1,4,0,5,0,0
+154,Escola1,F,17,U,GT3,T,4,4,outro,professor,curso preferido,mae,1,1,0,yes,yes,no,no,yes,yes,no,yes,4,2,1,1,1,4,0,11,11,12
+155,Escola1,M,15,R,GT3,T,2,3,em_casa,servicos,curso preferido,mae,1,2,0,yes,no,yes,yes,yes,yes,no,no,4,4,4,1,1,1,2,11,8,8
+156,Escola1,M,17,R,LE3,T,1,2,outro,outro,reputacao,mae,1,1,0,no,no,no,no,yes,yes,no,no,2,2,2,3,3,5,8,16,12,13
+157,Escola1,F,18,R,GT3,T,1,1,em_casa,outro,curso preferido,mae,3,1,3,no,yes,no,yes,no,yes,no,no,5,2,5,1,5,4,6,9,8,10
+158,Escola1,M,16,R,GT3,T,2,2,em_casa,outro,curso preferido,mae,3,1,0,no,no,no,no,no,yes,no,no,4,2,2,1,2,3,2,17,15,15
+159,Escola1,M,16,U,GT3,T,3,3,outro,servicos,curso preferido,pai,1,2,1,no,yes,yes,no,yes,yes,yes,yes,4,5,5,4,4,5,4,10,12,12
+160,Escola1,M,17,R,LE3,T,2,1,em_casa,outro,curso preferido,mae,2,1,2,no,no,no,yes,yes,no,yes,yes,3,3,2,2,2,5,0,7,6,0
+161,Escola1,M,15,R,GT3,T,3,2,outro,outro,curso preferido,mae,2,2,2,yes,yes,no,no,yes,yes,yes,yes,4,4,4,1,4,3,6,5,9,7
+162,Escola1,M,16,U,LE3,T,1,2,outro,outro,curso preferido,mae,2,1,1,no,no,no,yes,yes,yes,no,no,4,4,4,2,4,5,0,7,0,0
+163,Escola1,M,17,U,GT3,T,1,3,em_casa,servicos,curso preferido,pai,1,1,0,no,no,no,no,yes,no,yes,no,5,3,3,1,4,2,2,10,10,10
+164,Escola1,M,17,R,LE3,T,1,1,outro,servicos,curso preferido,mae,4,2,3,no,no,no,yes,yes,no,no,yes,5,3,5,1,5,5,0,5,8,7
+165,Escola1,M,16,U,GT3,T,3,2,servicos,servicos,curso preferido,mae,2,1,1,no,yes,no,yes,no,no,no,no,4,5,2,1,1,2,16,12,11,12
+166,Escola1,M,16,U,GT3,T,2,2,outro,outro,curso preferido,pai,1,2,0,no,no,no,no,yes,no,yes,no,4,3,5,2,4,4,4,10,10,10
+167,Escola1,F,16,U,GT3,T,4,2,saude,servicos,proximidade,pai,1,2,0,no,no,yes,no,yes,yes,yes,yes,4,2,3,1,1,3,0,14,15,16
+168,Escola1,F,16,U,GT3,T,2,2,outro,outro,proximidade,mae,1,2,0,no,yes,yes,no,no,yes,yes,no,5,1,5,1,1,4,0,6,7,0
+169,Escola1,F,16,U,GT3,T,4,4,saude,saude,reputacao,mae,1,2,0,no,yes,yes,no,yes,yes,yes,yes,4,4,2,1,1,3,0,14,14,14
+170,Escola1,M,16,U,GT3,T,3,4,outro,outro,curso preferido,pai,3,1,2,no,yes,no,yes,no,yes,yes,no,3,4,5,2,4,2,0,6,5,0
+171,Escola1,M,16,U,GT3,T,1,0,outro,outro,reputacao,mae,2,2,0,no,yes,yes,yes,yes,yes,yes,yes,4,3,2,1,1,3,2,13,15,16
+172,Escola1,M,17,U,LE3,T,4,4,professor,outro,reputacao,mae,1,2,0,no,yes,yes,yes,yes,yes,yes,no,4,4,4,1,3,5,0,13,11,10
+173,Escola1,F,16,U,GT3,T,1,3,em_casa,servicos,proximidade,mae,1,2,3,no,no,no,yes,no,yes,yes,yes,4,3,5,1,1,3,0,8,7,0
+174,Escola1,F,16,U,LE3,T,3,3,outro,outro,reputacao,mae,2,2,0,no,yes,yes,yes,yes,yes,yes,no,4,4,5,1,1,4,4,10,11,9
+175,Escola1,M,17,U,LE3,T,4,3,professor,outro,curso preferido,mae,2,2,0,no,no,yes,yes,yes,yes,yes,no,4,4,4,4,4,4,4,10,9,9
+176,Escola1,F,16,U,GT3,T,2,2,servicos,outro,reputacao,mae,2,2,0,no,no,yes,yes,no,yes,yes,no,3,4,4,1,4,5,2,13,13,11
+177,Escola1,M,17,U,GT3,T,3,3,outro,outro,reputacao,pai,1,2,0,no,no,no,yes,no,yes,yes,no,4,3,4,1,4,4,4,6,5,6
+178,Escola1,M,16,R,GT3,T,4,2,professor,servicos,outro,mae,1,1,0,no,yes,no,yes,yes,yes,yes,yes,4,3,3,3,4,3,10,10,8,9
+179,Escola1,M,17,U,GT3,T,4,3,outro,outro,curso preferido,mae,1,2,0,no,yes,no,yes,yes,yes,yes,yes,5,2,3,1,1,2,4,10,10,11
+180,Escola1,M,16,U,GT3,T,4,3,professor,outro,proximidade,mae,1,2,0,no,yes,yes,yes,yes,yes,yes,no,3,4,3,2,3,3,10,9,8,8
+181,Escola1,M,16,U,GT3,T,3,3,servicos,outro,proximidade,mae,1,2,0,no,no,yes,yes,yes,yes,yes,yes,4,2,3,1,2,3,2,12,13,12
+182,Escola1,F,17,U,GT3,T,2,4,servicos,servicos,reputacao,pai,1,2,0,no,yes,no,yes,yes,yes,no,no,5,4,2,2,3,5,0,16,17,17
+183,Escola1,F,17,U,LE3,T,3,3,outro,outro,reputacao,mae,1,2,0,no,yes,no,yes,yes,yes,yes,yes,5,3,3,2,3,1,56,9,9,8
+184,Escola1,F,16,U,GT3,T,3,2,outro,outro,reputacao,mae,1,2,0,no,yes,yes,no,yes,yes,yes,no,1,2,2,1,2,1,14,12,13,12
+185,Escola1,M,17,U,GT3,T,3,3,servicos,servicos,outro,mae,1,2,0,no,yes,no,yes,yes,yes,yes,yes,4,3,4,2,3,4,12,12,12,11
+186,Escola1,M,16,U,GT3,T,1,2,servicos,servicos,outro,mae,1,1,0,no,yes,yes,yes,yes,yes,yes,yes,3,3,3,1,2,3,2,11,12,11
+187,Escola1,M,16,U,LE3,T,2,1,outro,outro,curso preferido,mae,1,2,0,no,no,yes,yes,yes,yes,yes,yes,4,2,3,1,2,5,0,15,15,15
+188,Escola1,F,17,U,GT3,A,3,3,saude,outro,reputacao,mae,1,2,0,no,yes,no,no,no,yes,yes,yes,3,3,3,1,3,3,6,8,7,9
+189,Escola1,M,17,R,GT3,T,1,2,em_casa,outro,proximidade,mae,1,2,0,no,no,no,no,yes,yes,no,no,3,1,3,1,5,3,4,8,9,10
+190,Escola1,F,16,U,GT3,T,2,3,servicos,servicos,curso preferido,mae,1,2,0,no,no,no,no,yes,yes,yes,no,4,3,3,1,1,2,10,11,12,13
+191,Escola1,F,17,U,GT3,T,1,1,em_casa,servicos,curso preferido,mae,1,2,0,no,no,no,yes,yes,yes,yes,no,5,3,3,1,1,3,0,8,8,9
+192,Escola1,M,17,U,GT3,T,1,2,em_casa,servicos,outro,outro,2,2,0,no,no,yes,yes,no,yes,yes,no,4,4,4,4,5,5,12,7,8,8
+193,Escola1,M,16,R,GT3,T,3,3,servicos,servicos,reputacao,mae,1,1,0,no,yes,no,yes,yes,yes,yes,no,4,3,2,3,4,5,8,8,9,10
+194,Escola1,M,16,U,GT3,T,2,3,outro,outro,proximidade,pai,2,1,0,no,no,no,no,yes,yes,yes,no,5,3,3,1,1,3,0,13,14,14
+195,Escola1,F,17,U,LE3,T,2,4,servicos,servicos,curso preferido,pai,1,2,0,no,no,no,yes,yes,yes,yes,yes,4,3,2,1,1,5,0,14,15,15
+196,Escola1,M,17,U,GT3,T,4,4,servicos,professor,proximidade,mae,1,1,0,no,no,no,no,yes,yes,yes,no,5,2,3,1,2,5,4,17,15,16
+197,Escola1,M,16,R,LE3,T,3,3,professor,outro,proximidade,pai,3,1,0,no,yes,yes,yes,yes,yes,yes,no,3,3,4,3,5,3,8,9,9,10
+198,Escola1,F,17,U,GT3,T,4,4,servicos,professor,proximidade,mae,2,1,1,no,yes,no,no,yes,yes,yes,no,4,2,4,2,3,2,24,18,18,18
+199,Escola1,F,16,U,LE3,T,4,4,professor,professor,reputacao,mae,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,5,2,1,2,3,0,9,9,10
+200,Escola1,F,16,U,GT3,T,4,3,saude,outro,proximidade,mae,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,5,1,5,2,2,16,16,16
+201,Escola1,F,16,U,GT3,T,2,3,outro,outro,reputacao,mae,1,2,0,yes,yes,yes,yes,yes,yes,no,no,4,4,3,1,3,4,6,8,10,10
+202,Escola1,F,17,U,GT3,T,1,1,outro,outro,curso preferido,mae,1,2,0,no,yes,yes,no,no,yes,no,no,4,4,4,1,3,1,4,9,9,10
+203,Escola1,F,17,R,GT3,T,2,2,outro,outro,reputacao,mae,1,1,0,no,yes,no,no,yes,yes,yes,no,5,3,2,1,2,3,18,7,6,6
+204,Escola1,F,16,R,GT3,T,2,2,servicos,servicos,reputacao,mae,2,4,0,no,yes,yes,yes,no,yes,yes,no,5,3,5,1,1,5,6,10,10,11
+205,Escola1,F,17,U,GT3,T,3,4,em_casa,servicos,proximidade,mae,1,3,1,no,yes,yes,no,yes,yes,yes,yes,4,4,3,3,4,5,28,10,9,9
+206,Escola1,F,16,U,GT3,A,3,1,servicos,outro,curso preferido,mae,1,2,3,no,yes,yes,no,yes,yes,yes,no,2,3,3,2,2,4,5,7,7,7
+207,Escola1,F,16,U,GT3,T,4,3,professor,outro,outro,mae,1,2,0,no,no,yes,yes,yes,yes,yes,yes,1,3,2,1,1,1,10,11,12,13
+208,Escola1,F,16,U,GT3,T,1,1,em_casa,outro,proximidade,mae,2,1,0,no,yes,yes,no,yes,yes,no,no,4,3,2,1,4,5,6,9,9,10
+209,Escola1,F,17,R,GT3,T,4,3,professor,outro,reputacao,mae,2,3,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,2,1,1,4,6,7,7,7
+210,Escola1,F,19,U,GT3,T,3,3,outro,outro,reputacao,outro,1,4,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,1,2,3,10,8,8,8
+211,Escola1,M,17,U,LE3,T,4,4,servicos,outro,proximidade,mae,1,2,0,no,yes,yes,no,yes,yes,yes,yes,5,3,5,4,5,3,13,12,12,13
+212,Escola1,F,16,U,GT3,A,2,2,outro,outro,reputacao,mae,1,2,0,yes,yes,yes,no,yes,yes,yes,no,3,3,4,1,1,4,0,12,13,14
+213,Escola1,M,18,U,GT3,T,2,2,servicos,outro,proximidade,mae,1,2,1,no,yes,yes,yes,yes,yes,yes,no,4,4,4,2,4,5,15,6,7,8
+214,Escola1,F,17,R,LE3,T,4,4,servicos,outro,outro,mae,1,1,0,no,yes,yes,no,yes,yes,no,no,5,2,1,1,2,3,12,8,10,10
+215,Escola1,F,17,U,LE3,T,3,2,outro,outro,reputacao,mae,2,2,0,no,no,yes,no,yes,yes,yes,no,4,4,4,1,3,1,2,14,15,15
+216,Escola1,F,17,U,GT3,T,4,3,outro,outro,reputacao,mae,1,2,2,no,no,yes,no,yes,yes,yes,yes,3,4,5,2,4,1,22,6,6,4
+217,Escola1,M,18,U,LE3,T,3,3,servicos,saude,proximidade,pai,1,2,1,no,yes,yes,no,yes,yes,yes,no,3,2,4,2,4,4,13,6,6,8
+218,Escola1,F,17,U,GT3,T,2,3,em_casa,outro,proximidade,pai,2,1,0,no,yes,yes,no,yes,yes,no,no,3,3,3,1,4,3,3,7,7,8
+219,Escola1,F,17,U,GT3,T,2,2,em_casa,em_casa,curso preferido,mae,1,3,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,1,1,4,4,9,10,10
+220,Escola1,F,17,R,GT3,T,2,1,em_casa,servicos,reputacao,mae,2,2,0,no,yes,no,yes,yes,yes,yes,no,4,2,5,1,2,5,2,6,6,6
+221,Escola1,F,17,U,GT3,T,1,1,em_casa,outro,reputacao,mae,1,3,1,no,yes,no,yes,yes,yes,no,yes,4,3,4,1,1,5,0,6,5,0
+222,Escola1,F,16,U,GT3,T,2,3,servicos,professor,outro,mae,1,2,0,yes,no,no,no,yes,yes,yes,no,2,3,1,1,1,3,2,16,16,17
+223,Escola1,M,18,U,GT3,T,2,2,outro,outro,proximidade,mae,2,2,0,no,yes,yes,no,yes,yes,yes,no,3,3,3,5,5,4,0,12,13,13
+224,Escola1,F,16,U,GT3,T,4,4,professor,servicos,proximidade,mae,1,3,0,no,yes,no,yes,no,yes,yes,no,5,3,2,1,1,5,0,13,13,14
+225,Escola1,F,18,R,GT3,T,3,1,outro,outro,reputacao,mae,1,2,1,no,no,no,yes,yes,yes,yes,yes,5,3,3,1,1,4,16,9,8,7
+226,Escola1,F,17,U,GT3,T,3,2,outro,outro,curso preferido,mae,1,2,0,no,no,no,yes,no,yes,yes,no,5,3,4,1,3,3,10,16,15,15
+227,Escola1,M,17,U,LE3,T,2,3,servicos,servicos,reputacao,pai,1,2,0,no,yes,yes,no,no,yes,yes,no,5,3,3,1,3,3,2,12,11,12
+228,Escola1,M,18,U,LE3,T,2,1,em_casa,outro,curso preferido,mae,4,2,0,yes,yes,yes,yes,yes,yes,yes,yes,4,3,2,4,5,3,14,10,8,9
+229,Escola1,F,17,U,GT3,A,2,1,outro,outro,curso preferido,mae,2,3,0,no,no,no,yes,yes,yes,yes,yes,3,2,3,1,2,3,10,12,10,12
+230,Escola1,F,17,U,LE3,T,4,3,saude,outro,reputacao,pai,1,2,0,no,no,no,yes,yes,yes,yes,yes,3,2,3,1,2,3,14,13,13,14
+231,Escola1,M,17,R,GT3,T,2,2,outro,outro,curso preferido,pai,2,2,0,no,yes,yes,yes,yes,yes,yes,no,4,5,2,1,1,1,4,11,11,11
+232,Escola1,M,17,U,GT3,T,4,4,professor,professor,reputacao,mae,1,2,0,yes,yes,no,yes,yes,yes,yes,yes,4,5,5,1,3,2,14,11,9,9
+233,Escola1,M,16,U,GT3,T,4,4,saude,outro,reputacao,pai,1,2,0,no,yes,yes,yes,yes,yes,yes,no,4,2,4,2,4,1,2,14,13,13
+234,Escola1,M,16,U,LE3,T,1,1,outro,outro,proximidade,mae,2,2,0,no,yes,yes,no,yes,yes,yes,no,3,4,2,1,1,5,18,9,7,6
+235,Escola1,M,16,U,GT3,T,3,2,em_casa,outro,reputacao,mae,2,3,0,no,no,no,yes,yes,yes,yes,yes,5,3,3,1,3,2,10,11,9,10
+236,Escola1,M,17,U,LE3,T,2,2,outro,outro,proximidade,pai,1,2,0,no,no,yes,yes,no,yes,yes,yes,4,4,2,5,5,4,4,14,13,13
+237,Escola1,F,16,U,GT3,T,2,1,outro,outro,proximidade,mae,1,1,0,no,no,no,no,yes,yes,yes,yes,4,5,2,1,1,5,20,13,12,12
+238,Escola1,F,17,R,GT3,T,2,1,em_casa,servicos,curso preferido,mae,3,2,0,no,no,no,yes,yes,yes,no,no,2,1,1,1,1,3,2,13,11,11
+239,Escola1,M,18,U,GT3,T,2,2,outro,servicos,reputacao,pai,1,2,1,no,no,no,no,yes,no,yes,no,5,5,4,3,5,2,0,7,7,0
+240,Escola1,M,17,U,LE3,T,4,3,saude,outro,curso preferido,mae,2,2,0,no,no,no,yes,yes,yes,yes,yes,2,5,5,1,4,5,14,12,12,12
+241,Escola1,M,17,R,LE3,A,4,4,professor,outro,curso preferido,mae,2,2,0,no,yes,yes,no,yes,yes,yes,no,3,3,3,2,3,4,2,10,11,12
+242,Escola1,M,16,U,LE3,T,4,3,professor,outro,curso preferido,mae,1,1,0,no,no,no,yes,no,yes,yes,no,5,4,5,1,1,3,0,6,0,0
+243,Escola1,M,16,U,GT3,T,4,4,servicos,servicos,curso preferido,mae,1,1,0,no,no,no,yes,yes,yes,yes,no,5,3,2,1,2,5,0,13,12,12
+244,Escola1,F,18,U,GT3,T,2,1,outro,outro,curso preferido,outro,2,3,0,no,yes,yes,no,no,yes,yes,yes,4,4,4,1,1,3,0,7,0,0
+245,Escola1,M,16,U,GT3,T,2,1,outro,outro,curso preferido,mae,3,1,0,no,no,no,no,yes,yes,yes,no,4,3,3,1,1,4,6,18,18,18
+246,Escola1,M,17,U,GT3,T,2,3,outro,outro,curso preferido,pai,2,1,0,no,no,no,no,yes,yes,yes,no,5,2,2,1,1,2,4,12,12,13
+247,Escola1,M,22,U,GT3,T,3,1,servicos,servicos,outro,mae,1,1,3,no,no,no,no,no,no,yes,yes,5,4,5,5,5,1,16,6,8,8
+248,Escola1,M,18,R,LE3,T,3,3,outro,servicos,curso preferido,mae,1,2,1,no,yes,no,no,yes,yes,yes,yes,4,3,3,1,3,5,8,3,5,5
+249,Escola1,M,16,U,GT3,T,0,2,outro,outro,outro,mae,1,1,0,no,no,yes,no,no,yes,yes,no,4,3,2,2,4,5,0,13,15,15
+250,Escola1,M,18,U,GT3,T,3,2,servicos,outro,curso preferido,mae,2,1,1,no,no,no,no,yes,no,yes,no,4,4,5,2,4,5,0,6,8,8
+251,Escola1,M,16,U,GT3,T,3,3,em_casa,outro,reputacao,outro,3,2,0,yes,yes,no,no,no,yes,yes,no,5,3,3,1,3,2,6,7,10,10
+252,Escola1,M,18,U,GT3,T,2,1,servicos,servicos,outro,mae,1,1,1,no,no,no,no,no,no,yes,no,3,2,5,2,5,5,4,6,9,8
+253,Escola1,M,16,R,GT3,T,2,1,outro,outro,curso preferido,mae,2,1,0,no,no,no,yes,no,yes,no,no,3,3,2,1,3,3,0,8,9,8
+254,Escola1,M,17,R,GT3,T,2,1,outro,outro,curso preferido,mae,1,1,0,no,no,no,no,no,yes,yes,no,4,4,2,2,4,5,0,8,12,12
+255,Escola1,M,17,U,LE3,T,1,1,saude,outro,curso preferido,mae,2,1,1,no,yes,no,yes,yes,yes,yes,no,4,4,4,1,2,5,2,7,9,8
+256,Escola1,F,17,U,LE3,T,4,2,professor,servicos,reputacao,mae,1,4,0,no,yes,yes,yes,yes,yes,yes,no,4,2,3,1,1,4,6,14,12,13
+257,Escola1,M,19,U,LE3,A,4,3,servicos,em_casa,reputacao,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,4,3,1,1,1,1,12,11,11,11
+258,Escola1,M,18,U,GT3,T,2,1,outro,outro,proximidade,mae,1,2,0,no,no,no,yes,yes,yes,yes,no,5,2,4,1,2,4,8,15,14,14
+259,Escola1,F,17,U,LE3,T,2,2,servicos,servicos,curso preferido,pai,1,4,0,no,no,yes,yes,yes,yes,yes,yes,3,4,1,1,1,2,0,10,9,0
+260,Escola1,F,18,U,GT3,T,4,3,servicos,outro,proximidade,pai,1,2,0,no,yes,yes,no,yes,yes,yes,yes,3,1,2,1,3,2,21,17,18,18
+261,Escola1,M,18,U,GT3,T,4,3,professor,outro,curso preferido,mae,1,2,0,no,yes,yes,no,no,yes,yes,no,4,3,2,1,1,3,2,8,8,8
+262,Escola1,M,18,R,GT3,T,3,2,outro,outro,curso preferido,mae,1,3,0,no,no,no,yes,no,yes,no,no,5,3,2,1,1,3,1,13,12,12
+263,Escola1,F,17,U,GT3,T,3,3,outro,outro,proximidade,mae,1,3,0,no,no,no,yes,no,yes,no,no,3,2,3,1,1,4,4,10,9,9
+264,Escola1,F,18,U,GT3,T,2,2,em_casa,servicos,proximidade,mae,1,3,0,no,yes,yes,yes,yes,yes,yes,yes,4,3,3,1,1,3,0,9,10,0
+265,Escola1,M,18,R,LE3,A,3,4,outro,outro,reputacao,mae,2,2,0,no,yes,yes,yes,yes,yes,yes,no,4,2,5,3,4,1,13,17,17,17
+266,Escola1,M,17,U,GT3,T,3,1,servicos,outro,outro,mae,1,2,0,no,no,yes,yes,yes,yes,yes,yes,5,4,4,3,4,5,2,9,9,10
+267,Escola1,F,18,R,GT3,T,4,4,professor,outro,reputacao,mae,2,2,0,no,no,yes,yes,yes,yes,yes,no,4,3,4,2,2,4,8,12,10,11
+268,Escola1,M,18,U,GT3,T,4,2,saude,outro,reputacao,pai,1,2,0,no,yes,yes,yes,yes,yes,yes,yes,5,4,5,1,3,5,10,10,9,10
+269,Escola1,F,18,R,GT3,T,2,1,outro,outro,reputacao,mae,2,2,0,no,yes,no,no,yes,no,yes,yes,4,3,5,1,2,3,0,6,0,0
+270,Escola1,F,19,U,GT3,T,3,3,outro,servicos,proximidade,outro,1,2,2,no,yes,yes,yes,yes,yes,yes,no,4,3,5,3,3,5,15,9,9,9
+271,Escola1,F,18,U,GT3,T,2,3,outro,servicos,reputacao,pai,1,4,0,no,yes,yes,yes,yes,yes,yes,yes,4,5,5,1,3,2,4,15,14,14
+272,Escola1,F,18,U,LE3,T,1,1,outro,outro,proximidade,mae,2,2,0,no,yes,yes,no,no,yes,no,no,4,4,3,1,1,3,2,11,11,11
+273,Escola1,M,17,R,GT3,T,1,2,em_casa,em_casa,proximidade,mae,1,2,0,no,yes,yes,yes,no,yes,no,yes,3,5,2,2,2,1,2,15,14,14
+274,Escola1,F,17,U,GT3,T,2,4,em_casa,saude,reputacao,mae,2,2,0,no,yes,yes,no,yes,yes,yes,yes,4,3,3,1,1,1,2,10,10,10
+275,Escola1,F,17,U,LE3,T,2,2,servicos,outro,curso preferido,mae,2,2,0,yes,yes,yes,no,yes,yes,yes,yes,4,4,4,2,3,5,6,12,12,12
+276,Escola1,F,18,R,GT3,A,3,2,outro,servicos,proximidade,mae,2,2,0,no,no,no,no,no,no,yes,yes,4,1,1,1,1,5,75,10,9,9
+277,Escola1,M,18,U,GT3,T,4,4,professor,servicos,proximidade,mae,2,1,0,no,no,yes,yes,yes,yes,yes,no,3,2,4,1,4,3,22,9,9,9
+278,Escola1,F,18,U,GT3,T,4,4,saude,saude,reputacao,pai,1,2,1,yes,yes,no,yes,yes,yes,yes,yes,2,4,4,1,1,4,15,9,8,8
+279,Escola1,M,18,U,LE3,T,4,3,professor,servicos,curso preferido,mae,2,1,0,no,no,yes,yes,yes,yes,yes,no,4,2,3,1,2,1,8,10,11,10
+280,Escola1,M,17,U,LE3,A,4,1,servicos,outro,proximidade,mae,2,1,0,no,no,yes,yes,yes,yes,yes,yes,4,5,4,2,4,5,30,8,8,8
+281,Escola1,M,17,U,LE3,A,3,2,professor,servicos,proximidade,mae,1,1,1,no,no,no,no,yes,yes,yes,no,4,4,4,3,4,3,19,11,9,10
+282,Escola1,F,18,R,LE3,T,1,1,em_casa,outro,reputacao,mae,2,4,0,no,yes,yes,yes,yes,yes,no,no,5,2,2,1,1,3,1,12,12,12
+283,Escola1,F,18,U,GT3,T,1,1,outro,outro,proximidade,mae,2,2,0,yes,no,no,yes,yes,yes,yes,no,5,4,4,1,1,4,4,8,9,10
+284,Escola1,F,17,U,GT3,T,2,2,outro,outro,curso preferido,mae,1,2,0,no,yes,no,no,no,yes,yes,no,5,4,5,1,2,5,4,10,9,11
+285,Escola1,M,17,U,GT3,T,1,1,outro,outro,reputacao,pai,1,2,0,no,no,yes,no,no,yes,yes,no,4,3,3,1,2,4,2,12,10,11
+286,Escola1,F,18,U,GT3,T,2,2,em_casa,em_casa,outro,mae,1,3,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,1,2,2,5,18,18,19
+287,Escola1,F,17,U,GT3,T,1,1,servicos,professor,reputacao,mae,1,3,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,1,1,3,6,13,12,12
+288,Escola1,M,18,U,GT3,T,2,1,servicos,servicos,reputacao,mae,1,3,0,no,no,yes,yes,yes,yes,yes,no,4,2,4,1,3,2,6,15,14,14
+289,Escola1,M,18,U,LE3,A,4,4,professor,professor,reputacao,mae,1,2,0,no,yes,yes,yes,yes,yes,yes,no,5,4,3,1,1,2,9,15,13,15
+290,Escola1,M,18,U,GT3,T,4,2,professor,outro,proximidade,mae,1,2,0,no,yes,yes,yes,yes,yes,yes,yes,4,3,2,1,4,5,11,12,11,11
+291,Escola1,F,17,U,GT3,T,4,3,saude,servicos,reputacao,mae,1,3,0,no,yes,yes,no,yes,yes,yes,no,4,2,2,1,2,3,0,15,15,15
+292,Escola1,F,18,U,LE3,T,2,1,servicos,em_casa,reputacao,mae,1,2,1,no,no,no,no,yes,yes,yes,yes,5,4,3,1,1,5,12,12,12,13
+293,Escola1,F,17,R,LE3,T,3,1,servicos,outro,reputacao,mae,2,4,0,no,yes,yes,no,yes,yes,no,no,3,1,2,1,1,3,6,18,18,18
+294,Escola1,M,18,R,LE3,T,3,2,servicos,outro,reputacao,mae,2,3,0,no,yes,yes,yes,yes,yes,yes,no,5,4,2,1,1,4,8,14,13,14
+295,Escola1,M,17,U,GT3,T,3,3,saude,outro,proximidade,mae,1,1,0,no,yes,yes,no,yes,yes,yes,no,4,4,3,1,3,5,4,14,12,11
+296,Escola1,F,19,U,GT3,T,4,4,saude,outro,reputacao,outro,2,2,0,no,yes,yes,yes,yes,yes,yes,no,2,3,4,2,3,2,0,10,9,0
+297,Escola1,F,18,U,LE3,T,4,3,outro,outro,proximidade,outro,2,2,0,no,yes,yes,no,yes,yes,yes,yes,4,4,5,1,2,2,10,10,8,8
+298,Escola1,F,18,U,GT3,T,4,3,outro,outro,reputacao,pai,1,4,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,1,1,3,0,14,13,14
+299,Escola1,M,18,U,LE3,T,4,4,professor,professor,proximidade,mae,1,1,0,no,yes,yes,no,yes,yes,yes,yes,1,4,2,2,2,1,5,16,15,16
+300,Escola1,F,18,U,LE3,A,4,4,saude,outro,proximidade,mae,1,2,0,no,yes,no,no,yes,yes,yes,yes,4,2,4,1,1,4,14,12,10,11
+301,Escola1,M,17,U,LE3,T,4,4,outro,professor,proximidade,pai,2,1,0,no,no,yes,no,yes,yes,yes,no,4,1,1,2,2,5,0,11,11,10
+302,Escola1,F,17,U,GT3,T,4,2,outro,outro,reputacao,mae,2,3,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,1,1,3,0,15,12,14
+303,Escola1,F,17,U,GT3,T,3,2,saude,saude,reputacao,pai,1,4,0,no,yes,yes,yes,no,yes,yes,no,5,2,2,1,2,5,0,17,17,18
+304,Escola1,M,19,U,GT3,T,3,3,outro,outro,proximidade,outro,1,2,1,no,yes,no,yes,yes,yes,yes,yes,4,4,4,1,1,3,20,15,14,13
+305,Escola1,F,18,U,GT3,T,2,4,servicos,em_casa,reputacao,outro,1,2,1,no,yes,yes,yes,yes,yes,yes,no,4,4,3,1,1,3,8,14,12,12
+306,Escola1,M,20,U,GT3,A,3,2,servicos,outro,curso preferido,outro,1,1,0,no,no,no,yes,yes,yes,no,no,5,5,3,1,1,5,0,17,18,18
+307,Escola1,M,19,U,GT3,T,4,4,professor,servicos,reputacao,outro,2,1,1,no,yes,yes,no,yes,yes,yes,yes,4,3,4,1,1,4,38,8,9,8
+308,Escola1,M,19,R,GT3,T,3,3,outro,servicos,reputacao,pai,1,2,1,no,no,no,yes,yes,yes,no,yes,4,5,3,1,2,5,0,15,12,12
+309,Escola1,F,19,U,LE3,T,1,1,em_casa,outro,reputacao,outro,1,2,1,yes,yes,no,yes,no,yes,yes,no,4,4,3,1,3,3,18,12,10,10
+310,Escola1,F,19,U,LE3,T,1,2,servicos,servicos,proximidade,outro,1,2,1,no,no,no,yes,no,yes,no,yes,4,2,4,2,2,3,0,9,9,0
+311,Escola1,F,19,U,GT3,T,2,1,em_casa,outro,outro,outro,3,2,0,no,yes,no,no,yes,no,yes,yes,3,4,1,1,1,2,20,14,12,13
+312,Escola1,M,19,U,GT3,T,1,2,outro,servicos,curso preferido,outro,1,2,1,no,no,no,no,no,yes,yes,no,4,5,2,2,2,4,3,13,11,11
+313,Escola1,F,19,U,LE3,T,3,2,servicos,outro,reputacao,outro,2,2,1,no,yes,yes,no,no,yes,yes,yes,4,2,2,1,2,1,22,13,10,11
+314,Escola1,F,19,U,GT3,T,1,1,em_casa,saude,proximidade,outro,1,3,2,no,no,no,no,no,yes,yes,yes,4,1,2,1,1,3,14,15,13,13
+315,Escola1,F,19,R,GT3,T,2,3,outro,outro,reputacao,outro,1,3,1,no,no,no,no,yes,yes,yes,yes,4,1,2,1,1,3,40,13,11,11
+316,Escola1,F,18,U,GT3,T,2,1,servicos,outro,curso preferido,mae,2,2,0,no,yes,yes,yes,yes,yes,yes,no,5,3,3,1,2,1,0,8,8,0
+317,Escola1,F,18,U,GT3,T,4,3,outro,outro,curso preferido,mae,1,3,0,no,yes,yes,yes,yes,yes,yes,yes,4,3,4,1,1,5,9,9,10,9
+318,Escola1,F,17,R,GT3,T,3,4,em_casa,servicos,curso preferido,pai,1,3,0,no,yes,yes,yes,no,yes,yes,no,4,3,4,2,5,5,0,11,11,10
+319,Escola1,F,18,U,GT3,T,4,4,professor,outro,curso preferido,mae,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,4,4,3,3,5,2,11,11,11
+320,Escola1,F,17,U,GT3,A,4,3,servicos,servicos,curso preferido,mae,1,2,0,no,yes,yes,no,yes,yes,yes,yes,5,2,2,1,2,5,23,13,13,13
+321,Escola1,F,17,U,GT3,T,2,2,outro,outro,curso preferido,mae,1,2,0,no,yes,no,no,yes,yes,no,yes,4,2,2,1,1,3,12,11,9,9
+322,Escola1,F,17,R,LE3,T,2,2,servicos,servicos,curso preferido,mae,1,3,0,no,yes,yes,yes,yes,yes,yes,no,3,3,2,2,2,3,3,11,11,11
+323,Escola1,F,17,U,GT3,T,3,1,servicos,servicos,curso preferido,pai,1,3,0,no,yes,no,no,no,yes,yes,no,3,4,3,2,3,5,1,12,14,15
+324,Escola1,F,17,U,LE3,T,0,2,em_casa,em_casa,proximidade,pai,2,3,0,no,no,no,no,yes,yes,yes,no,3,3,3,2,3,2,0,16,15,15
+325,Escola1,M,18,U,GT3,T,4,4,outro,outro,curso preferido,mae,1,3,0,no,no,no,yes,yes,yes,yes,no,4,3,3,2,2,3,3,9,12,11
+326,Escola1,M,17,U,GT3,T,3,3,outro,servicos,reputacao,mae,1,1,0,no,no,no,yes,no,yes,yes,no,4,3,5,3,5,5,3,14,15,16
+327,Escola1,M,17,R,GT3,T,2,2,servicos,outro,curso preferido,mae,4,1,0,no,yes,no,no,yes,yes,yes,no,4,4,5,5,5,4,8,11,10,10
+328,Escola1,F,17,U,GT3,T,4,4,professor,servicos,curso preferido,mae,1,3,0,no,yes,yes,yes,yes,yes,yes,no,5,4,4,1,3,4,7,10,9,9
+329,Escola1,F,17,U,GT3,T,4,4,professor,professor,curso preferido,mae,2,3,0,no,yes,yes,no,no,yes,yes,yes,4,3,3,1,2,4,4,14,14,14
+330,Escola1,M,18,U,LE3,T,2,2,outro,outro,curso preferido,mae,1,4,0,no,yes,no,yes,yes,yes,yes,no,4,5,5,2,4,5,2,9,8,8
+331,Escola1,F,17,R,GT3,T,2,4,em_casa,outro,curso preferido,pai,1,3,0,no,yes,no,no,yes,yes,yes,yes,4,4,3,1,1,5,7,12,14,14
+332,Escola1,F,18,U,GT3,T,3,3,servicos,servicos,proximidade,mae,1,2,0,no,no,no,yes,yes,yes,yes,no,5,3,4,1,1,4,0,7,0,0
+333,Escola1,F,18,U,LE3,T,2,2,outro,outro,proximidade,outro,1,2,0,no,no,no,yes,no,yes,yes,yes,4,3,3,1,1,2,0,8,8,0
+334,Escola1,F,18,R,GT3,T,2,2,em_casa,outro,curso preferido,mae,2,4,0,no,no,no,yes,yes,yes,no,no,4,4,4,1,1,4,0,10,9,0
+335,Escola1,F,17,U,GT3,T,3,4,servicos,outro,curso preferido,mae,1,3,0,no,no,no,no,yes,yes,yes,no,4,4,5,1,3,5,16,16,15,15
+336,Escola1,F,19,R,GT3,A,3,1,servicos,em_casa,proximidade,outro,1,3,1,no,no,yes,no,yes,yes,no,no,5,4,3,1,2,5,12,14,13,13
+337,Escola1,F,17,U,GT3,T,3,2,outro,outro,proximidade,mae,1,2,0,no,yes,yes,no,yes,yes,yes,yes,4,3,2,2,3,2,0,7,8,0
+338,Escola1,F,18,U,LE3,T,3,3,servicos,servicos,proximidade,mae,1,4,0,no,yes,no,no,yes,yes,yes,no,5,3,3,1,1,1,7,16,15,17
+339,Escola1,F,17,R,GT3,A,3,2,outro,outro,proximidade,mae,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,2,3,2,4,9,10,10
+340,Escola1,F,19,U,GT3,T,2,1,servicos,servicos,proximidade,outro,1,3,1,no,no,yes,yes,yes,yes,yes,yes,4,3,4,1,3,3,4,11,12,11
+341,Escola1,M,18,U,GT3,T,4,4,professor,servicos,proximidade,pai,1,2,1,no,yes,no,yes,yes,yes,yes,no,4,3,3,2,2,2,0,10,10,0
+342,Escola1,M,18,U,LE3,T,3,4,servicos,outro,proximidade,mae,1,2,0,no,no,no,yes,yes,yes,yes,yes,4,3,3,1,3,5,11,16,15,15
+343,Escola1,F,17,U,GT3,A,2,2,em_casa,em_casa,proximidade,pai,1,2,1,no,yes,no,no,yes,yes,yes,yes,3,3,1,1,2,4,0,9,8,0
+344,Escola1,F,18,U,GT3,T,2,3,em_casa,outro,curso preferido,mae,1,3,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,2,3,4,11,10,10
+345,Escola1,F,18,U,GT3,T,3,2,outro,servicos,outro,mae,1,3,0,no,no,no,no,yes,yes,yes,yes,5,4,3,2,3,1,7,13,13,14
+346,Escola1,M,18,R,GT3,T,4,3,professor,servicos,curso preferido,mae,1,3,0,no,no,no,no,yes,yes,yes,yes,5,3,2,1,2,4,9,16,15,16
+347,Escola1,M,18,U,GT3,T,4,3,professor,outro,curso preferido,mae,1,3,0,no,yes,yes,no,yes,yes,yes,yes,5,4,5,2,3,5,0,10,10,9
+348,Escola1,F,17,U,GT3,T,4,3,saude,outro,reputacao,mae,1,3,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,3,1,3,4,0,13,15,15
+349,Escola2,M,18,R,GT3,T,3,2,outro,outro,curso preferido,mae,2,1,1,no,yes,no,no,no,yes,yes,no,2,5,5,5,5,5,10,11,13,13
+350,Escola2,M,19,R,GT3,T,1,1,outro,servicos,proximidade,outro,3,2,3,no,no,no,no,yes,yes,yes,no,5,4,4,3,3,2,8,8,7,8
+351,Escola2,M,17,U,GT3,T,3,3,saude,outro,curso preferido,mae,2,2,0,no,yes,yes,no,yes,yes,yes,no,4,5,4,2,3,3,2,13,13,13
+352,Escola2,M,18,U,LE3,T,1,3,em_casa,servicos,curso preferido,mae,1,1,1,no,no,no,no,yes,no,yes,yes,4,3,3,2,3,3,7,8,7,8
+353,Escola2,M,19,R,GT3,T,1,1,outro,outro,proximidade,outro,3,1,1,no,yes,no,no,yes,yes,yes,no,4,4,4,3,3,5,4,8,8,8
+354,Escola2,M,17,R,GT3,T,4,3,servicos,outro,proximidade,mae,2,2,0,no,yes,yes,yes,no,yes,yes,yes,4,5,5,1,3,2,4,13,11,11
+355,Escola2,F,18,U,GT3,T,3,3,servicos,servicos,curso preferido,pai,1,2,0,no,yes,no,no,yes,yes,no,yes,5,3,4,1,1,5,0,10,9,9
+356,Escola2,F,17,R,GT3,T,4,4,professor,servicos,outro,pai,2,2,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,1,2,5,4,12,13,13
+357,Escola2,F,17,U,LE3,A,3,2,servicos,outro,reputacao,mae,2,2,0,no,no,no,no,yes,yes,no,yes,1,2,3,1,2,5,2,12,12,11
+358,Escola2,M,18,U,LE3,T,1,1,outro,servicos,proximidade,pai,2,1,0,no,no,no,no,no,yes,yes,yes,3,3,2,1,2,3,4,10,10,10
+359,Escola2,F,18,U,LE3,T,1,1,em_casa,servicos,curso preferido,pai,2,3,0,no,no,no,no,yes,yes,yes,no,5,3,2,1,1,4,0,18,16,16
+360,Escola2,F,18,R,LE3,A,1,4,em_casa,outro,curso preferido,mae,3,2,0,no,no,no,no,yes,yes,no,yes,4,3,4,1,4,5,0,13,13,13
+361,Escola2,M,18,R,LE3,T,1,1,em_casa,outro,outro,mae,2,2,1,no,no,no,yes,no,no,no,no,4,4,3,2,3,5,2,13,12,12
+362,Escola2,F,18,U,GT3,T,3,3,servicos,servicos,outro,mae,2,2,0,no,yes,no,no,yes,yes,yes,yes,4,3,2,1,3,3,0,11,11,10
+363,Escola2,F,17,U,LE3,T,4,4,em_casa,em_casa,curso preferido,mae,1,2,0,no,yes,yes,yes,yes,yes,yes,yes,2,3,4,1,1,1,0,16,15,15
+364,Escola2,F,17,R,GT3,T,1,2,outro,servicos,curso preferido,pai,2,2,0,no,no,no,no,no,yes,no,no,3,2,2,1,2,3,0,12,11,12
+365,Escola2,M,18,R,GT3,T,1,3,em_casa,outro,curso preferido,mae,2,2,0,no,yes,yes,no,yes,yes,no,no,3,3,4,2,4,3,4,10,10,10
+366,Escola2,M,18,U,LE3,T,4,4,professor,servicos,outro,mae,2,3,0,no,no,yes,no,yes,yes,yes,yes,4,2,2,2,2,5,0,13,13,13
+367,Escola2,F,17,R,GT3,T,1,1,outro,servicos,reputacao,mae,3,1,1,no,yes,yes,no,yes,yes,yes,yes,5,2,1,1,2,1,0,7,6,0
+368,Escola2,F,18,U,GT3,T,2,3,em_casa,servicos,curso preferido,pai,2,1,0,no,yes,yes,no,yes,yes,yes,yes,5,2,3,1,2,4,0,11,10,10
+369,Escola2,F,18,R,GT3,T,4,4,outro,professor,outro,pai,3,2,0,no,yes,yes,no,no,yes,yes,yes,3,2,2,4,2,5,10,14,12,11
+370,Escola2,F,19,U,LE3,T,3,2,servicos,servicos,proximidade,outro,2,2,2,no,no,no,yes,yes,yes,no,yes,3,2,2,1,1,3,4,7,7,9
+371,Escola2,M,18,R,LE3,T,1,2,em_casa,servicos,outro,pai,3,1,0,no,yes,yes,yes,yes,no,yes,yes,4,3,3,2,3,3,3,14,12,12
+372,Escola2,F,17,U,GT3,T,2,2,outro,em_casa,proximidade,mae,1,3,0,no,no,no,yes,yes,yes,no,yes,3,4,3,1,1,3,8,13,11,11
+373,Escola2,F,17,R,GT3,T,1,2,outro,outro,curso preferido,mae,1,1,0,no,no,no,yes,yes,yes,yes,no,3,5,5,1,3,1,14,6,5,5
+374,Escola2,F,18,R,LE3,T,4,4,outro,outro,reputacao,mae,2,3,0,no,no,no,no,yes,yes,yes,no,5,4,4,1,1,1,0,19,18,19
+375,Escola2,F,18,R,GT3,T,1,1,outro,outro,proximidade,mae,4,3,0,no,no,no,no,yes,yes,yes,no,4,3,2,1,2,4,2,8,8,10
+376,Escola2,F,20,U,GT3,T,4,2,saude,outro,curso preferido,outro,2,3,2,no,yes,yes,no,no,yes,yes,yes,5,4,3,1,1,3,4,15,14,15
+377,Escola2,F,18,R,LE3,T,4,4,professor,servicos,curso preferido,mae,1,2,0,no,no,yes,yes,yes,yes,yes,no,5,4,3,3,4,2,4,8,9,10
+378,Escola2,F,18,U,GT3,T,3,3,outro,outro,proximidade,mae,1,2,0,no,no,yes,no,yes,yes,yes,yes,4,1,3,1,2,1,0,15,15,15
+379,Escola2,F,17,R,GT3,T,3,1,em_casa,outro,reputacao,mae,1,2,0,no,yes,yes,yes,no,yes,yes,no,4,5,4,2,3,1,17,10,10,10
+380,Escola2,M,18,U,GT3,T,4,4,professor,professor,proximidade,pai,1,2,0,no,no,yes,yes,no,yes,yes,no,3,2,4,1,4,2,4,15,14,14
+381,Escola2,M,18,R,GT3,T,2,1,outro,outro,outro,mae,2,1,0,no,no,no,yes,no,yes,yes,yes,4,4,3,1,3,5,5,7,6,7
+382,Escola2,M,17,U,GT3,T,2,3,outro,servicos,proximidade,pai,2,2,0,no,no,no,yes,yes,yes,yes,no,4,4,3,1,1,3,2,11,11,10
+383,Escola2,M,19,R,GT3,T,1,1,outro,servicos,outro,mae,2,1,1,no,no,no,no,yes,yes,no,no,4,3,2,1,3,5,0,6,5,0
+384,Escola2,M,18,R,GT3,T,4,2,outro,outro,proximidade,pai,2,1,1,no,no,yes,no,yes,yes,no,no,5,4,3,4,3,3,14,6,5,5
+385,Escola2,F,18,R,GT3,T,2,2,em_casa,outro,outro,mae,2,3,0,no,no,yes,no,yes,yes,no,no,5,3,3,1,3,4,2,10,9,10
+386,Escola2,F,18,R,GT3,T,4,4,professor,em_casa,reputacao,mae,3,1,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,3,2,2,5,7,6,5,6
+387,Escola2,F,19,R,GT3,T,2,3,servicos,outro,curso preferido,mae,1,3,1,no,no,no,yes,no,yes,yes,no,5,4,2,1,2,5,0,7,5,0
+388,Escola2,F,18,U,LE3,T,3,1,professor,servicos,curso preferido,mae,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,3,4,1,1,1,0,7,9,8
+389,Escola2,F,18,U,GT3,T,1,1,outro,outro,curso preferido,mae,2,2,1,no,no,no,yes,yes,yes,no,no,1,1,1,1,1,5,0,6,5,0
+390,Escola2,M,20,U,LE3,A,2,2,servicos,servicos,curso preferido,outro,1,2,2,no,yes,yes,no,yes,yes,no,no,5,5,4,4,5,4,11,9,9,9
+391,Escola2,M,17,U,LE3,T,3,1,servicos,servicos,curso preferido,mae,2,1,0,no,no,no,no,no,yes,yes,no,2,4,5,3,4,2,3,14,16,16
+392,Escola2,M,21,R,GT3,T,1,1,outro,outro,curso preferido,outro,1,1,3,no,no,no,no,no,yes,no,no,5,5,3,3,3,3,3,10,8,7
+393,Escola2,M,18,R,LE3,T,3,2,servicos,outro,curso preferido,mae,3,1,0,no,no,no,no,no,yes,yes,no,4,4,1,3,4,5,0,11,12,10
+394,Escola2,M,19,U,LE3,T,1,1,outro,em_casa,curso preferido,pai,1,1,0,no,no,no,no,yes,yes,yes,no,3,2,3,3,3,5,5,8,9,9
+0,Escola1,F,18,U,GT3,A,4,4,em_casa,professor,curso preferido,mae,2,2,0,yes,no,no,no,yes,yes,no,no,4,3,4,1,1,3,4,0,11,11
+1,Escola1,F,17,U,GT3,T,1,1,em_casa,outro,curso preferido,pai,1,2,0,no,yes,no,no,no,yes,yes,no,5,3,3,1,1,3,2,9,11,11
+2,Escola1,F,15,U,LE3,T,1,1,em_casa,outro,outro,mae,1,2,0,yes,no,no,no,yes,yes,yes,no,4,3,2,2,3,3,6,12,13,12
+3,Escola1,F,15,U,GT3,T,4,2,saude,servicos,proximidade,mae,1,3,0,no,yes,no,yes,yes,yes,yes,yes,3,2,2,1,1,5,0,14,14,14
+4,Escola1,F,16,U,GT3,T,3,3,outro,outro,proximidade,pai,1,2,0,no,yes,no,no,yes,yes,no,no,4,3,2,1,2,5,0,11,13,13
+5,Escola1,M,16,U,LE3,T,4,3,servicos,outro,reputacao,mae,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,4,2,1,2,5,6,12,12,13
+6,Escola1,M,16,U,LE3,T,2,2,outro,outro,proximidade,mae,1,2,0,no,no,no,no,yes,yes,yes,no,4,4,4,1,1,3,0,13,12,13
+7,Escola1,F,17,U,GT3,A,4,4,outro,professor,proximidade,mae,2,2,0,yes,yes,no,no,yes,yes,no,no,4,1,4,1,1,1,2,10,13,13
+8,Escola1,M,15,U,LE3,A,3,2,servicos,outro,proximidade,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,4,2,2,1,1,1,0,15,16,17
+9,Escola1,M,15,U,GT3,T,3,4,outro,outro,proximidade,mae,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,5,1,1,1,5,0,12,12,13
+10,Escola1,F,15,U,GT3,T,4,4,professor,saude,reputacao,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,3,3,3,1,2,2,2,14,14,14
+11,Escola1,F,15,U,GT3,T,2,1,servicos,outro,reputacao,pai,3,3,0,no,yes,no,yes,yes,yes,yes,no,5,2,2,1,1,4,0,10,12,13
+12,Escola1,M,15,U,LE3,T,4,4,saude,servicos,curso preferido,pai,1,1,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,1,3,5,0,12,13,12
+13,Escola1,M,15,U,GT3,T,4,3,professor,outro,curso preferido,mae,2,2,0,no,yes,no,no,yes,yes,yes,no,5,4,3,1,2,3,0,12,12,13
+14,Escola1,M,15,U,GT3,A,2,2,outro,outro,proximidade,outro,1,3,0,no,yes,no,no,yes,yes,yes,yes,4,5,2,1,1,3,0,14,14,15
+15,Escola1,F,16,U,GT3,T,4,4,saude,outro,proximidade,mae,1,1,0,no,yes,no,no,yes,yes,yes,no,4,4,4,1,2,2,6,17,17,17
+16,Escola1,F,16,U,GT3,T,4,4,servicos,servicos,reputacao,mae,1,3,0,no,yes,no,yes,yes,yes,yes,no,3,2,3,1,2,2,10,13,13,14
+17,Escola1,F,16,U,GT3,T,3,3,outro,outro,reputacao,mae,3,2,0,yes,yes,no,yes,yes,yes,no,no,5,3,2,1,1,4,2,13,14,14
+18,Escola1,M,17,U,GT3,T,3,2,servicos,servicos,curso preferido,mae,1,1,3,no,yes,yes,yes,yes,yes,yes,no,5,5,5,2,4,5,2,8,8,7
+19,Escola1,M,16,U,LE3,T,4,3,saude,outro,proximidade,pai,1,1,0,no,no,no,yes,yes,yes,yes,no,3,1,3,1,3,5,6,12,12,12
+20,Escola1,M,15,U,GT3,T,4,3,professor,outro,reputacao,mae,1,2,0,no,no,no,no,yes,yes,yes,no,4,4,1,1,1,1,0,12,13,14
+21,Escola1,M,15,U,GT3,T,4,4,saude,saude,outro,pai,1,1,0,no,yes,yes,no,yes,yes,yes,no,5,4,2,1,1,5,0,11,12,12
+22,Escola1,M,16,U,LE3,T,4,2,professor,outro,curso preferido,mae,1,2,0,no,no,no,yes,yes,yes,yes,no,4,5,1,1,3,5,0,12,13,14
+23,Escola1,M,16,U,LE3,T,2,2,outro,outro,reputacao,mae,2,2,0,no,yes,no,yes,yes,yes,yes,no,5,4,4,2,4,5,2,10,10,10
+24,Escola1,F,15,R,GT3,T,2,4,servicos,saude,curso preferido,mae,1,3,0,yes,yes,no,yes,yes,yes,yes,no,4,3,2,1,1,5,2,10,11,10
+25,Escola1,F,16,U,GT3,T,2,2,servicos,servicos,proximidade,mae,1,1,0,no,yes,no,no,no,yes,yes,no,1,2,2,1,3,5,6,10,11,12
+26,Escola1,M,15,U,GT3,T,2,2,outro,outro,proximidade,mae,1,1,0,no,yes,no,no,yes,yes,yes,no,4,2,2,1,2,5,8,11,12,12
+27,Escola1,M,15,U,GT3,T,4,2,saude,servicos,outro,mae,1,1,0,no,no,no,no,yes,yes,yes,no,2,2,4,2,4,1,0,11,11,11
+28,Escola1,M,16,U,LE3,A,3,4,servicos,outro,proximidade,mae,1,2,0,yes,yes,yes,yes,yes,yes,yes,no,5,3,3,1,1,5,2,12,12,13
+29,Escola1,M,16,U,GT3,T,4,4,professor,professor,proximidade,mae,1,2,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,5,5,5,5,4,12,11,12
+30,Escola1,M,15,U,GT3,T,4,4,saude,servicos,proximidade,mae,1,2,0,no,yes,yes,no,no,yes,yes,no,5,4,2,3,4,5,0,10,11,11
+31,Escola1,M,15,U,GT3,T,4,4,servicos,servicos,reputacao,mae,2,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,1,1,1,5,2,15,15,15
+32,Escola1,M,15,R,GT3,T,4,3,professor,em_casa,curso preferido,mae,1,2,0,no,yes,no,yes,yes,yes,yes,yes,4,5,2,1,1,5,0,13,14,15
+33,Escola1,M,15,U,LE3,T,3,3,outro,outro,curso preferido,mae,1,2,0,no,no,no,yes,no,yes,yes,no,5,3,2,1,1,2,0,13,12,12
+34,Escola1,M,16,U,GT3,T,3,2,outro,outro,proximidade,mae,1,1,0,no,yes,no,no,no,yes,yes,no,5,4,3,1,1,5,4,12,12,12
+35,Escola1,F,15,U,GT3,T,2,3,outro,outro,outro,pai,2,1,0,no,yes,no,yes,yes,yes,no,no,3,5,1,1,1,5,4,11,11,11
+36,Escola1,M,15,U,LE3,T,4,3,professor,servicos,proximidade,mae,1,3,0,no,yes,no,yes,yes,yes,yes,no,5,4,3,1,1,4,0,14,14,14
+37,Escola1,M,16,R,GT3,A,4,4,outro,professor,reputacao,mae,2,3,0,no,yes,no,yes,yes,yes,yes,yes,2,4,3,1,1,5,4,13,13,13
+38,Escola1,F,15,R,GT3,T,3,4,servicos,saude,curso preferido,mae,1,3,0,yes,yes,no,yes,yes,yes,yes,no,4,3,2,1,1,5,2,11,12,12
+39,Escola1,F,15,R,GT3,T,2,2,em_casa,outro,reputacao,mae,1,1,0,yes,yes,no,yes,yes,yes,no,no,4,3,1,1,1,2,8,14,13,12
+40,Escola1,F,16,U,LE3,T,2,2,outro,outro,proximidade,mae,2,2,0,no,yes,no,yes,no,yes,yes,yes,3,3,3,1,2,3,16,11,11,10
+41,Escola1,M,15,U,LE3,T,4,4,professor,outro,proximidade,outro,1,1,0,no,yes,no,no,no,yes,yes,yes,5,4,3,2,4,5,8,10,11,11
+42,Escola1,M,15,U,GT3,T,4,4,servicos,professor,curso preferido,pai,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,1,1,5,0,14,15,15
+43,Escola1,M,15,U,GT3,T,2,2,servicos,servicos,curso preferido,pai,1,1,0,yes,yes,no,no,yes,yes,yes,no,5,4,1,1,1,1,0,9,10,10
+44,Escola1,F,16,U,LE3,T,2,2,outro,em_casa,curso preferido,pai,2,2,1,yes,no,no,yes,yes,yes,yes,no,4,3,3,2,2,5,14,10,11,11
+45,Escola1,F,15,U,LE3,A,4,3,outro,outro,curso preferido,mae,1,2,0,yes,yes,yes,yes,yes,yes,yes,yes,5,2,2,1,1,5,4,10,11,11
+46,Escola1,F,16,U,LE3,A,3,3,outro,servicos,proximidade,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,2,3,5,1,4,3,6,13,12,13
+47,Escola1,M,16,U,GT3,T,4,3,saude,servicos,reputacao,mae,1,4,0,no,no,no,yes,yes,yes,yes,no,4,2,2,1,1,2,2,17,17,17
+48,Escola1,M,15,U,GT3,T,4,2,professor,outro,proximidade,mae,1,2,0,no,yes,no,no,yes,yes,no,no,4,3,3,2,2,5,4,11,12,13
+49,Escola1,F,15,U,GT3,T,4,4,servicos,professor,outro,pai,1,2,0,yes,yes,no,yes,no,yes,yes,no,4,4,4,1,1,3,2,13,12,12
+50,Escola1,F,16,U,LE3,T,2,2,servicos,servicos,curso preferido,mae,3,2,0,no,yes,no,no,yes,yes,yes,no,4,3,3,2,3,4,0,14,13,13
+51,Escola1,F,15,U,LE3,T,4,2,saude,outro,outro,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,1,5,0,16,14,16
+52,Escola1,M,15,U,LE3,A,4,2,saude,saude,outro,pai,2,1,0,no,no,no,no,yes,yes,no,no,5,5,5,3,4,5,4,10,9,9
+53,Escola1,F,15,U,GT3,T,4,4,servicos,servicos,curso preferido,mae,1,1,0,yes,yes,no,no,yes,yes,yes,no,3,3,4,2,3,5,0,13,12,12
+54,Escola1,F,15,U,LE3,A,3,3,outro,outro,outro,mae,1,1,0,no,no,no,no,yes,yes,yes,no,5,3,4,4,4,1,0,13,12,13
+55,Escola1,F,16,U,GT3,A,2,1,outro,outro,outro,mae,1,2,0,no,no,no,yes,yes,yes,yes,yes,5,3,4,1,1,2,2,12,13,12
+56,Escola1,F,15,U,GT3,A,4,3,servicos,servicos,reputacao,mae,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,2,1,1,1,0,15,14,15
+57,Escola1,M,15,U,GT3,T,4,4,professor,saude,reputacao,mae,1,2,0,no,yes,no,yes,yes,yes,no,no,3,2,2,1,1,5,8,15,15,16
+58,Escola1,M,15,U,LE3,T,1,2,outro,em_casa,proximidade,pai,1,2,0,yes,yes,no,yes,yes,yes,yes,no,4,3,2,1,1,5,0,14,13,14
+59,Escola1,F,16,U,GT3,T,4,2,servicos,outro,curso preferido,mae,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,2,3,1,1,5,2,16,15,16
+60,Escola1,F,16,R,GT3,T,4,4,saude,professor,outro,mae,1,2,0,no,yes,no,yes,yes,yes,no,no,2,4,4,2,3,4,0,17,16,16
+61,Escola1,F,16,U,GT3,T,1,1,servicos,servicos,curso preferido,pai,4,1,0,yes,yes,no,yes,no,yes,yes,yes,5,5,5,5,5,5,0,10,10,16
+62,Escola1,F,16,U,LE3,T,1,2,outro,servicos,reputacao,pai,1,2,0,yes,no,no,yes,yes,yes,yes,no,4,4,3,1,1,1,0,13,13,10
+63,Escola1,F,16,U,GT3,T,4,3,professor,saude,proximidade,mae,1,3,0,yes,yes,no,yes,yes,yes,yes,no,3,4,4,2,4,4,0,14,13,13
+64,Escola1,F,15,U,LE3,T,4,3,servicos,servicos,reputacao,pai,1,2,0,yes,no,no,yes,yes,yes,yes,yes,4,4,4,2,4,2,0,13,12,12
+65,Escola1,F,16,U,LE3,T,4,3,professor,servicos,curso preferido,mae,3,2,0,no,yes,no,yes,yes,yes,yes,no,5,4,3,1,2,1,2,16,15,16
+66,Escola1,M,15,U,GT3,A,4,4,outro,servicos,reputacao,mae,1,4,0,no,yes,no,yes,no,yes,yes,yes,1,3,3,5,5,3,0,11,12,12
+67,Escola1,F,16,U,GT3,T,3,1,servicos,outro,curso preferido,mae,1,4,0,yes,yes,no,no,yes,yes,yes,no,4,3,3,1,2,5,0,10,9,10
+68,Escola1,F,15,R,LE3,T,2,2,saude,servicos,reputacao,mae,2,2,0,yes,yes,no,no,yes,yes,yes,no,4,1,3,1,3,4,0,11,10,11
+69,Escola1,F,15,R,LE3,T,3,1,outro,outro,reputacao,pai,2,4,0,no,yes,no,no,no,yes,yes,no,4,4,2,2,3,3,6,15,15,15
+70,Escola1,M,16,U,GT3,T,3,1,outro,outro,reputacao,pai,2,4,0,no,yes,no,no,yes,yes,yes,no,4,3,2,1,1,5,2,13,11,11
+71,Escola1,M,15,U,GT3,T,4,2,outro,outro,curso preferido,mae,1,4,0,no,no,no,no,yes,yes,yes,no,3,3,3,1,1,3,0,11,9,10
+72,Escola1,F,15,R,GT3,T,1,1,outro,outro,reputacao,mae,1,2,0,yes,yes,no,no,no,yes,yes,yes,3,3,4,2,4,5,2,13,11,11
+73,Escola1,M,16,U,GT3,T,3,1,outro,outro,reputacao,mae,1,1,0,no,no,no,yes,yes,yes,no,no,5,3,2,2,2,5,0,13,13,14
+74,Escola1,F,16,U,GT3,T,3,3,outro,servicos,proximidade,mae,1,2,0,yes,yes,no,yes,yes,yes,yes,no,4,3,3,2,4,5,4,11,11,11
+75,Escola1,M,15,U,GT3,T,4,3,professor,outro,proximidade,mae,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,2,3,5,0,11,11,11
+76,Escola1,M,15,U,GT3,T,4,0,professor,outro,curso preferido,mae,2,4,0,no,no,no,yes,yes,yes,yes,no,3,4,3,1,1,1,0,12,11,11
+77,Escola1,F,16,U,GT3,T,2,2,outro,outro,reputacao,mae,1,4,0,no,no,no,no,yes,yes,yes,yes,5,2,3,1,3,3,1,13,13,13
+78,Escola1,M,17,U,GT3,T,2,1,outro,outro,proximidade,mae,2,1,3,yes,yes,no,yes,yes,no,yes,no,4,5,1,1,1,3,0,9,9,10
+79,Escola1,F,16,U,GT3,T,3,4,em_casa,outro,curso preferido,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,2,4,3,1,2,3,14,12,11,11
+80,Escola1,M,15,U,GT3,T,2,3,outro,servicos,curso preferido,pai,1,1,0,yes,yes,no,yes,no,yes,yes,yes,3,2,2,1,3,3,0,11,11,12
+81,Escola1,M,15,U,GT3,T,2,3,outro,outro,proximidade,mae,1,3,0,yes,no,no,no,no,yes,yes,no,5,3,2,1,2,5,2,10,9,9
+82,Escola1,F,15,U,LE3,T,3,2,servicos,outro,reputacao,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,4,4,4,1,1,5,4,12,11,11
+83,Escola1,M,15,U,LE3,T,2,2,servicos,servicos,proximidade,mae,2,2,0,no,no,yes,yes,yes,yes,yes,no,5,3,3,1,3,4,2,13,12,13
+84,Escola1,F,15,U,GT3,T,1,1,outro,outro,proximidade,pai,1,2,0,no,yes,no,yes,no,yes,yes,no,4,3,2,2,3,4,2,13,12,12
+85,Escola1,F,15,U,GT3,T,4,4,servicos,servicos,reputacao,pai,2,2,0,no,no,no,no,yes,yes,yes,yes,4,4,4,2,3,5,4,12,11,12
+86,Escola1,F,16,U,LE3,T,2,2,em_casa,outro,curso preferido,mae,1,2,0,no,yes,no,no,yes,yes,no,no,4,3,4,1,2,2,6,13,11,11
+87,Escola1,F,15,U,GT3,T,4,2,outro,outro,reputacao,mae,1,3,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,3,1,4,15,15,15
+88,Escola1,M,16,U,GT3,T,2,2,servicos,outro,reputacao,pai,2,2,0,no,no,no,yes,no,yes,yes,no,4,4,2,1,1,3,6,12,10,11
+89,Escola1,M,16,U,LE3,A,4,4,professor,saude,reputacao,mae,1,2,0,no,yes,no,no,yes,yes,no,no,4,1,3,3,5,5,6,9,9,10
+90,Escola1,F,16,U,GT3,T,3,3,outro,outro,proximidade,mae,1,3,0,no,yes,no,no,yes,yes,yes,yes,4,3,3,1,3,4,2,9,11,11
+91,Escola1,F,15,U,GT3,T,4,3,servicos,outro,reputacao,mae,1,1,0,no,no,no,yes,yes,yes,yes,no,4,5,5,1,3,1,6,14,13,13
+92,Escola1,F,16,U,LE3,T,3,1,outro,outro,proximidade,pai,1,2,0,yes,yes,no,no,yes,yes,no,no,3,3,3,2,3,2,0,12,13,12
+93,Escola1,F,16,U,GT3,T,4,2,professor,servicos,proximidade,mae,2,2,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,1,1,2,13,14,14
+94,Escola1,M,15,U,LE3,T,2,2,servicos,saude,reputacao,mae,1,4,0,no,yes,no,yes,yes,yes,yes,no,4,3,4,1,1,4,2,11,12,12
+95,Escola1,F,15,R,GT3,T,1,1,em_casa,outro,proximidade,mae,2,4,0,yes,yes,yes,yes,yes,yes,yes,no,3,1,2,1,1,1,4,13,13,13
+96,Escola1,M,16,R,GT3,T,4,3,servicos,outro,reputacao,mae,2,1,0,yes,yes,yes,yes,no,yes,yes,no,3,3,3,1,1,4,6,9,11,11
+97,Escola1,F,16,U,GT3,T,2,1,outro,outro,curso preferido,mae,1,2,0,no,yes,no,no,yes,yes,no,yes,4,3,5,1,1,5,0,13,12,12
+98,Escola1,F,16,U,GT3,T,4,4,outro,outro,reputacao,mae,1,1,0,no,no,no,yes,no,yes,yes,no,5,3,4,1,2,1,4,12,13,13
+99,Escola1,F,16,U,GT3,T,4,3,outro,em_casa,curso preferido,mae,1,3,0,yes,yes,no,no,yes,yes,yes,no,5,3,5,1,1,3,2,12,13,13
+100,Escola1,M,16,U,GT3,T,4,4,servicos,servicos,outro,mae,1,1,0,yes,yes,no,yes,yes,yes,yes,no,4,5,5,5,5,4,12,9,9,8
+101,Escola1,M,16,U,GT3,T,4,4,servicos,professor,outro,pai,1,3,0,no,yes,no,yes,yes,yes,yes,yes,4,4,3,1,1,4,0,16,16,16
+102,Escola1,M,15,U,GT3,T,4,4,servicos,outro,curso preferido,mae,1,1,0,no,yes,yes,yes,no,yes,yes,no,5,3,3,1,1,5,2,12,13,12
+103,Escola1,F,15,U,GT3,T,3,2,servicos,outro,proximidade,mae,2,2,0,yes,yes,no,no,yes,yes,yes,no,4,3,5,1,1,2,16,11,10,10
+104,Escola1,M,15,U,GT3,A,3,4,servicos,outro,curso preferido,mae,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,4,4,1,1,1,0,16,16,16
+105,Escola1,F,15,U,GT3,A,3,3,outro,saude,reputacao,pai,1,4,0,yes,no,no,no,yes,yes,no,no,4,3,3,1,1,4,10,10,10,10
+106,Escola1,F,15,U,GT3,T,2,2,outro,outro,curso preferido,mae,1,4,0,yes,yes,no,no,yes,yes,yes,no,5,1,2,1,1,3,4,10,10,10
+107,Escola1,M,16,U,GT3,T,3,3,servicos,outro,proximidade,pai,1,3,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,1,5,4,13,14,14
+108,Escola1,M,15,R,GT3,T,4,4,outro,outro,proximidade,pai,4,4,0,no,yes,no,yes,yes,yes,yes,yes,1,3,5,3,5,1,8,12,10,11
+109,Escola1,F,16,U,LE3,T,4,4,saude,saude,outro,mae,1,3,0,no,yes,no,yes,yes,yes,yes,yes,5,4,5,1,1,4,2,15,15,14
+110,Escola1,M,15,U,LE3,A,4,4,professor,professor,curso preferido,mae,1,1,0,no,no,no,yes,yes,yes,yes,no,5,5,3,1,1,4,4,13,14,14
+111,Escola1,F,16,R,GT3,T,3,3,servicos,outro,reputacao,pai,1,3,0,yes,yes,no,yes,yes,yes,yes,no,4,1,2,1,1,2,4,11,11,11
+112,Escola1,F,16,U,GT3,T,2,2,em_casa,outro,proximidade,mae,1,2,1,yes,no,no,yes,yes,yes,yes,no,3,1,2,1,1,5,12,8,10,10
+113,Escola1,M,15,U,LE3,T,4,2,professor,outro,curso preferido,mae,1,1,0,no,no,no,no,yes,yes,yes,no,3,5,2,1,1,3,10,18,17,18
+114,Escola1,M,15,R,GT3,T,2,1,saude,servicos,reputacao,mae,1,2,0,no,no,no,yes,yes,yes,yes,yes,5,4,2,1,1,5,4,10,9,10
+115,Escola1,M,16,U,GT3,T,4,4,professor,professor,curso preferido,pai,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,4,4,1,2,5,6,16,14,14
+116,Escola1,M,15,U,GT3,T,4,4,outro,professor,reputacao,pai,2,2,0,no,yes,no,yes,yes,yes,no,no,4,4,3,1,1,2,4,16,15,16
+117,Escola1,M,16,U,GT3,T,3,3,outro,servicos,proximidade,pai,2,1,0,no,no,no,yes,yes,yes,yes,no,5,4,2,1,1,5,6,14,14,15
+118,Escola1,M,17,R,GT3,T,1,3,outro,outro,curso preferido,pai,3,2,1,no,yes,no,yes,yes,yes,yes,no,5,2,4,1,4,5,14,12,11,11
+119,Escola1,M,15,U,GT3,T,3,4,outro,outro,reputacao,pai,1,1,0,no,no,no,no,yes,yes,yes,no,3,4,3,1,2,4,2,14,13,14
+120,Escola1,F,15,U,GT3,T,1,2,em_casa,servicos,curso preferido,mae,1,2,0,no,no,no,no,no,yes,yes,no,3,2,3,1,2,1,0,14,14,14
+121,Escola1,M,15,U,GT3,T,2,2,servicos,servicos,proximidade,pai,1,4,0,no,yes,no,yes,yes,yes,yes,no,5,5,4,1,2,5,6,14,13,13
+122,Escola1,F,16,U,LE3,T,2,4,outro,saude,curso preferido,pai,2,2,0,no,yes,no,yes,yes,yes,yes,yes,4,2,2,1,2,5,2,14,12,13
+123,Escola1,M,16,U,GT3,T,4,4,saude,outro,curso preferido,mae,1,1,0,no,yes,no,yes,yes,yes,yes,no,3,4,4,1,4,5,4,12,13,13
+124,Escola1,F,16,U,GT3,T,2,2,outro,outro,proximidade,mae,1,2,0,no,no,no,no,yes,yes,yes,yes,5,4,4,1,1,5,0,12,11,11
+125,Escola1,M,15,U,GT3,T,3,4,servicos,servicos,proximidade,pai,1,1,0,yes,no,no,no,yes,yes,yes,no,5,5,5,3,2,5,2,9,9,9
+126,Escola1,F,15,U,LE3,A,3,4,outro,outro,proximidade,mae,1,2,0,yes,no,no,yes,yes,yes,yes,yes,5,3,2,1,1,1,0,10,11,11
+127,Escola1,F,19,U,GT3,T,0,1,em_casa,outro,curso preferido,outro,1,2,2,no,yes,no,no,no,no,no,no,3,4,2,1,1,5,0,9,10,11
+128,Escola1,M,16,R,GT3,T,4,4,professor,professor,curso preferido,mae,1,1,0,no,no,no,yes,yes,yes,yes,no,3,5,5,2,5,4,8,14,14,15
+129,Escola1,M,16,U,GT3,T,2,3,outro,outro,curso preferido,mae,2,3,0,no,yes,no,no,no,yes,yes,yes,3,2,3,2,2,1,4,13,12,13
+130,Escola1,F,15,R,GT3,T,3,4,servicos,professor,curso preferido,pai,2,3,0,no,yes,no,no,yes,yes,yes,yes,4,2,2,2,2,5,0,10,11,12
+131,Escola1,F,18,U,GT3,T,2,1,servicos,outro,reputacao,mae,1,2,3,no,yes,no,yes,yes,no,yes,yes,5,4,5,1,3,5,10,10,9,8
+132,Escola1,F,17,U,LE3,A,2,1,outro,outro,curso preferido,mae,3,1,0,no,yes,no,no,yes,yes,yes,no,3,2,2,1,2,5,8,11,10,11
+133,Escola1,F,15,U,GT3,T,1,1,em_casa,outro,curso preferido,mae,3,1,0,no,yes,no,yes,no,yes,yes,yes,4,3,3,1,2,4,6,11,12,13
+134,Escola1,F,17,U,LE3,T,2,2,outro,outro,curso preferido,pai,1,1,0,no,yes,no,no,yes,yes,yes,yes,3,4,4,1,3,5,2,13,12,12
+135,Escola1,F,16,U,GT3,A,3,4,servicos,outro,curso preferido,pai,1,1,0,no,no,no,no,yes,yes,yes,no,3,2,1,1,4,5,12,15,13,14
+136,Escola1,M,16,U,GT3,T,2,1,em_casa,outro,curso preferido,mae,4,1,0,no,no,no,no,yes,yes,no,no,3,2,1,1,1,2,4,9,9,11
+137,Escola1,F,16,U,GT3,A,2,2,outro,outro,proximidade,mae,1,1,1,no,no,no,no,yes,yes,no,no,5,3,4,1,1,5,12,13,11,11
+138,Escola1,M,15,R,GT3,T,3,4,em_casa,professor,curso preferido,mae,4,2,0,no,yes,no,no,yes,yes,no,yes,5,3,3,1,1,5,2,12,11,11
+139,Escola1,F,15,U,GT3,T,4,4,servicos,em_casa,curso preferido,mae,1,3,0,no,yes,no,yes,yes,yes,yes,yes,4,3,3,1,1,5,4,13,14,15
+140,Escola1,M,17,R,GT3,T,3,4,em_casa,outro,curso preferido,mae,3,2,0,no,no,no,no,yes,yes,no,no,5,4,5,2,4,5,2,10,9,10
+141,Escola1,F,16,R,GT3,T,1,1,em_casa,outro,curso preferido,mae,4,2,0,no,yes,no,no,yes,yes,no,no,5,1,3,1,1,3,0,14,13,13
+142,Escola1,M,18,U,LE3,T,3,1,servicos,servicos,curso preferido,mae,2,1,0,no,no,no,yes,yes,yes,yes,yes,3,3,4,4,5,4,2,11,11,12
+143,Escola1,F,18,U,GT3,A,3,2,outro,servicos,curso preferido,outro,1,3,0,no,yes,no,yes,no,yes,yes,yes,4,3,3,5,1,5,10,12,11,11
+144,Escola1,F,16,R,GT3,T,1,1,outro,servicos,reputacao,mae,2,1,0,no,yes,no,yes,yes,yes,no,yes,3,3,3,1,2,1,8,12,11,11
+145,Escola1,F,16,U,GT3,A,3,3,outro,outro,curso preferido,outro,2,1,0,no,yes,no,yes,no,yes,yes,yes,4,3,2,1,1,5,4,9,9,10
+146,Escola1,M,16,U,LE3,T,1,1,servicos,outro,curso preferido,mae,1,2,2,no,no,no,no,yes,yes,no,yes,4,4,4,1,3,5,0,10,10,10
+147,Escola1,F,15,U,GT3,T,4,4,professor,professor,curso preferido,mae,2,1,0,no,no,no,yes,yes,yes,yes,no,4,3,2,1,1,5,6,13,14,14
+148,Escola1,F,15,R,GT3,T,1,1,outro,outro,curso preferido,mae,3,1,1,no,no,no,yes,yes,yes,yes,yes,5,5,5,1,1,1,2,8,9,9
+149,Escola1,M,15,U,GT3,T,4,3,professor,servicos,curso preferido,pai,2,4,0,yes,yes,no,no,yes,yes,yes,no,2,2,2,1,1,3,6,9,11,11
+150,Escola1,F,15,U,GT3,A,3,3,servicos,servicos,proximidade,mae,1,2,0,no,no,no,no,no,yes,no,yes,1,3,2,2,3,1,24,9,8,9
+151,Escola1,M,16,U,GT3,T,4,4,servicos,servicos,curso preferido,mae,1,3,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,3,5,0,15,13,13
+152,Escola1,M,16,U,LE3,T,2,2,servicos,servicos,reputacao,pai,2,1,0,no,yes,no,yes,yes,yes,yes,no,2,3,3,2,2,2,4,12,11,11
+153,Escola1,F,15,U,GT3,T,4,4,professor,servicos,curso preferido,mae,1,3,0,no,yes,no,yes,yes,yes,yes,no,4,2,2,1,1,5,2,13,13,13
+154,Escola1,F,16,U,LE3,T,1,1,em_casa,em_casa,curso preferido,mae,1,1,0,no,no,no,no,yes,yes,yes,no,3,4,4,3,3,1,4,10,11,11
+155,Escola1,M,17,U,GT3,T,2,1,outro,outro,proximidade,mae,1,1,0,no,yes,no,no,yes,yes,yes,no,5,4,5,1,2,5,22,9,7,6
+156,Escola1,F,15,U,GT3,T,1,1,outro,servicos,curso preferido,pai,1,2,0,no,yes,no,no,yes,yes,yes,no,4,4,2,1,2,5,0,12,12,12
+157,Escola1,F,15,U,LE3,A,2,1,em_casa,outro,proximidade,mae,2,1,0,no,yes,no,yes,yes,no,yes,yes,4,4,2,1,1,5,0,11,10,10
+158,Escola1,F,15,U,GT3,T,3,2,saude,servicos,proximidade,pai,1,2,1,no,yes,no,no,yes,yes,yes,no,3,3,2,1,1,3,2,11,11,11
+159,Escola1,F,15,U,GT3,T,1,2,em_casa,outro,curso preferido,mae,1,2,0,no,yes,no,no,no,yes,yes,no,4,3,2,1,1,5,6,13,12,13
+160,Escola1,F,15,U,GT3,T,1,2,em_casa,servicos,curso preferido,pai,1,2,0,no,no,no,no,no,yes,no,yes,2,3,4,2,4,1,6,11,11,11
+161,Escola1,M,16,U,GT3,T,4,4,professor,professor,curso preferido,mae,1,1,0,no,yes,no,no,yes,no,yes,yes,3,3,2,2,1,5,16,9,9,8
+162,Escola1,M,15,U,LE3,A,2,1,servicos,outro,curso preferido,mae,4,1,0,no,no,no,no,yes,yes,yes,no,4,5,5,2,5,5,0,12,11,11
+163,Escola1,M,18,U,LE3,T,1,1,outro,outro,curso preferido,mae,1,1,2,no,no,no,no,yes,no,yes,yes,2,3,5,2,5,4,0,11,9,0
+164,Escola1,M,16,U,LE3,T,2,1,em_casa,outro,curso preferido,mae,1,1,1,no,no,no,yes,yes,yes,no,yes,4,4,4,3,5,5,6,9,10,10
+165,Escola1,F,15,R,GT3,T,3,3,servicos,servicos,reputacao,outro,2,3,0,no,yes,yes,yes,yes,yes,yes,yes,4,2,1,2,3,3,2,13,13,13
+166,Escola1,M,19,U,GT3,T,3,2,servicos,em_casa,proximidade,mae,1,1,0,no,yes,no,no,yes,no,yes,yes,4,5,4,1,1,4,6,11,9,11
+167,Escola1,F,17,U,GT3,T,4,4,outro,professor,curso preferido,mae,1,1,0,yes,yes,no,no,yes,yes,no,yes,4,2,1,1,1,4,0,13,13,13
+168,Escola1,M,15,R,GT3,T,2,3,em_casa,servicos,curso preferido,mae,1,2,0,yes,no,yes,yes,yes,yes,no,no,4,4,4,1,1,1,0,7,8,8
+169,Escola1,M,17,R,LE3,T,1,2,outro,outro,reputacao,mae,1,1,3,no,no,no,no,yes,yes,no,no,2,2,2,3,3,5,14,9,8,10
+170,Escola1,F,18,R,GT3,T,1,1,em_casa,outro,curso preferido,mae,3,1,3,no,yes,no,yes,no,yes,no,no,5,2,5,1,5,4,6,11,10,11
+171,Escola1,M,16,R,GT3,T,2,2,em_casa,outro,curso preferido,mae,3,1,0,no,no,no,no,no,yes,no,no,4,2,2,1,2,3,4,12,10,11
+172,Escola1,M,16,U,GT3,T,3,3,outro,servicos,curso preferido,pai,1,2,1,no,yes,no,no,yes,yes,yes,yes,4,5,5,4,4,5,0,10,10,1
+173,Escola1,M,16,U,LE3,T,1,2,saude,servicos,curso preferido,mae,2,1,2,no,no,no,no,no,yes,yes,no,4,4,5,3,5,5,0,9,8,10
+174,Escola1,M,17,R,LE3,T,2,1,em_casa,outro,curso preferido,mae,2,1,1,no,no,yes,yes,yes,no,yes,yes,3,3,2,2,2,5,8,8,8,9
+175,Escola1,M,17,R,GT3,T,3,2,outro,outro,curso preferido,mae,2,2,2,yes,yes,no,no,yes,yes,yes,yes,4,4,4,1,4,3,4,7,6,8
+176,Escola1,M,15,U,LE3,T,1,2,outro,outro,curso preferido,mae,2,1,0,no,no,no,yes,yes,yes,no,no,4,4,4,2,4,5,2,8,9,10
+177,Escola1,M,16,U,GT3,T,1,3,em_casa,servicos,curso preferido,pai,1,1,1,no,no,no,no,yes,no,yes,no,5,3,3,1,4,2,2,9,8,8
+178,Escola1,M,17,R,LE3,T,1,1,outro,servicos,curso preferido,mae,4,2,0,no,no,no,yes,yes,no,no,yes,5,3,5,1,5,5,0,8,8,8
+179,Escola1,M,17,U,GT3,T,3,2,servicos,servicos,curso preferido,mae,2,1,3,no,yes,no,yes,no,no,no,no,4,5,2,1,1,2,10,8,7,8
+180,Escola1,M,16,U,GT3,T,2,2,outro,outro,curso preferido,pai,1,2,0,no,no,no,no,yes,no,yes,no,4,3,5,2,4,4,0,9,10,11
+181,Escola1,F,16,U,GT3,T,4,2,saude,servicos,proximidade,pai,1,2,0,no,no,no,no,yes,yes,yes,yes,4,2,3,1,1,3,0,17,17,18
+182,Escola1,F,16,U,GT3,T,2,2,outro,outro,proximidade,mae,1,2,0,no,yes,no,no,no,yes,yes,no,5,1,5,1,1,4,0,12,12,13
+183,Escola1,F,16,U,GT3,T,4,4,saude,saude,reputacao,mae,1,2,0,no,yes,no,no,yes,yes,yes,yes,4,4,2,1,1,3,0,16,16,17
+184,Escola1,M,16,U,GT3,T,3,4,outro,outro,curso preferido,pai,3,1,1,no,yes,no,yes,no,yes,yes,no,3,4,5,2,4,2,4,9,9,10
+185,Escola1,M,16,U,GT3,T,1,0,outro,outro,reputacao,mae,2,2,0,no,yes,no,yes,yes,yes,yes,yes,4,3,2,1,1,3,0,16,17,18
+186,Escola1,M,17,U,LE3,T,4,4,professor,outro,reputacao,mae,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,4,4,1,3,5,0,11,9,10
+187,Escola1,F,16,U,GT3,T,1,3,em_casa,servicos,proximidade,mae,1,2,0,no,no,no,yes,no,yes,yes,yes,4,3,5,1,1,3,0,14,13,13
+188,Escola1,F,16,U,LE3,T,3,3,outro,outro,reputacao,mae,2,2,0,no,yes,no,yes,yes,yes,yes,no,4,4,5,1,1,4,0,14,14,15
+189,Escola1,M,17,U,LE3,T,4,3,professor,outro,curso preferido,mae,2,2,0,no,no,no,yes,yes,yes,yes,no,4,4,4,4,4,4,0,10,11,11
+190,Escola1,F,16,U,GT3,T,2,2,servicos,outro,reputacao,mae,2,2,0,no,no,no,yes,no,yes,yes,no,3,4,4,1,4,5,0,13,12,14
+191,Escola1,M,17,U,GT3,T,3,3,outro,outro,reputacao,pai,1,2,0,no,no,no,yes,no,yes,yes,no,4,3,4,1,4,4,4,11,9,10
+192,Escola1,M,16,R,GT3,T,4,2,professor,servicos,outro,mae,1,1,0,no,yes,no,yes,yes,yes,yes,yes,4,3,3,3,4,3,8,10,9,11
+193,Escola1,M,17,U,GT3,T,4,3,outro,outro,curso preferido,mae,1,2,0,no,yes,yes,yes,yes,yes,yes,yes,5,2,3,1,1,2,4,11,11,13
+194,Escola1,M,16,U,GT3,T,4,3,professor,outro,proximidade,mae,1,2,0,no,yes,yes,yes,yes,yes,yes,no,3,4,3,2,3,3,4,11,10,11
+195,Escola1,M,16,U,GT3,T,3,3,servicos,outro,proximidade,mae,1,2,0,no,no,no,yes,yes,yes,yes,yes,4,2,3,1,2,3,0,11,12,13
+196,Escola1,F,17,U,GT3,T,2,4,servicos,servicos,reputacao,pai,1,2,0,no,yes,no,yes,yes,yes,no,no,5,4,2,2,3,5,0,17,18,17
+197,Escola1,F,17,U,LE3,T,3,3,outro,outro,reputacao,mae,1,2,0,no,yes,no,yes,yes,yes,yes,yes,5,3,3,2,3,1,32,14,13,14
+198,Escola1,F,16,U,GT3,T,3,2,outro,outro,reputacao,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,1,2,2,1,2,1,8,14,15,16
+199,Escola1,M,17,U,GT3,T,3,3,servicos,servicos,outro,mae,1,2,0,no,yes,no,yes,yes,yes,yes,yes,4,3,4,2,3,4,6,11,13,14
+200,Escola1,M,16,U,GT3,T,1,2,servicos,servicos,outro,mae,1,1,0,no,yes,no,yes,yes,yes,yes,yes,3,3,3,1,2,3,0,10,9,11
+201,Escola1,M,16,U,LE3,T,2,1,outro,outro,curso preferido,mae,1,2,0,no,no,no,yes,yes,yes,yes,yes,4,2,3,1,2,5,0,13,14,16
+202,Escola1,F,17,U,GT3,A,3,3,saude,outro,reputacao,mae,1,2,0,no,yes,no,no,no,yes,yes,yes,3,3,3,1,3,3,10,12,13,14
+203,Escola1,M,17,R,GT3,T,1,2,em_casa,outro,proximidade,mae,1,2,0,no,no,no,no,yes,yes,no,no,3,1,3,1,5,3,6,9,9,10
+204,Escola1,F,16,U,GT3,T,2,3,servicos,servicos,curso preferido,mae,1,2,0,no,no,no,no,yes,yes,yes,no,4,3,3,1,1,2,6,12,12,13
+205,Escola1,F,17,U,GT3,T,1,1,em_casa,servicos,curso preferido,mae,1,2,0,no,no,no,yes,yes,yes,yes,no,5,3,3,1,1,3,0,12,11,12
+206,Escola1,M,17,U,GT3,T,1,2,em_casa,servicos,outro,outro,2,2,0,no,no,no,yes,no,yes,yes,no,4,4,4,4,5,5,16,10,11,12
+207,Escola1,M,16,R,GT3,T,3,3,servicos,servicos,reputacao,mae,1,1,0,no,yes,no,yes,yes,yes,yes,no,4,3,2,3,4,5,0,11,10,10
+208,Escola1,M,16,U,GT3,T,2,3,outro,outro,proximidade,pai,2,1,0,no,no,no,no,yes,yes,yes,no,5,3,3,1,1,3,0,13,12,12
+209,Escola1,F,17,U,LE3,T,2,4,servicos,servicos,curso preferido,pai,1,2,0,no,no,no,yes,yes,yes,yes,yes,4,3,2,1,1,5,8,14,15,16
+210,Escola1,M,17,U,GT3,T,4,4,servicos,professor,proximidade,mae,1,1,0,no,no,no,no,yes,yes,yes,no,5,2,3,1,2,5,4,13,13,14
+211,Escola1,M,16,R,LE3,T,3,3,professor,outro,proximidade,pai,3,1,0,no,yes,no,yes,yes,yes,yes,no,3,3,4,3,5,3,16,10,11,12
+212,Escola1,F,17,U,GT3,T,4,4,servicos,professor,proximidade,mae,2,1,1,no,yes,no,no,yes,yes,yes,no,4,2,4,2,3,2,30,14,15,16
+213,Escola1,F,16,U,LE3,T,4,4,professor,professor,reputacao,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,4,5,2,1,2,3,0,11,10,11
+214,Escola1,F,16,U,GT3,T,4,3,saude,outro,proximidade,mae,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,5,1,5,2,2,14,14,15
+215,Escola1,F,16,U,GT3,T,2,3,outro,outro,reputacao,mae,1,2,0,yes,yes,no,yes,yes,yes,no,no,4,4,3,1,3,4,4,11,12,12
+216,Escola1,F,17,U,GT3,T,1,1,outro,outro,curso preferido,mae,1,2,0,no,yes,no,no,no,yes,no,no,4,4,4,1,3,1,0,14,15,15
+217,Escola1,F,17,R,GT3,T,2,2,outro,outro,reputacao,mae,1,1,0,no,yes,no,no,yes,yes,yes,no,5,3,2,1,2,3,21,13,13,13
+218,Escola1,F,16,R,GT3,T,2,2,servicos,servicos,reputacao,mae,2,4,0,no,yes,no,yes,no,yes,yes,no,5,3,5,1,1,5,6,13,13,13
+219,Escola1,F,17,U,GT3,T,3,4,em_casa,servicos,proximidade,mae,1,3,1,no,yes,yes,no,yes,yes,yes,yes,4,4,3,3,4,5,14,8,9,8
+220,Escola1,F,16,U,GT3,A,3,1,servicos,outro,curso preferido,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,2,3,3,2,2,4,2,11,11,12
+221,Escola1,F,16,U,GT3,T,4,3,professor,outro,outro,mae,1,2,0,no,no,no,yes,yes,yes,yes,yes,1,3,2,1,1,1,4,14,15,15
+222,Escola1,F,16,U,GT3,T,1,1,em_casa,outro,proximidade,mae,2,1,0,no,yes,no,no,yes,yes,no,no,4,3,2,1,4,5,2,12,13,13
+223,Escola1,F,17,R,GT3,T,4,3,professor,outro,reputacao,mae,2,3,0,no,yes,no,yes,yes,yes,yes,yes,4,4,2,1,1,4,0,11,12,12
+224,Escola1,F,19,U,GT3,T,3,3,outro,outro,reputacao,outro,1,4,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,1,2,3,4,12,12,12
+225,Escola1,M,17,U,LE3,T,4,4,servicos,outro,proximidade,mae,1,2,0,no,yes,no,no,yes,yes,yes,yes,5,3,5,4,5,3,15,13,12,12
+226,Escola1,F,16,U,GT3,A,2,2,outro,outro,reputacao,mae,1,2,0,yes,yes,no,no,yes,yes,yes,no,3,3,4,1,1,4,0,13,13,13
+227,Escola1,M,18,U,GT3,T,2,2,servicos,outro,proximidade,mae,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,4,4,2,4,5,10,12,11,11
+228,Escola1,F,17,R,LE3,T,4,4,servicos,outro,outro,mae,1,1,0,no,yes,no,no,yes,yes,no,no,5,2,1,1,2,3,6,12,11,11
+229,Escola1,F,17,U,LE3,T,3,2,outro,outro,reputacao,mae,2,2,0,no,no,no,no,yes,yes,yes,no,4,4,4,1,3,1,2,14,16,15
+230,Escola1,F,17,U,GT3,T,4,3,outro,outro,reputacao,mae,1,2,0,no,no,no,no,yes,yes,yes,yes,3,4,5,2,4,1,16,11,9,10
+231,Escola1,M,18,U,LE3,T,3,3,servicos,saude,proximidade,pai,1,2,0,no,yes,no,no,yes,yes,yes,no,3,2,4,2,4,4,10,10,10,10
+232,Escola1,F,17,U,GT3,T,2,3,em_casa,outro,proximidade,pai,2,1,0,no,yes,no,no,yes,yes,no,no,3,3,3,1,4,3,4,12,13,13
+233,Escola1,F,17,U,GT3,T,2,2,em_casa,em_casa,curso preferido,mae,1,3,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,1,1,4,0,12,12,13
+234,Escola1,F,17,R,GT3,T,2,1,em_casa,servicos,reputacao,mae,2,2,0,no,yes,no,yes,yes,yes,yes,no,4,2,5,1,2,5,0,11,10,11
+235,Escola1,F,17,U,GT3,T,1,1,em_casa,outro,reputacao,mae,1,3,0,no,yes,no,yes,yes,yes,no,yes,4,3,4,1,1,5,12,12,12,12
+236,Escola1,F,16,U,GT3,T,2,3,servicos,professor,outro,mae,1,2,0,yes,no,no,no,yes,yes,yes,no,2,3,1,1,1,3,0,13,13,14
+237,Escola1,M,18,U,GT3,T,2,2,outro,outro,proximidade,mae,2,2,3,no,yes,yes,no,yes,yes,yes,no,3,3,3,5,5,4,9,10,9,10
+238,Escola1,F,16,U,GT3,T,4,4,professor,servicos,proximidade,mae,1,3,0,no,yes,no,yes,no,yes,yes,no,5,3,2,1,1,5,4,15,16,16
+239,Escola1,F,18,R,GT3,T,3,1,outro,outro,reputacao,mae,1,2,0,no,no,no,yes,yes,yes,yes,yes,5,3,3,1,1,4,4,8,8,8
+240,Escola1,F,17,U,GT3,T,3,2,outro,outro,curso preferido,mae,1,2,0,no,no,no,yes,no,yes,yes,no,5,3,4,1,3,3,2,17,18,17
+241,Escola1,M,17,U,LE3,T,2,3,servicos,servicos,reputacao,pai,1,2,0,no,yes,no,no,no,yes,yes,no,5,3,3,1,3,3,0,10,11,11
+242,Escola1,M,18,U,LE3,T,2,1,em_casa,outro,curso preferido,mae,4,2,0,yes,yes,no,yes,yes,yes,yes,yes,4,3,2,4,5,3,2,9,10,11
+243,Escola1,F,17,U,GT3,A,2,1,outro,outro,curso preferido,mae,2,3,0,no,no,no,yes,yes,yes,yes,yes,3,2,3,1,2,3,0,15,15,16
+244,Escola1,F,17,U,LE3,T,4,3,saude,outro,reputacao,pai,1,2,0,no,no,no,yes,yes,yes,yes,yes,3,2,3,1,2,3,0,14,12,12
+245,Escola1,M,17,R,GT3,T,2,2,outro,outro,curso preferido,pai,2,2,0,no,yes,no,yes,yes,yes,yes,no,4,5,2,1,1,1,0,12,13,13
+246,Escola1,M,17,U,GT3,T,4,4,professor,professor,reputacao,mae,1,2,0,yes,yes,no,yes,yes,yes,yes,yes,4,5,5,1,3,2,0,13,13,13
+247,Escola1,M,16,U,GT3,T,4,4,saude,outro,reputacao,pai,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,2,4,2,4,1,0,13,13,14
+248,Escola1,M,16,U,LE3,T,1,1,outro,outro,proximidade,mae,2,2,0,no,yes,no,no,yes,yes,yes,no,3,4,2,1,1,5,2,9,9,9
+249,Escola1,M,16,U,GT3,T,3,2,em_casa,outro,reputacao,mae,2,3,0,no,no,no,yes,yes,yes,yes,yes,5,3,3,1,3,2,0,12,12,12
+250,Escola1,M,17,U,LE3,T,2,2,outro,outro,proximidade,pai,1,2,0,no,no,no,yes,no,yes,yes,yes,4,4,2,5,5,4,0,16,16,16
+251,Escola1,F,16,U,GT3,T,2,1,outro,outro,proximidade,mae,1,1,0,no,no,no,no,yes,yes,yes,yes,4,5,2,1,1,5,4,9,10,10
+252,Escola1,F,16,U,GT3,A,4,1,outro,outro,proximidade,mae,1,2,0,no,no,no,yes,yes,yes,yes,yes,5,3,3,1,2,5,0,14,13,13
+253,Escola1,F,18,U,LE3,A,2,4,servicos,outro,curso preferido,mae,2,2,1,no,yes,no,no,yes,yes,yes,no,4,3,3,1,1,3,18,10,10,10
+254,Escola1,F,18,U,LE3,T,2,2,em_casa,servicos,curso preferido,mae,1,2,1,no,yes,no,no,no,yes,yes,yes,5,3,1,1,1,5,16,9,8,10
+255,Escola1,F,18,U,GT3,T,3,3,outro,outro,curso preferido,mae,2,1,1,no,no,no,no,yes,no,yes,no,4,1,1,1,1,3,14,8,7,7
+256,Escola1,M,18,U,GT3,T,2,2,outro,em_casa,curso preferido,outro,1,1,1,no,yes,no,yes,no,no,yes,yes,4,4,3,2,2,1,26,7,8,8
+257,Escola1,M,17,U,GT3,T,4,4,professor,professor,curso preferido,mae,1,1,0,no,yes,no,yes,no,yes,yes,no,4,2,1,1,2,5,6,10,8,9
+258,Escola1,F,17,U,GT3,T,3,2,outro,outro,curso preferido,pai,1,2,0,no,no,no,yes,yes,yes,no,no,5,4,2,1,1,3,4,14,14,15
+259,Escola1,F,17,U,LE3,T,1,1,em_casa,em_casa,curso preferido,mae,1,3,0,no,yes,no,yes,yes,yes,yes,yes,4,3,2,1,2,4,10,11,10,10
+260,Escola1,F,16,U,GT3,T,1,2,outro,outro,curso preferido,mae,1,1,0,no,no,no,no,yes,no,yes,no,5,3,5,1,2,5,4,12,11,11
+261,Escola1,F,17,R,GT3,T,2,1,em_casa,servicos,curso preferido,mae,3,2,0,no,no,no,yes,yes,yes,no,no,2,1,1,1,1,3,2,13,13,13
+262,Escola1,F,17,R,LE3,A,1,4,outro,outro,curso preferido,outro,4,1,1,no,yes,no,no,yes,yes,yes,no,5,5,4,1,1,5,14,9,9,8
+263,Escola1,M,18,U,GT3,T,2,2,outro,servicos,reputacao,pai,1,2,0,no,no,no,no,yes,no,yes,no,5,5,4,3,5,2,16,8,7,8
+264,Escola1,F,17,U,LE3,A,2,2,outro,outro,proximidade,mae,1,1,1,no,yes,no,no,no,no,yes,no,3,1,2,1,1,1,8,11,9,10
+265,Escola1,F,17,R,LE3,T,1,1,em_casa,outro,curso preferido,mae,2,3,0,no,no,no,yes,yes,yes,yes,no,4,3,3,1,3,5,4,15,14,15
+266,Escola1,F,17,U,LE3,A,4,2,professor,outro,curso preferido,mae,1,2,0,no,yes,no,yes,yes,yes,no,no,4,3,2,1,1,4,4,15,14,14
+267,Escola1,M,17,U,LE3,T,4,3,saude,outro,curso preferido,mae,2,2,0,no,no,no,yes,yes,yes,yes,yes,2,5,5,1,4,5,8,15,15,15
+268,Escola1,M,17,R,LE3,A,4,4,professor,outro,curso preferido,mae,2,2,0,no,yes,no,no,yes,yes,yes,no,3,3,3,2,3,4,0,12,12,12
+269,Escola1,M,16,U,LE3,T,4,3,professor,outro,curso preferido,mae,1,1,0,no,no,no,yes,no,yes,yes,no,5,4,5,1,1,3,7,14,14,15
+270,Escola1,M,16,U,GT3,T,4,4,servicos,servicos,curso preferido,mae,1,1,0,no,no,yes,yes,yes,yes,yes,no,5,3,2,1,2,5,4,14,15,15
+271,Escola1,F,17,U,GT3,T,4,4,professor,servicos,curso preferido,mae,1,2,0,no,yes,yes,no,yes,yes,yes,yes,5,3,1,1,4,5,2,11,11,12
+272,Escola1,M,17,R,GT3,T,1,1,outro,outro,proximidade,pai,2,3,0,no,no,no,no,no,yes,yes,yes,4,3,3,1,1,1,2,13,14,15
+273,Escola1,F,17,U,GT3,T,3,3,servicos,outro,proximidade,mae,2,3,0,no,yes,no,no,yes,yes,yes,yes,4,2,2,2,3,5,10,11,11,11
+274,Escola1,F,17,U,GT3,T,1,1,em_casa,outro,curso preferido,mae,1,2,0,yes,no,no,no,no,yes,no,yes,4,3,2,1,1,4,10,10,9,10
+275,Escola1,F,18,U,GT3,T,2,1,outro,outro,curso preferido,outro,2,3,0,no,yes,no,no,no,yes,yes,yes,4,4,4,1,1,3,10,12,10,11
+276,Escola1,M,16,U,GT3,T,2,1,outro,outro,curso preferido,mae,3,1,0,no,no,no,no,yes,yes,yes,no,4,3,3,1,1,4,7,15,16,16
+277,Escola1,F,17,U,GT3,T,1,1,outro,servicos,curso preferido,pai,1,2,0,no,yes,no,no,yes,yes,no,no,4,3,4,1,2,5,4,11,10,11
+278,Escola1,M,17,U,GT3,T,2,3,outro,outro,curso preferido,pai,2,1,0,no,no,no,no,yes,yes,yes,no,5,2,2,1,1,2,2,9,12,13
+279,Escola1,M,22,U,GT3,T,3,1,servicos,servicos,outro,mae,1,1,3,no,no,no,no,no,no,yes,yes,5,4,5,5,5,1,12,7,8,5
+280,Escola1,M,18,R,LE3,T,3,3,outro,servicos,curso preferido,mae,1,2,0,no,yes,no,no,yes,yes,yes,yes,4,3,3,1,3,5,8,10,9,10
+281,Escola1,M,16,U,GT3,T,0,2,outro,outro,outro,mae,1,1,0,no,no,no,no,no,yes,yes,no,4,3,2,2,4,5,0,11,12,11
+282,Escola1,M,18,U,GT3,T,3,2,servicos,outro,curso preferido,mae,2,1,0,no,no,no,no,yes,no,yes,no,4,4,5,2,4,5,8,7,8,7
+283,Escola1,M,16,U,GT3,T,3,3,em_casa,outro,reputacao,outro,3,2,1,yes,yes,no,no,no,yes,yes,no,5,3,3,1,3,2,4,9,11,10
+284,Escola1,M,18,U,GT3,T,2,1,servicos,servicos,outro,mae,1,1,2,no,no,no,no,no,no,yes,no,3,2,5,2,5,5,4,7,8,6
+285,Escola1,M,16,R,GT3,T,2,1,outro,outro,curso preferido,mae,2,1,0,no,no,no,yes,no,yes,no,no,3,3,2,1,3,3,2,14,13,12
+286,Escola1,M,17,R,GT3,T,2,1,outro,outro,curso preferido,mae,1,1,0,no,no,no,no,no,yes,yes,no,4,4,2,2,4,5,0,12,12,13
+287,Escola1,M,17,U,LE3,T,1,1,saude,outro,curso preferido,mae,2,1,1,no,yes,no,yes,yes,yes,yes,no,4,4,4,1,2,5,0,9,10,10
+288,Escola1,F,18,U,LE3,A,2,1,outro,outro,curso preferido,mae,1,2,0,no,yes,no,no,no,yes,yes,yes,4,3,4,1,3,5,2,12,12,13
+289,Escola1,F,17,U,LE3,T,4,2,professor,servicos,reputacao,mae,1,4,0,no,yes,no,yes,yes,yes,yes,no,4,2,3,1,1,4,2,14,15,17
+290,Escola1,F,19,U,GT3,T,2,2,servicos,servicos,proximidade,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,1,5,0,10,10,11
+291,Escola1,M,18,U,LE3,T,2,1,servicos,outro,curso preferido,mae,3,2,1,no,no,no,yes,no,no,yes,no,4,4,5,4,4,5,4,11,10,11
+292,Escola1,F,17,R,GT3,T,4,2,outro,outro,curso preferido,mae,1,3,0,no,yes,no,yes,yes,yes,yes,no,4,3,4,1,3,5,2,11,12,14
+293,Escola1,F,18,U,LE3,T,1,1,outro,em_casa,proximidade,mae,1,3,0,no,yes,no,no,no,yes,no,no,4,4,3,2,3,3,4,11,12,14
+294,Escola1,F,18,R,GT3,T,2,2,outro,outro,proximidade,mae,1,2,0,yes,no,no,no,yes,yes,no,no,3,2,3,1,1,5,4,11,11,13
+295,Escola1,M,19,U,LE3,A,4,3,servicos,em_casa,reputacao,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,4,3,1,1,1,1,4,11,13,14
+296,Escola1,M,18,U,GT3,T,2,1,outro,outro,proximidade,mae,1,2,0,no,no,no,yes,yes,yes,yes,no,5,2,4,1,2,4,2,16,16,16
+297,Escola1,M,17,R,GT3,T,2,2,outro,servicos,outro,mae,2,1,0,no,no,no,no,no,no,no,no,5,2,2,1,1,4,0,9,10,10
+298,Escola1,F,17,U,LE3,T,2,2,servicos,servicos,curso preferido,pai,1,4,0,no,no,no,yes,yes,yes,yes,yes,3,4,1,1,1,2,2,10,11,12
+299,Escola1,F,20,R,GT3,T,2,1,outro,outro,curso preferido,outro,2,2,0,no,yes,yes,yes,yes,no,yes,yes,1,2,3,1,2,2,8,10,12,12
+300,Escola1,F,18,U,GT3,T,4,3,servicos,outro,proximidade,pai,1,2,0,no,yes,no,no,yes,yes,yes,yes,3,1,2,1,3,2,2,15,15,15
+301,Escola1,M,18,U,GT3,T,4,3,professor,outro,curso preferido,mae,1,2,0,no,yes,no,no,no,yes,yes,no,4,3,2,1,1,3,2,10,10,11
+302,Escola1,M,18,R,GT3,T,3,2,outro,outro,curso preferido,mae,1,3,0,no,no,no,yes,no,yes,no,no,5,3,2,1,1,3,2,10,11,12
+303,Escola1,F,17,U,GT3,T,3,3,outro,outro,proximidade,mae,1,3,0,no,no,no,yes,no,yes,no,no,3,2,3,1,1,4,2,15,12,13
+304,Escola1,F,18,U,GT3,T,2,2,em_casa,servicos,proximidade,mae,1,3,0,no,yes,no,yes,yes,yes,yes,yes,4,3,3,1,1,3,0,11,12,13
+305,Escola1,M,17,U,GT3,T,2,2,outro,outro,proximidade,pai,2,1,0,no,no,no,no,yes,no,yes,no,4,4,4,2,3,4,8,8,8,9
+306,Escola1,M,18,R,LE3,A,3,4,outro,outro,reputacao,mae,2,2,0,no,yes,no,yes,yes,yes,yes,no,4,2,5,3,4,1,6,15,16,16
+307,Escola1,M,17,U,GT3,T,3,1,servicos,outro,outro,mae,1,2,0,no,no,no,yes,yes,yes,yes,yes,5,4,4,3,4,5,0,11,11,14
+308,Escola1,F,18,R,GT3,T,4,4,professor,outro,reputacao,mae,2,2,0,no,no,no,yes,yes,yes,yes,no,4,3,4,2,2,4,8,10,11,12
+309,Escola1,M,18,U,GT3,T,4,2,saude,outro,reputacao,pai,1,2,0,no,yes,no,yes,yes,yes,yes,yes,5,4,5,1,3,5,4,10,12,14
+310,Escola1,F,18,R,GT3,T,2,1,outro,outro,reputacao,mae,2,2,0,no,yes,no,no,yes,no,yes,yes,4,3,5,1,2,3,12,8,9,10
+311,Escola1,F,19,U,GT3,T,3,3,outro,servicos,proximidade,outro,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,5,3,3,5,16,11,12,12
+312,Escola1,F,18,U,GT3,T,2,3,outro,servicos,reputacao,pai,1,4,0,no,yes,no,yes,yes,yes,yes,yes,4,5,5,1,3,2,10,16,16,16
+313,Escola1,F,18,U,LE3,T,1,1,outro,outro,proximidade,mae,2,2,0,no,yes,no,no,no,yes,no,no,4,4,3,1,1,3,2,13,13,13
+314,Escola1,M,17,R,GT3,T,1,2,em_casa,em_casa,proximidade,mae,1,2,0,no,yes,no,yes,no,yes,no,yes,3,5,2,2,2,1,2,16,17,18
+315,Escola1,F,18,U,GT3,T,2,1,outro,outro,proximidade,mae,1,2,0,no,yes,no,no,yes,yes,yes,yes,4,2,5,1,2,1,8,14,14,15
+316,Escola1,F,17,U,GT3,T,2,4,em_casa,saude,reputacao,mae,2,2,0,no,yes,no,no,yes,yes,yes,yes,4,3,3,1,1,1,6,15,16,16
+317,Escola1,F,17,U,LE3,T,2,2,servicos,outro,curso preferido,mae,2,2,0,yes,yes,no,no,yes,yes,yes,yes,4,4,4,2,3,5,6,12,12,12
+318,Escola1,F,18,R,GT3,A,3,2,outro,servicos,proximidade,mae,2,2,0,no,no,no,no,no,no,yes,yes,4,1,1,1,1,5,15,12,9,10
+319,Escola1,M,18,U,GT3,T,4,4,professor,servicos,proximidade,mae,2,1,0,no,no,no,yes,yes,yes,yes,no,3,2,4,1,4,3,6,11,12,12
+320,Escola1,F,18,U,GT3,T,4,4,saude,saude,reputacao,pai,1,2,1,yes,yes,no,yes,yes,yes,yes,yes,2,4,4,1,1,4,2,14,12,13
+321,Escola1,F,17,U,GT3,T,2,2,outro,servicos,reputacao,pai,3,3,0,no,yes,no,no,yes,yes,yes,yes,4,2,3,1,1,1,8,13,15,15
+322,Escola1,F,19,R,GT3,T,3,2,servicos,servicos,reputacao,pai,1,2,1,yes,yes,no,no,yes,no,yes,no,3,3,3,4,3,3,0,9,8,10
+323,Escola1,M,18,U,LE3,T,4,3,professor,servicos,curso preferido,mae,2,1,0,no,no,no,yes,yes,yes,yes,no,4,2,3,1,2,1,0,10,10,10
+324,Escola1,M,18,U,GT3,T,1,2,em_casa,outro,proximidade,outro,2,1,0,no,no,no,no,no,no,yes,no,3,4,4,2,4,4,10,10,10,11
+325,Escola1,M,17,U,LE3,A,4,1,servicos,outro,proximidade,mae,2,1,0,no,no,no,yes,yes,yes,yes,yes,4,5,4,2,4,5,22,11,11,10
+326,Escola1,M,17,U,LE3,A,3,2,professor,servicos,proximidade,mae,1,1,0,no,no,no,no,yes,yes,yes,no,4,4,4,3,4,3,18,13,13,13
+327,Escola1,F,18,R,LE3,T,1,1,em_casa,outro,reputacao,mae,2,4,0,no,yes,no,yes,yes,yes,no,no,5,2,2,1,1,3,2,17,17,18
+328,Escola1,F,18,U,GT3,T,1,1,outro,outro,proximidade,mae,2,2,0,yes,no,no,yes,yes,yes,yes,no,5,4,4,1,1,4,0,12,13,13
+329,Escola1,F,17,U,GT3,T,2,2,outro,outro,curso preferido,mae,1,2,0,no,yes,no,no,no,yes,yes,no,5,4,5,1,2,5,12,12,12,14
+330,Escola1,F,18,U,GT3,T,2,1,outro,outro,reputacao,mae,2,2,0,no,no,no,yes,yes,yes,yes,yes,4,3,1,1,1,5,10,12,13,14
+331,Escola1,M,17,U,GT3,T,1,1,outro,outro,reputacao,pai,1,2,0,no,no,no,no,no,yes,yes,no,4,3,3,1,2,4,0,12,12,12
+332,Escola1,F,18,U,GT3,T,2,2,em_casa,em_casa,outro,mae,1,3,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,2,2,0,18,18,18
+333,Escola1,F,17,U,GT3,T,1,1,servicos,professor,reputacao,mae,1,3,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,1,3,0,13,13,14
+334,Escola1,M,18,U,GT3,T,2,1,servicos,servicos,reputacao,mae,1,3,0,no,no,no,yes,yes,yes,yes,no,4,2,4,1,3,2,0,14,15,15
+335,Escola1,M,18,U,LE3,A,4,4,professor,professor,reputacao,mae,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,4,3,1,1,2,0,17,17,17
+336,Escola1,M,18,U,GT3,T,4,2,professor,outro,proximidade,mae,1,2,0,no,yes,no,yes,yes,yes,yes,yes,4,3,2,1,4,5,2,15,16,16
+337,Escola1,F,17,U,GT3,T,4,3,saude,servicos,reputacao,mae,1,3,0,no,yes,no,no,yes,yes,yes,no,4,2,2,1,2,3,0,17,18,18
+338,Escola1,F,17,R,LE3,T,3,1,servicos,outro,reputacao,mae,2,4,0,no,yes,no,no,yes,yes,no,no,3,1,2,1,1,3,0,18,19,19
+339,Escola1,M,18,R,LE3,T,3,2,servicos,outro,reputacao,mae,2,3,0,no,yes,no,yes,yes,yes,yes,no,5,4,2,1,1,4,0,14,15,15
+340,Escola1,M,17,U,GT3,T,3,3,saude,outro,proximidade,mae,1,1,0,no,yes,no,no,yes,yes,yes,no,4,4,3,1,3,5,0,14,15,15
+341,Escola1,F,19,U,GT3,T,4,4,saude,outro,reputacao,outro,2,2,0,no,yes,no,yes,yes,yes,yes,no,2,3,4,2,3,2,2,14,13,13
+342,Escola1,F,18,U,LE3,T,4,3,outro,outro,proximidade,outro,2,2,0,no,yes,no,no,yes,yes,yes,yes,4,4,5,1,2,2,0,13,14,14
+343,Escola1,F,18,U,GT3,T,4,3,outro,outro,reputacao,pai,1,4,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,1,3,0,16,17,17
+344,Escola1,M,18,U,LE3,T,4,4,professor,professor,proximidade,mae,1,1,0,no,yes,no,no,yes,yes,yes,yes,1,4,2,2,2,1,0,18,18,17
+345,Escola1,F,18,U,LE3,A,4,4,saude,outro,proximidade,mae,1,2,0,no,yes,yes,no,yes,yes,yes,yes,4,2,4,1,1,4,0,14,15,15
+346,Escola1,M,17,U,LE3,T,4,4,outro,professor,proximidade,pai,2,1,0,no,no,no,no,yes,yes,yes,no,4,1,1,2,2,5,0,12,13,13
+347,Escola1,F,17,R,GT3,T,4,4,servicos,servicos,reputacao,mae,2,3,0,no,yes,no,yes,yes,yes,yes,no,5,3,4,1,1,5,0,7,7,8
+348,Escola1,F,17,U,GT3,T,4,2,outro,outro,reputacao,mae,2,3,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,1,3,0,16,16,16
+349,Escola1,F,17,U,GT3,T,3,2,saude,saude,reputacao,pai,1,4,0,no,yes,no,yes,no,yes,yes,no,5,2,2,1,2,5,0,18,18,18
+350,Escola1,M,19,R,LE3,T,2,1,em_casa,servicos,curso preferido,mae,2,3,1,no,no,no,yes,yes,yes,yes,yes,4,3,1,1,1,5,0,9,10,11
+351,Escola1,M,20,U,GT3,A,3,2,servicos,outro,curso preferido,outro,1,1,2,no,no,no,yes,yes,yes,no,no,5,5,3,1,1,5,0,14,15,15
+352,Escola1,M,19,R,GT3,T,3,3,outro,servicos,reputacao,pai,1,2,0,no,no,no,yes,yes,yes,no,yes,4,5,3,1,2,5,0,10,10,11
+353,Escola1,F,18,U,GT3,T,1,4,outro,professor,proximidade,mae,1,2,0,yes,yes,no,no,no,yes,no,yes,3,4,4,1,2,5,2,10,10,11
+354,Escola1,F,18,U,GT3,T,2,1,servicos,outro,curso preferido,mae,2,2,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,2,1,2,12,12,15
+355,Escola1,F,17,U,GT3,T,2,3,outro,outro,curso preferido,pai,2,2,0,no,no,no,yes,yes,yes,yes,yes,4,2,1,1,1,3,2,11,12,14
+356,Escola1,F,17,R,GT3,T,4,4,professor,professor,curso preferido,mae,1,1,0,no,no,no,yes,yes,yes,yes,no,4,4,4,1,1,5,2,15,16,17
+357,Escola1,F,18,U,GT3,T,4,3,outro,outro,curso preferido,mae,1,3,0,no,yes,no,yes,yes,yes,yes,yes,4,3,4,1,1,5,2,14,15,17
+358,Escola1,F,18,U,LE3,T,4,3,saude,servicos,curso preferido,mae,2,1,0,no,yes,no,no,yes,yes,yes,no,3,2,4,1,4,1,8,12,12,15
+359,Escola1,F,17,R,GT3,T,3,4,em_casa,servicos,curso preferido,pai,1,3,0,no,yes,no,yes,no,yes,yes,no,4,3,4,2,5,5,2,15,15,17
+360,Escola1,F,18,U,GT3,T,3,3,em_casa,outro,curso preferido,pai,1,2,0,no,yes,no,no,yes,yes,yes,no,4,1,4,1,1,3,8,11,12,14
+361,Escola1,M,19,U,GT3,T,4,2,saude,outro,curso preferido,mae,2,2,0,no,yes,no,yes,yes,yes,yes,yes,5,4,4,1,1,1,9,11,10,10
+362,Escola1,F,18,U,GT3,T,4,4,professor,outro,curso preferido,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,4,4,4,3,3,5,0,12,11,13
+363,Escola1,F,18,U,GT3,T,3,4,outro,outro,curso preferido,mae,1,1,0,no,yes,no,yes,yes,yes,yes,yes,5,4,4,1,1,1,4,11,12,14
+364,Escola1,F,17,U,GT3,T,4,4,saude,saude,curso preferido,mae,1,1,0,no,no,no,yes,yes,yes,yes,no,5,3,4,1,2,5,2,14,15,17
+365,Escola1,F,17,U,GT3,A,4,3,servicos,servicos,curso preferido,mae,1,2,0,no,yes,no,no,yes,yes,yes,yes,5,2,2,1,2,5,14,15,14,17
+366,Escola1,F,17,U,LE3,A,3,3,servicos,outro,proximidade,mae,1,2,0,yes,yes,no,no,yes,yes,yes,no,5,3,3,1,1,5,0,12,12,13
+367,Escola1,F,17,U,LE3,T,2,1,outro,outro,proximidade,pai,1,2,0,no,no,no,yes,yes,yes,yes,no,4,2,3,2,2,2,2,11,12,14
+368,Escola1,M,18,U,LE3,T,4,4,outro,outro,reputacao,pai,1,1,0,no,yes,no,no,yes,yes,yes,no,4,2,5,3,4,5,2,8,9,11
+369,Escola1,F,19,U,GT3,T,1,1,outro,outro,curso preferido,outro,3,3,0,no,no,no,yes,yes,no,no,yes,1,5,5,4,3,5,12,10,10,11
+370,Escola1,F,19,U,LE3,A,1,1,outro,outro,curso preferido,outro,3,2,2,no,yes,no,no,no,yes,yes,yes,5,3,4,1,1,4,2,8,8,9
+371,Escola1,F,18,U,GT3,T,2,2,outro,outro,curso preferido,mae,1,1,0,no,yes,no,yes,yes,yes,yes,yes,4,3,5,2,4,5,2,10,10,10
+372,Escola1,F,17,U,GT3,T,2,2,outro,outro,curso preferido,mae,1,2,0,no,yes,no,no,yes,yes,no,yes,4,2,2,1,1,3,4,14,13,13
+373,Escola1,F,17,R,LE3,T,2,2,servicos,servicos,curso preferido,mae,1,3,0,no,yes,no,yes,yes,yes,yes,no,3,3,2,2,2,3,0,11,11,10
+374,Escola1,F,17,U,GT3,T,3,1,servicos,servicos,curso preferido,pai,1,3,0,no,yes,no,no,no,yes,yes,no,3,4,3,2,3,5,0,17,18,17
+375,Escola1,F,17,U,LE3,T,0,2,em_casa,em_casa,proximidade,pai,2,3,0,no,no,no,no,yes,yes,yes,no,3,3,3,2,3,2,0,14,14,15
+376,Escola1,F,18,U,GT3,T,1,1,outro,outro,proximidade,mae,2,3,0,no,no,no,yes,yes,yes,yes,no,4,5,5,1,2,2,0,14,14,14
+377,Escola1,M,18,U,GT3,T,4,4,outro,outro,curso preferido,mae,1,3,0,no,no,no,yes,yes,yes,yes,no,4,3,3,2,2,3,0,13,14,13
+378,Escola1,M,17,U,GT3,T,3,3,outro,servicos,reputacao,mae,1,1,0,no,no,no,yes,no,yes,yes,no,4,3,5,3,5,5,0,17,18,17
+379,Escola1,M,17,R,GT3,T,2,2,servicos,outro,curso preferido,mae,4,1,0,no,yes,no,no,yes,yes,yes,no,4,4,5,5,5,4,2,11,10,10
+380,Escola1,F,17,U,GT3,T,4,4,professor,servicos,curso preferido,mae,1,3,0,no,yes,no,yes,yes,yes,yes,no,5,4,4,1,3,4,0,13,12,13
+381,Escola1,F,17,U,GT3,T,4,4,professor,professor,curso preferido,mae,2,3,0,no,yes,no,no,no,yes,yes,yes,4,3,3,1,2,4,4,15,14,15
+382,Escola1,F,17,U,GT3,T,3,3,em_casa,outro,curso preferido,mae,1,1,0,no,yes,yes,yes,yes,yes,yes,no,4,2,5,2,5,5,2,11,12,11
+383,Escola1,M,18,U,LE3,T,2,2,outro,outro,curso preferido,mae,1,4,0,no,yes,yes,yes,yes,yes,yes,no,4,5,5,2,4,5,0,11,11,12
+384,Escola1,M,19,R,GT3,T,3,2,em_casa,servicos,proximidade,outro,1,1,0,no,yes,no,no,no,yes,no,yes,5,3,4,2,2,5,0,11,10,10
+385,Escola1,F,18,U,GT3,T,2,2,em_casa,outro,curso preferido,mae,4,2,0,no,no,no,yes,yes,yes,no,yes,4,2,5,1,1,2,2,10,9,10
+386,Escola1,F,17,R,GT3,T,2,4,em_casa,outro,curso preferido,pai,1,3,0,no,yes,no,no,yes,yes,yes,yes,4,4,3,1,1,5,0,15,15,15
+387,Escola1,M,18,U,GT3,T,2,2,outro,outro,reputacao,mae,1,1,0,no,no,no,no,no,yes,yes,no,5,4,2,1,2,5,6,15,14,15
+388,Escola1,F,18,U,GT3,T,3,3,servicos,servicos,proximidade,mae,1,2,0,no,no,no,yes,yes,yes,yes,no,5,3,4,1,1,4,8,10,11,12
+389,Escola1,F,18,U,LE3,T,2,2,outro,outro,proximidade,outro,1,2,0,no,no,no,yes,no,yes,yes,yes,4,3,3,1,1,2,0,10,9,12
+390,Escola1,F,18,R,GT3,T,2,2,em_casa,outro,curso preferido,mae,2,4,0,no,no,no,yes,yes,yes,no,no,4,4,4,1,1,4,6,14,13,14
+391,Escola1,F,17,U,GT3,T,3,4,servicos,outro,curso preferido,mae,1,3,0,no,no,no,no,yes,yes,yes,no,4,4,5,1,3,5,8,11,13,14
+392,Escola1,F,17,U,GT3,T,3,2,outro,outro,proximidade,mae,1,2,0,no,yes,no,no,yes,yes,yes,yes,4,3,2,2,3,2,0,12,13,15
+393,Escola1,F,18,U,LE3,T,3,3,servicos,servicos,proximidade,mae,1,4,0,no,yes,no,no,yes,yes,yes,no,5,3,3,1,1,1,4,14,14,15
+394,Escola1,F,17,R,GT3,A,3,2,outro,outro,proximidade,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,4,3,3,2,3,2,0,14,14,16
+395,Escola1,M,18,U,GT3,T,4,4,professor,servicos,proximidade,pai,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,2,2,2,0,12,12,13
+396,Escola1,M,18,U,LE3,T,3,4,servicos,outro,proximidade,mae,1,2,0,no,no,no,yes,yes,yes,yes,yes,4,3,3,1,3,5,6,16,16,17
+397,Escola1,F,17,U,GT3,A,2,2,em_casa,em_casa,proximidade,pai,1,2,0,no,yes,no,no,yes,yes,yes,yes,3,3,1,1,2,4,18,10,12,14
+398,Escola1,F,18,U,GT3,T,2,3,em_casa,outro,curso preferido,mae,1,3,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,2,3,0,11,12,14
+399,Escola1,F,18,U,GT3,T,3,2,outro,servicos,outro,mae,1,3,0,no,no,no,no,yes,yes,yes,yes,5,4,3,2,3,1,4,14,16,17
+400,Escola1,M,18,R,GT3,T,4,3,professor,servicos,curso preferido,mae,1,3,0,no,no,no,no,yes,yes,yes,yes,5,3,2,1,2,4,4,15,14,17
+401,Escola1,M,18,U,GT3,T,4,3,professor,outro,curso preferido,mae,1,3,0,no,yes,no,no,yes,yes,yes,yes,5,4,5,2,3,5,0,14,13,14
+402,Escola1,F,17,U,GT3,T,4,3,saude,outro,reputacao,mae,1,3,0,no,yes,no,yes,yes,yes,yes,yes,4,4,3,1,3,4,0,11,12,13
+403,Escola1,F,17,U,GT3,T,2,1,servicos,outro,curso preferido,mae,2,2,0,no,yes,no,yes,yes,yes,yes,yes,4,3,4,2,2,1,10,12,15,15
+404,Escola1,F,17,U,GT3,T,2,1,servicos,outro,reputacao,mae,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,5,2,4,4,4,12,16,16
+405,Escola1,F,19,U,LE3,A,2,3,em_casa,outro,proximidade,outro,2,1,1,no,no,no,no,yes,no,yes,no,2,2,3,3,4,5,16,10,11,11
+406,Escola1,F,17,U,GT3,T,3,1,outro,em_casa,proximidade,mae,1,1,1,no,yes,yes,no,yes,yes,yes,yes,4,1,2,1,1,3,6,10,13,13
+407,Escola1,F,21,U,LE3,T,4,4,outro,outro,reputacao,outro,1,3,2,no,no,yes,yes,yes,yes,yes,no,3,3,2,1,1,5,0,9,12,12
+408,Escola1,M,18,U,LE3,T,2,2,servicos,servicos,reputacao,mae,1,2,0,no,yes,no,yes,no,no,yes,no,4,4,4,1,3,3,11,9,11,12
+409,Escola1,M,18,U,LE3,A,3,4,outro,outro,reputacao,outro,1,2,0,no,no,no,yes,yes,yes,yes,yes,4,3,5,1,4,2,9,13,14,15
+410,Escola1,F,17,U,GT3,T,2,2,servicos,servicos,reputacao,mae,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,4,1,3,4,0,13,17,17
+411,Escola1,M,17,U,LE3,A,4,4,saude,outro,reputacao,mae,1,3,0,no,yes,no,no,yes,yes,yes,no,4,4,2,1,2,4,2,12,15,15
+412,Escola1,F,18,U,LE3,T,4,2,professor,outro,curso preferido,mae,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,2,2,1,1,3,0,14,17,17
+413,Escola1,M,21,R,LE3,T,1,1,em_casa,outro,curso preferido,outro,2,2,2,no,yes,no,yes,yes,no,yes,yes,5,3,3,5,2,4,21,9,10,10
+414,Escola1,F,20,R,GT3,T,1,1,outro,outro,reputacao,outro,2,3,0,no,no,no,no,yes,yes,yes,yes,3,2,2,1,3,3,8,11,15,15
+415,Escola1,F,19,U,GT3,T,4,4,professor,outro,proximidade,outro,1,1,1,no,yes,no,no,yes,yes,yes,yes,3,2,5,4,4,5,5,9,10,11
+416,Escola1,M,17,U,LE3,A,3,2,outro,outro,reputacao,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,4,4,4,1,2,5,10,16,18,18
+417,Escola1,F,18,U,GT3,T,3,2,em_casa,outro,reputacao,pai,1,3,0,no,yes,no,no,yes,yes,yes,yes,4,3,4,1,2,2,5,14,17,17
+418,Escola1,M,18,R,GT3,T,2,3,outro,servicos,reputacao,pai,1,1,0,no,no,no,no,yes,yes,yes,no,3,1,3,4,5,4,13,13,14,14
+419,Escola1,M,19,U,GT3,T,2,1,outro,outro,reputacao,mae,1,1,0,no,no,no,no,yes,yes,yes,no,5,3,4,1,4,4,10,7,11,11
+420,Escola1,F,18,U,LE3,A,2,2,servicos,outro,reputacao,mae,2,2,0,no,yes,no,no,yes,yes,yes,no,4,1,4,1,3,4,10,14,17,17
+421,Escola1,F,20,U,GT3,T,1,0,outro,outro,reputacao,mae,2,1,1,yes,no,no,no,yes,yes,yes,yes,5,3,1,1,1,5,5,8,10,10
+422,Escola1,F,18,U,GT3,T,3,2,servicos,outro,proximidade,mae,1,2,0,no,yes,no,yes,no,yes,yes,yes,3,1,2,1,2,1,4,10,13,13
+423,Escola2,F,16,U,GT3,T,1,3,em_casa,outro,outro,pai,2,1,0,no,yes,no,no,yes,no,yes,yes,4,3,3,1,3,5,11,10,11,11
+424,Escola2,F,16,R,GT3,T,2,2,outro,outro,curso preferido,mae,2,2,0,no,yes,no,yes,yes,yes,yes,no,4,4,4,1,1,5,0,12,12,12
+425,Escola2,F,15,R,GT3,T,1,1,em_casa,servicos,outro,mae,1,1,1,no,yes,no,no,yes,yes,no,yes,4,1,3,1,1,2,6,10,10,10
+426,Escola2,F,15,R,GT3,T,3,3,em_casa,outro,curso preferido,mae,2,1,0,no,yes,no,no,yes,yes,yes,no,5,4,4,2,3,5,4,10,10,11
+427,Escola2,F,16,R,GT3,T,2,3,em_casa,servicos,curso preferido,mae,2,2,0,no,no,no,no,yes,yes,no,no,4,5,2,1,2,5,0,16,17,17
+428,Escola2,F,15,R,LE3,T,2,1,em_casa,outro,proximidade,mae,2,1,0,no,no,no,no,yes,no,no,no,1,3,4,1,1,1,0,6,8,9
+429,Escola2,M,16,R,LE3,A,4,4,em_casa,outro,proximidade,mae,1,2,0,no,yes,no,no,yes,yes,no,no,5,3,2,1,3,2,5,10,11,11
+430,Escola2,M,16,U,GT3,A,1,2,outro,outro,outro,mae,1,3,0,yes,no,no,no,yes,yes,yes,no,4,4,3,1,1,5,0,10,11,11
+431,Escola2,F,17,R,GT3,T,3,2,em_casa,outro,curso preferido,pai,1,2,1,no,no,no,no,yes,yes,no,yes,4,5,4,1,2,5,0,10,10,10
+432,Escola2,F,17,R,GT3,T,1,1,outro,outro,outro,pai,1,1,1,no,yes,no,no,no,no,yes,no,5,4,4,2,2,5,0,6,6,7
+433,Escola2,F,15,R,GT3,T,4,4,professor,outro,curso preferido,mae,2,1,0,no,no,no,no,yes,yes,yes,yes,1,5,1,3,5,5,0,13,14,14
+434,Escola2,F,16,U,LE3,A,2,2,em_casa,outro,reputacao,mae,2,4,0,no,no,no,yes,no,no,no,yes,1,2,1,1,1,1,4,10,9,11
+435,Escola2,F,15,R,LE3,T,1,1,em_casa,servicos,reputacao,pai,2,2,0,no,yes,no,no,yes,yes,yes,no,5,4,3,1,2,4,0,10,10,10
+436,Escola2,F,15,R,LE3,T,1,1,outro,servicos,curso preferido,mae,2,1,1,no,yes,no,no,yes,yes,yes,yes,4,4,3,1,2,2,4,6,7,8
+437,Escola2,F,16,R,GT3,T,0,2,outro,outro,outro,mae,2,1,0,no,yes,no,yes,yes,yes,no,no,3,2,3,1,2,2,0,12,11,12
+438,Escola2,F,17,R,GT3,T,2,3,outro,outro,curso preferido,mae,2,1,0,no,yes,no,no,yes,yes,yes,no,5,5,5,1,3,3,2,10,11,12
+439,Escola2,F,15,R,GT3,T,3,3,outro,servicos,curso preferido,pai,2,1,0,no,no,no,no,no,yes,yes,no,4,1,3,1,1,4,0,14,16,16
+440,Escola2,M,16,U,GT3,T,1,1,em_casa,servicos,proximidade,mae,2,2,0,no,yes,no,yes,yes,yes,no,yes,5,4,5,4,5,3,0,7,0,0
+441,Escola2,M,17,U,GT3,T,1,1,outro,outro,proximidade,mae,1,2,0,no,no,yes,no,no,yes,yes,no,4,4,3,2,4,5,4,8,9,9
+442,Escola2,M,15,R,LE3,T,4,1,saude,servicos,reputacao,pai,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,3,4,1,2,2,0,12,13,14
+443,Escola2,M,15,R,LE3,T,4,1,saude,servicos,reputacao,pai,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,3,4,1,2,2,7,7,9,8
+444,Escola2,M,16,R,GT3,T,3,4,outro,saude,outro,mae,3,2,0,no,no,no,no,no,yes,no,no,3,4,5,1,2,5,4,9,10,11
+445,Escola2,M,15,R,GT3,T,1,1,outro,outro,curso preferido,mae,4,2,0,no,yes,no,yes,yes,yes,no,yes,5,4,5,2,4,4,8,7,9,9
+446,Escola2,M,15,U,LE3,T,3,3,em_casa,em_casa,reputacao,pai,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,1,5,0,11,11,11
+447,Escola2,M,17,R,GT3,T,2,1,outro,outro,outro,mae,3,1,0,no,no,no,yes,yes,no,no,yes,5,5,5,5,5,3,8,8,10,9
+448,Escola2,F,16,R,GT3,T,4,4,professor,professor,curso preferido,mae,2,3,0,no,no,no,yes,yes,yes,yes,yes,4,2,2,1,1,4,6,16,16,17
+449,Escola2,F,15,R,GT3,T,1,2,outro,servicos,curso preferido,mae,2,1,0,no,no,no,no,yes,yes,no,no,5,1,2,1,1,1,3,11,13,13
+450,Escola2,F,16,R,GT3,T,2,3,outro,servicos,curso preferido,mae,3,2,0,no,yes,no,no,yes,yes,yes,no,4,5,4,1,2,1,2,15,15,15
+451,Escola2,M,16,R,GT3,T,1,2,outro,outro,curso preferido,pai,2,2,0,no,no,no,no,yes,yes,no,no,4,3,3,1,1,5,0,10,11,11
+452,Escola2,F,16,R,GT3,T,2,2,outro,outro,curso preferido,mae,3,2,0,no,yes,no,no,yes,yes,yes,no,4,4,5,1,1,4,4,9,10,11
+453,Escola2,F,16,U,GT3,T,1,2,outro,servicos,curso preferido,mae,1,3,1,no,yes,no,no,yes,yes,no,no,1,3,2,1,2,4,0,10,8,8
+454,Escola2,F,16,U,GT3,T,1,2,outro,servicos,curso preferido,mae,1,3,1,no,yes,no,no,yes,yes,no,no,1,3,2,1,2,4,3,9,8,8
+455,Escola2,F,15,U,GT3,T,2,1,em_casa,outro,proximidade,mae,1,2,0,yes,yes,no,no,no,yes,yes,no,4,4,2,3,3,2,0,9,10,9
+456,Escola2,F,16,U,GT3,T,1,1,em_casa,outro,curso preferido,pai,1,2,0,no,yes,no,no,no,yes,no,yes,5,4,3,2,1,2,0,13,14,15
+457,Escola2,M,17,R,LE3,T,1,2,em_casa,servicos,reputacao,mae,1,1,0,no,yes,no,yes,yes,yes,yes,no,5,5,5,5,5,3,4,10,11,11
+458,Escola2,F,16,R,GT3,T,1,1,outro,outro,proximidade,pai,4,4,0,no,yes,no,no,no,yes,yes,no,4,3,2,1,1,1,0,13,10,13
+459,Escola2,F,16,R,GT3,T,1,1,em_casa,outro,outro,pai,4,3,0,yes,yes,no,no,yes,yes,no,no,4,4,3,1,1,5,2,10,9,10
+460,Escola2,F,15,R,GT3,T,1,1,em_casa,outro,proximidade,pai,2,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,1,1,2,1,11,10,11
+461,Escola2,F,16,R,GT3,T,1,1,em_casa,outro,outro,mae,2,1,0,no,no,no,yes,yes,yes,yes,yes,4,2,2,4,3,2,0,13,12,14
+462,Escola2,F,15,R,GT3,T,1,1,em_casa,em_casa,curso preferido,pai,3,2,0,no,yes,no,no,yes,yes,no,no,4,2,1,1,2,2,0,13,14,14
+463,Escola2,F,15,R,LE3,T,2,2,outro,outro,outro,pai,1,3,0,yes,yes,no,no,yes,yes,no,no,4,4,3,2,2,5,2,14,11,12
+464,Escola2,M,16,R,GT3,T,1,1,em_casa,outro,outro,pai,2,1,0,no,no,no,yes,yes,yes,no,no,3,4,4,3,4,5,6,11,11,11
+465,Escola2,F,18,U,GT3,T,1,2,outro,outro,curso preferido,pai,1,2,1,no,yes,no,yes,yes,yes,yes,yes,3,4,4,2,3,5,9,9,8,8
+466,Escola2,M,15,U,GT3,T,3,1,outro,servicos,proximidade,mae,2,1,0,no,yes,no,no,yes,yes,no,no,3,2,3,1,3,4,0,10,9,11
+467,Escola2,F,16,R,GT3,T,2,2,outro,servicos,curso preferido,pai,3,2,0,no,yes,no,yes,yes,yes,yes,no,5,3,4,1,1,2,1,14,13,14
+468,Escola2,M,15,U,GT3,T,2,2,saude,outro,reputacao,mae,3,1,0,no,no,no,no,yes,yes,no,no,4,3,3,1,2,4,1,13,12,13
+469,Escola2,M,16,U,GT3,T,4,4,outro,professor,curso preferido,pai,1,2,0,no,yes,no,yes,yes,yes,no,yes,4,3,1,1,1,3,0,13,12,13
+470,Escola2,F,15,R,GT3,T,3,3,servicos,outro,reputacao,mae,1,2,0,no,yes,no,no,yes,yes,yes,yes,4,5,4,1,1,1,4,13,12,12
+471,Escola2,F,16,R,GT3,T,2,2,em_casa,outro,curso preferido,mae,2,2,1,no,yes,no,yes,no,yes,no,no,4,4,4,2,3,5,2,12,11,12
+472,Escola2,F,16,R,LE3,T,2,2,outro,outro,proximidade,pai,3,1,0,no,yes,no,yes,yes,yes,no,yes,4,3,2,1,1,4,0,14,14,16
+473,Escola2,M,16,U,LE3,T,2,1,em_casa,servicos,curso preferido,mae,2,1,0,no,yes,no,yes,yes,yes,yes,no,2,4,3,2,3,4,4,10,8,10
+474,Escola2,M,15,R,LE3,T,1,3,em_casa,outro,reputacao,pai,3,1,0,no,yes,no,yes,yes,yes,yes,no,4,2,4,3,5,3,2,10,11,11
+475,Escola2,F,15,U,GT3,T,2,2,outro,servicos,curso preferido,mae,2,3,0,no,yes,no,yes,yes,yes,no,no,5,3,2,1,1,4,0,12,13,14
+476,Escola2,F,16,R,LE3,T,2,1,outro,outro,proximidade,mae,1,1,0,no,yes,no,no,yes,yes,yes,yes,5,4,3,1,1,5,2,10,8,8
+477,Escola2,M,15,U,GT3,T,3,3,servicos,servicos,curso preferido,pai,2,1,0,no,yes,no,yes,no,yes,yes,no,4,3,3,2,4,3,11,12,10,11
+478,Escola2,F,16,R,GT3,T,1,1,em_casa,outro,curso preferido,pai,2,2,3,yes,yes,no,no,yes,yes,no,no,3,4,3,1,1,1,0,7,7,8
+479,Escola2,F,17,U,GT3,T,2,2,outro,em_casa,curso preferido,mae,1,1,0,no,yes,no,yes,yes,no,no,no,4,5,3,1,1,5,4,9,9,10
+480,Escola2,F,19,U,GT3,T,2,3,em_casa,servicos,curso preferido,outro,1,1,1,no,no,no,no,yes,no,yes,yes,4,4,4,1,1,2,0,9,9,10
+481,Escola2,F,17,R,GT3,T,2,1,em_casa,outro,curso preferido,mae,3,1,0,no,yes,no,yes,yes,no,no,yes,5,5,3,1,1,3,2,9,10,11
+482,Escola2,F,15,R,LE3,T,1,1,em_casa,outro,curso preferido,mae,2,1,0,no,yes,no,no,yes,no,no,yes,5,2,1,1,3,4,0,9,10,9
+483,Escola2,F,16,R,GT3,T,2,2,outro,outro,curso preferido,pai,3,2,0,no,yes,no,no,yes,no,yes,no,3,4,5,1,2,1,1,9,10,11
+484,Escola2,F,16,U,LE3,A,2,2,outro,outro,proximidade,mae,1,1,0,no,yes,no,no,yes,no,no,no,4,3,4,1,2,1,6,7,7,8
+485,Escola2,F,17,R,GT3,T,2,2,em_casa,outro,curso preferido,mae,2,2,0,no,yes,no,no,yes,yes,yes,no,4,3,5,1,2,4,0,11,10,11
+486,Escola2,F,16,U,GT3,T,2,2,outro,servicos,curso preferido,pai,1,1,1,no,yes,yes,yes,no,yes,yes,no,4,4,3,1,4,3,1,9,10,10
+487,Escola2,F,18,R,LE3,A,3,2,outro,outro,curso preferido,outro,2,3,2,no,yes,no,no,no,no,no,yes,3,3,2,1,1,2,6,7,9,10
+488,Escola2,F,19,U,GT3,T,1,1,em_casa,servicos,curso preferido,mae,1,3,1,no,no,no,yes,yes,no,no,yes,5,3,1,1,1,3,6,7,9,9
+489,Escola2,M,18,R,GT3,T,1,1,outro,outro,proximidade,mae,2,1,1,no,no,no,yes,yes,no,yes,no,4,4,3,3,4,4,0,8,9,10
+490,Escola2,F,18,R,GT3,T,1,1,em_casa,em_casa,curso preferido,mae,2,1,1,no,no,no,no,no,no,yes,yes,3,2,3,1,1,2,4,9,11,10
+491,Escola2,F,19,U,GT3,T,1,1,outro,outro,curso preferido,outro,2,2,1,no,yes,no,no,yes,yes,yes,yes,1,1,4,4,1,1,12,7,8,9
+492,Escola2,F,16,R,GT3,A,2,2,saude,outro,curso preferido,mae,1,2,0,no,no,no,no,no,yes,no,yes,3,3,2,1,1,3,2,8,10,10
+493,Escola2,F,17,U,GT3,T,0,1,outro,em_casa,curso preferido,pai,2,1,0,no,no,no,yes,no,yes,no,no,2,4,4,3,5,5,5,9,9,10
+494,Escola2,F,16,R,LE3,T,1,2,em_casa,outro,curso preferido,mae,1,2,0,no,no,no,yes,yes,no,yes,no,4,4,5,1,3,3,0,8,9,9
+495,Escola2,F,16,U,GT3,T,3,3,outro,outro,reputacao,mae,1,1,0,no,no,no,yes,yes,no,yes,yes,4,5,4,1,1,4,0,14,13,13
+496,Escola2,F,16,R,LE3,T,1,1,servicos,servicos,proximidade,mae,1,1,0,no,yes,no,yes,yes,yes,yes,yes,4,4,4,2,2,4,2,14,14,14
+497,Escola2,M,17,U,GT3,T,3,3,servicos,em_casa,curso preferido,mae,2,4,1,no,yes,yes,yes,yes,yes,no,no,5,4,5,3,4,5,0,10,11,10
+498,Escola2,F,16,U,GT3,T,2,1,outro,servicos,curso preferido,mae,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,1,1,0,14,13,14
+499,Escola2,F,16,U,GT3,T,2,2,servicos,outro,curso preferido,mae,1,1,0,no,yes,yes,yes,yes,yes,no,yes,4,2,5,1,2,5,0,17,16,16
+500,Escola2,M,17,U,GT3,T,1,2,outro,outro,curso preferido,pai,1,1,1,no,yes,no,yes,yes,no,yes,yes,5,3,5,5,5,1,12,6,7,7
+501,Escola2,M,16,U,LE3,T,4,3,outro,outro,curso preferido,pai,1,1,0,no,no,no,yes,yes,yes,yes,no,4,2,5,1,5,5,8,14,12,13
+502,Escola2,M,17,R,LE3,T,2,2,servicos,servicos,outro,mae,3,4,1,no,yes,no,no,yes,yes,no,no,1,3,5,3,5,3,2,10,8,9
+503,Escola2,F,16,U,GT3,T,1,1,outro,outro,curso preferido,outro,1,4,0,yes,yes,no,yes,yes,yes,yes,no,2,2,1,1,1,5,0,14,14,14
+504,Escola2,F,19,U,LE3,T,2,2,outro,outro,proximidade,mae,1,3,0,no,no,no,no,yes,yes,yes,yes,5,4,5,1,1,1,0,12,13,13
+505,Escola2,F,17,R,GT3,T,1,1,em_casa,outro,reputacao,mae,2,1,0,no,yes,no,yes,no,yes,yes,yes,4,4,5,1,2,5,0,11,11,11
+506,Escola2,F,20,U,GT3,T,3,3,em_casa,servicos,outro,mae,2,2,1,no,no,no,yes,yes,yes,yes,yes,3,3,4,2,4,3,8,11,9,10
+507,Escola2,F,17,U,LE3,T,1,1,outro,servicos,curso preferido,pai,1,3,0,no,yes,no,no,yes,yes,no,yes,4,3,3,1,1,3,0,11,11,10
+508,Escola2,M,17,R,GT3,T,2,2,outro,outro,curso preferido,mae,3,1,1,no,yes,no,no,no,yes,yes,no,4,4,5,1,2,5,0,10,9,9
+509,Escola2,F,16,R,LE3,T,1,1,em_casa,outro,curso preferido,pai,3,2,0,no,yes,no,no,yes,yes,no,no,5,3,2,1,1,1,0,16,17,18
+510,Escola2,F,17,R,GT3,T,2,2,outro,outro,reputacao,mae,2,2,0,no,yes,no,yes,yes,yes,no,no,5,3,2,1,1,1,0,15,17,17
+511,Escola2,F,17,U,GT3,A,1,0,outro,outro,outro,mae,2,2,0,no,no,no,no,yes,yes,yes,yes,4,4,5,1,1,4,1,11,9,10
+512,Escola2,F,18,R,GT3,T,1,1,em_casa,outro,outro,mae,1,2,1,no,yes,no,no,yes,yes,yes,yes,4,3,2,1,1,5,9,7,7,7
+513,Escola2,F,16,U,GT3,T,3,1,outro,outro,curso preferido,mae,1,1,0,no,no,no,yes,yes,yes,yes,no,3,1,3,1,3,1,0,8,6,8
+514,Escola2,F,16,U,GT3,T,3,2,servicos,em_casa,curso preferido,mae,1,1,0,no,no,no,no,yes,yes,yes,no,3,1,3,1,4,3,2,7,6,7
+515,Escola2,F,18,U,LE3,T,1,1,outro,em_casa,reputacao,mae,2,2,0,yes,no,no,no,yes,yes,no,no,2,3,5,1,4,3,8,9,8,10
+516,Escola2,F,16,R,GT3,T,4,4,saude,professor,reputacao,pai,1,2,0,no,no,no,yes,no,yes,yes,yes,4,3,3,2,3,2,0,14,16,16
+517,Escola2,F,16,R,LE3,T,1,2,outro,outro,reputacao,mae,2,1,0,no,no,no,yes,yes,yes,yes,no,5,4,5,1,4,2,0,14,14,15
+518,Escola2,F,18,U,GT3,A,2,4,outro,servicos,reputacao,pai,1,2,1,no,yes,no,no,yes,yes,yes,no,2,3,2,1,3,1,8,8,5,8
+519,Escola2,M,16,R,GT3,T,2,1,outro,servicos,reputacao,mae,2,2,0,no,no,no,yes,yes,yes,yes,no,5,2,1,1,1,2,0,8,7,0
+520,Escola2,F,16,U,LE3,T,1,1,em_casa,outro,outro,mae,3,2,0,no,yes,no,no,yes,yes,yes,no,4,3,2,1,3,5,6,6,8,8
+521,Escola2,F,16,R,GT3,T,2,3,em_casa,servicos,outro,mae,2,2,0,no,yes,no,yes,yes,yes,yes,no,3,3,3,1,1,2,0,8,10,10
+522,Escola2,F,16,U,GT3,T,4,4,saude,saude,curso preferido,mae,1,2,0,no,yes,no,no,yes,yes,yes,yes,4,3,4,1,2,3,4,8,8,8
+523,Escola2,M,18,U,LE3,T,4,4,em_casa,saude,proximidade,mae,1,4,0,no,yes,no,yes,yes,no,yes,yes,5,5,5,5,5,5,2,5,6,6
+524,Escola2,F,16,R,LE3,T,3,4,em_casa,outro,outro,mae,3,2,0,no,yes,no,no,no,yes,no,no,4,2,1,1,1,2,2,7,9,8
+525,Escola2,M,17,U,LE3,T,4,4,outro,servicos,proximidade,mae,1,3,0,no,yes,no,no,yes,yes,yes,no,4,4,3,1,2,5,0,15,14,16
+526,Escola2,F,17,R,GT3,T,4,1,outro,outro,outro,mae,1,1,0,no,no,no,no,yes,yes,yes,yes,4,2,3,1,2,5,1,13,14,14
+527,Escola2,M,16,U,LE3,T,2,2,servicos,servicos,outro,mae,4,3,0,no,no,no,no,yes,yes,no,no,5,1,3,2,2,3,0,10,9,10
+528,Escola2,F,17,R,GT3,T,2,2,em_casa,outro,outro,mae,1,1,0,no,yes,yes,no,yes,yes,yes,no,5,1,3,1,2,5,5,9,9,9
+529,Escola2,F,16,U,LE3,T,4,4,servicos,servicos,outro,pai,2,1,0,no,yes,no,no,yes,yes,no,no,5,1,3,1,2,5,1,11,11,11
+530,Escola2,M,17,U,GT3,T,3,3,servicos,servicos,proximidade,mae,1,1,0,no,yes,no,yes,yes,yes,yes,no,4,1,4,5,5,3,8,7,10,9
+531,Escola2,M,17,U,GT3,T,1,1,em_casa,servicos,outro,mae,3,2,0,no,no,no,no,yes,yes,yes,yes,5,1,3,3,3,1,0,10,10,10
+532,Escola2,M,16,U,GT3,T,2,1,saude,servicos,outro,mae,2,2,0,no,no,no,no,no,yes,yes,yes,4,2,2,1,4,5,2,9,7,8
+533,Escola2,F,16,U,LE3,T,2,1,outro,servicos,outro,mae,1,2,0,no,no,no,no,yes,yes,yes,yes,3,2,2,1,1,3,0,14,15,16
+534,Escola2,M,16,U,LE3,T,4,4,professor,saude,outro,pai,1,1,0,no,yes,no,no,yes,yes,yes,no,4,1,2,2,5,5,0,11,12,12
+535,Escola2,M,15,R,GT3,T,1,2,outro,servicos,curso preferido,mae,3,2,0,no,yes,no,yes,yes,yes,no,no,5,5,5,1,3,5,11,9,11,10
+536,Escola2,M,15,U,LE3,A,2,2,outro,outro,reputacao,mae,3,4,0,no,yes,no,yes,yes,yes,no,no,5,4,5,2,3,5,8,13,14,14
+537,Escola2,M,15,U,LE3,A,2,1,servicos,servicos,curso preferido,mae,1,1,0,no,no,no,yes,yes,yes,yes,no,4,3,3,1,2,5,11,12,13,12
+538,Escola2,F,16,R,LE3,T,2,2,outro,outro,curso preferido,mae,1,3,0,no,yes,no,no,no,yes,no,yes,4,3,3,2,2,5,2,11,11,11
+539,Escola2,F,16,U,LE3,T,4,1,outro,outro,proximidade,mae,2,2,0,no,yes,no,yes,yes,yes,yes,no,1,2,4,2,2,1,8,9,10,10
+540,Escola2,F,17,U,GT3,T,3,2,em_casa,outro,proximidade,mae,2,1,0,no,no,no,no,yes,yes,no,yes,4,3,3,2,2,1,5,9,11,11
+541,Escola2,F,17,R,GT3,T,2,2,outro,outro,outro,mae,2,2,0,yes,no,yes,no,yes,yes,no,no,5,1,3,1,1,5,0,11,9,11
+542,Escola2,F,16,U,GT3,T,4,4,professor,servicos,curso preferido,mae,2,3,0,no,yes,no,no,yes,yes,yes,yes,5,3,5,1,4,5,1,10,11,12
+543,Escola2,M,17,R,GT3,T,4,4,saude,outro,curso preferido,pai,3,1,3,no,no,no,yes,yes,yes,yes,yes,3,3,3,1,3,5,2,9,9,8
+544,Escola2,M,17,R,LE3,T,1,3,outro,outro,curso preferido,pai,2,1,0,no,no,no,yes,yes,yes,no,yes,5,1,2,3,3,5,2,12,11,12
+545,Escola2,M,17,U,GT3,T,3,4,servicos,outro,outro,mae,1,2,1,no,yes,no,yes,no,yes,yes,yes,5,4,4,3,4,5,8,8,9,8
+546,Escola2,F,17,U,GT3,T,4,4,saude,saude,curso preferido,pai,1,2,0,no,yes,no,no,yes,yes,yes,no,5,2,5,1,1,5,0,13,15,16
+547,Escola2,M,16,R,LE3,T,4,1,outro,em_casa,outro,pai,1,1,0,no,no,no,no,yes,yes,yes,no,4,1,2,2,1,2,0,10,11,11
+548,Escola2,F,17,U,GT3,A,1,1,em_casa,em_casa,outro,mae,1,2,0,no,no,no,yes,yes,yes,yes,yes,4,5,5,1,2,3,2,11,10,11
+549,Escola2,F,17,R,GT3,T,4,2,outro,outro,curso preferido,mae,2,2,0,yes,yes,no,no,no,yes,yes,no,4,3,3,2,3,5,0,17,18,18
+550,Escola2,M,16,U,LE3,A,2,2,outro,servicos,curso preferido,pai,2,2,0,no,yes,no,no,no,yes,yes,yes,4,1,2,2,2,5,0,12,13,13
+551,Escola2,M,17,U,GT3,T,3,2,outro,outro,outro,pai,2,2,0,no,yes,yes,no,yes,yes,yes,no,4,1,2,2,2,1,0,13,14,13
+552,Escola2,M,19,U,GT3,T,1,1,outro,outro,outro,mae,1,2,2,no,yes,no,yes,yes,no,yes,no,4,4,3,3,4,4,2,9,9,10
+553,Escola2,M,17,U,LE3,A,1,0,outro,outro,proximidade,mae,1,1,0,no,no,no,no,yes,yes,no,yes,4,1,2,1,1,5,4,11,11,12
+554,Escola2,F,17,R,GT3,T,1,1,em_casa,em_casa,curso preferido,pai,2,1,0,no,yes,no,yes,yes,no,yes,yes,3,5,5,2,2,4,3,10,11,10
+555,Escola2,F,16,R,GT3,T,1,2,outro,outro,proximidade,pai,1,3,0,yes,yes,no,no,no,yes,yes,yes,4,3,4,1,1,3,5,13,14,13
+556,Escola2,M,16,R,LE3,T,1,2,outro,em_casa,curso preferido,mae,1,1,0,no,no,no,no,yes,yes,no,no,4,4,4,2,4,5,4,9,10,11
+557,Escola2,F,17,R,GT3,T,3,1,outro,outro,curso preferido,mae,2,2,3,no,yes,no,yes,no,yes,yes,yes,5,4,4,1,1,5,2,7,9,10
+558,Escola2,M,17,R,GT3,T,2,2,outro,outro,curso preferido,mae,2,1,0,no,no,no,yes,yes,no,no,yes,5,5,5,3,5,5,0,8,13,10
+559,Escola2,M,18,R,GT3,T,1,0,em_casa,em_casa,curso preferido,outro,3,1,1,yes,yes,no,no,yes,yes,no,no,4,3,2,1,1,4,0,12,12,13
+560,Escola2,M,17,R,GT3,T,1,1,outro,servicos,curso preferido,mae,2,1,0,no,yes,no,yes,no,yes,yes,yes,4,5,5,1,3,2,0,10,9,10
+561,Escola2,M,18,U,LE3,T,1,1,em_casa,em_casa,curso preferido,mae,2,2,0,no,yes,no,yes,yes,yes,no,no,4,3,3,1,4,5,6,10,9,10
+562,Escola2,F,16,R,LE3,T,2,2,outro,servicos,curso preferido,pai,1,2,0,no,no,no,yes,yes,yes,no,yes,5,4,3,1,1,1,0,11,13,12
+563,Escola2,M,17,U,GT3,T,2,2,outro,outro,curso preferido,mae,1,1,1,no,no,no,yes,yes,yes,no,yes,1,2,1,2,3,5,0,7,0,0
+564,Escola2,M,16,R,GT3,T,3,2,servicos,outro,curso preferido,pai,2,1,0,no,no,no,no,yes,yes,yes,no,4,5,5,2,3,5,2,11,9,10
+565,Escola2,M,16,R,LE3,T,1,1,em_casa,outro,curso preferido,mae,2,1,0,no,no,no,yes,yes,yes,yes,no,4,5,5,2,4,5,0,10,10,9
+566,Escola2,M,18,R,GT3,T,1,1,servicos,outro,curso preferido,outro,2,1,1,no,yes,no,no,yes,no,yes,yes,5,3,3,2,3,5,2,9,7,9
+567,Escola2,M,18,R,GT3,T,3,2,servicos,outro,curso preferido,mae,1,1,1,no,no,no,no,yes,no,yes,no,2,3,1,2,2,5,0,4,0,0
+568,Escola2,M,19,U,GT3,T,3,2,em_casa,servicos,curso preferido,mae,2,1,3,no,no,no,yes,yes,yes,no,no,3,2,1,1,1,3,4,6,11,9
+569,Escola2,M,18,U,GT3,T,3,3,em_casa,em_casa,curso preferido,mae,1,2,2,no,yes,no,yes,yes,no,yes,no,4,4,5,1,3,3,9,4,8,8
+570,Escola2,M,16,R,GT3,T,2,2,servicos,servicos,curso preferido,mae,2,1,0,no,yes,no,yes,yes,yes,yes,yes,5,4,3,2,4,4,6,7,8,8
+571,Escola2,M,19,U,GT3,T,2,1,em_casa,outro,curso preferido,outro,2,1,3,no,no,no,yes,no,no,yes,yes,4,4,3,1,3,5,4,8,9,9
+572,Escola2,F,16,U,GT3,A,3,2,servicos,em_casa,curso preferido,mae,2,2,2,no,yes,no,yes,yes,yes,no,yes,2,5,5,1,1,1,8,5,5,7
+573,Escola2,F,17,U,GT3,T,1,1,outro,em_casa,curso preferido,mae,1,1,0,no,yes,no,yes,yes,yes,no,no,4,3,2,1,2,5,9,7,9,10
+574,Escola2,M,20,R,GT3,T,1,1,outro,outro,curso preferido,outro,2,1,1,no,yes,no,no,yes,no,yes,yes,4,4,3,2,4,4,12,8,11,10
+575,Escola2,F,18,R,GT3,A,4,3,servicos,servicos,curso preferido,mae,1,1,0,no,yes,no,no,yes,yes,yes,no,5,4,4,3,4,2,8,10,11,10
+576,Escola2,M,18,R,GT3,T,3,2,outro,outro,curso preferido,mae,2,1,0,no,yes,no,no,no,yes,yes,no,2,5,5,5,5,5,8,9,10,11
+577,Escola2,M,19,R,GT3,T,1,1,outro,servicos,proximidade,outro,3,2,1,no,no,no,no,yes,yes,yes,no,5,4,4,3,3,2,8,10,9,11
+578,Escola2,M,17,U,GT3,T,3,3,saude,outro,curso preferido,mae,2,2,1,no,yes,no,no,yes,yes,yes,no,4,5,4,2,3,3,4,8,9,10
+579,Escola2,M,18,U,LE3,T,1,3,em_casa,servicos,curso preferido,mae,1,1,0,no,no,no,no,yes,no,yes,yes,4,3,3,2,3,3,0,9,10,9
+580,Escola2,M,19,R,GT3,T,1,1,outro,outro,proximidade,outro,3,1,1,no,yes,no,no,yes,yes,yes,no,4,4,4,3,3,5,4,8,9,10
+581,Escola2,F,18,U,GT3,A,1,2,em_casa,outro,curso preferido,mae,2,2,2,no,yes,no,no,yes,yes,no,no,4,3,3,1,1,5,2,6,8,8
+582,Escola2,F,19,U,LE3,A,1,1,em_casa,outro,curso preferido,mae,1,1,0,no,yes,no,no,yes,no,no,no,1,4,4,1,1,5,0,6,8,7
+583,Escola2,F,18,R,GT3,T,2,2,outro,outro,outro,mae,2,1,1,no,no,no,no,yes,no,yes,yes,5,5,5,1,1,3,0,8,6,0
+584,Escola2,F,17,R,GT3,T,0,0,em_casa,outro,curso preferido,mae,2,1,0,no,yes,no,no,yes,yes,yes,no,4,4,3,1,1,5,0,10,11,11
+585,Escola2,F,17,R,LE3,A,3,1,outro,em_casa,curso preferido,outro,2,3,0,no,yes,yes,no,yes,no,no,no,4,2,3,2,2,3,5,8,7,8
+586,Escola2,F,17,U,GT3,T,4,2,professor,servicos,proximidade,mae,1,2,0,yes,yes,no,yes,yes,yes,yes,no,5,5,5,1,3,5,0,8,8,0
+587,Escola2,F,18,R,LE3,T,2,2,servicos,servicos,curso preferido,mae,1,2,1,no,yes,no,yes,yes,yes,yes,no,2,3,3,1,2,4,3,7,6,8
+588,Escola2,F,17,U,GT3,T,4,1,saude,em_casa,curso preferido,mae,1,1,0,no,yes,no,no,yes,yes,no,yes,3,2,2,1,1,5,0,8,10,9
+589,Escola2,F,17,U,LE3,T,1,2,em_casa,outro,curso preferido,pai,1,1,0,no,no,no,no,yes,yes,yes,no,5,5,1,1,1,3,0,7,10,10
+590,Escola2,F,18,U,GT3,T,1,1,outro,outro,curso preferido,mae,3,2,2,no,no,no,yes,yes,yes,no,yes,3,4,4,2,2,5,3,7,8,7
+591,Escola2,F,18,U,GT3,T,2,2,servicos,em_casa,reputacao,pai,2,2,0,no,no,no,yes,no,yes,yes,no,4,3,5,1,1,1,2,12,13,14
+592,Escola2,F,17,U,GT3,T,3,3,servicos,servicos,curso preferido,mae,2,1,0,no,yes,no,no,yes,yes,yes,no,4,4,3,1,1,4,0,11,12,13
+593,Escola2,F,18,U,LE3,A,1,2,em_casa,outro,reputacao,mae,2,2,0,no,no,no,no,yes,yes,yes,no,4,4,3,1,2,4,0,12,13,14
+594,Escola2,F,18,U,GT3,T,4,4,professor,professor,reputacao,mae,2,2,0,no,no,no,yes,no,yes,yes,no,4,3,5,1,2,1,0,18,18,18
+595,Escola2,M,18,U,LE3,T,4,4,servicos,outro,reputacao,mae,1,1,0,no,yes,no,yes,yes,yes,yes,no,5,4,5,1,1,5,3,17,17,17
+596,Escola2,F,17,U,GT3,T,4,2,outro,outro,curso preferido,mae,2,2,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,2,4,0,17,18,18
+597,Escola2,F,18,R,GT3,T,2,2,em_casa,outro,curso preferido,mae,3,2,1,no,no,no,yes,yes,yes,no,yes,4,3,3,1,1,4,0,9,0,0
+598,Escola2,M,18,U,LE3,T,1,2,em_casa,servicos,proximidade,mae,2,1,0,no,yes,no,no,no,yes,no,no,4,1,4,5,5,1,8,10,11,11
+599,Escola2,M,18,R,GT3,T,4,4,em_casa,servicos,outro,mae,3,1,0,no,yes,yes,yes,yes,yes,yes,yes,2,5,5,1,1,1,5,12,13,14
+600,Escola2,M,17,R,GT3,T,1,1,outro,servicos,outro,pai,3,1,0,no,no,no,no,no,no,no,no,4,2,3,3,4,4,4,12,13,14
+601,Escola2,F,18,U,GT3,T,2,2,outro,outro,curso preferido,mae,2,2,0,no,yes,no,no,no,yes,yes,yes,1,3,1,1,1,2,4,8,8,10
+602,Escola2,F,18,U,LE3,T,2,2,servicos,servicos,curso preferido,pai,2,3,0,no,no,no,no,yes,yes,yes,yes,5,4,5,1,4,3,0,11,12,13
+603,Escola2,F,18,R,LE3,A,4,2,professor,outro,reputacao,mae,1,2,0,no,no,no,yes,yes,yes,yes,yes,5,3,1,1,1,5,0,5,0,0
+604,Escola2,F,18,U,GT3,T,1,1,em_casa,servicos,curso preferido,mae,3,2,1,no,no,no,no,yes,no,no,no,4,4,2,1,2,2,2,9,10,10
+605,Escola2,F,19,U,GT3,T,1,1,em_casa,servicos,outro,pai,2,1,1,no,no,no,no,yes,no,no,no,5,5,5,2,3,2,0,5,0,0
+606,Escola2,F,17,U,GT3,T,4,2,professor,outro,curso preferido,pai,2,4,0,no,no,no,no,yes,yes,yes,yes,4,2,3,3,1,5,0,18,18,18
+607,Escola2,F,17,R,LE3,A,2,1,servicos,outro,reputacao,mae,2,2,0,no,no,no,yes,yes,yes,yes,yes,5,3,3,1,2,2,5,11,11,12
+608,Escola2,F,18,U,LE3,A,1,1,em_casa,servicos,curso preferido,mae,1,2,0,no,no,no,no,yes,yes,no,yes,5,2,3,1,2,3,2,8,10,11
+609,Escola2,F,18,U,GT3,T,1,2,em_casa,em_casa,curso preferido,pai,2,2,0,no,yes,no,no,yes,no,no,no,4,1,1,1,1,4,0,11,11,12
+610,Escola2,F,19,R,GT3,A,1,1,em_casa,em_casa,curso preferido,outro,2,2,3,no,yes,no,yes,yes,no,no,yes,3,5,4,1,4,1,0,8,0,0
+611,Escola2,F,18,R,GT3,T,2,2,servicos,outro,proximidade,mae,2,3,0,no,no,no,no,yes,yes,yes,yes,4,2,1,1,1,4,5,14,14,15
+612,Escola2,M,17,R,GT3,T,4,3,servicos,outro,proximidade,mae,2,2,1,no,yes,yes,yes,no,yes,yes,yes,4,5,5,1,3,2,4,10,11,11
+613,Escola2,F,18,U,GT3,T,3,3,servicos,servicos,curso preferido,pai,1,2,0,no,yes,no,no,yes,yes,no,yes,5,3,4,1,1,5,0,10,10,10
+614,Escola2,F,17,R,GT3,T,4,4,professor,servicos,outro,pai,2,2,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,1,2,5,2,12,12,12
+615,Escola2,F,17,U,LE3,A,3,2,servicos,outro,reputacao,mae,2,2,0,no,no,no,no,yes,yes,no,yes,1,2,3,1,2,5,0,15,14,15
+616,Escola2,M,18,U,LE3,T,1,1,outro,servicos,proximidade,pai,2,1,0,no,no,no,no,no,yes,yes,yes,3,3,2,1,2,3,2,14,13,14
+617,Escola2,F,18,U,LE3,T,1,1,em_casa,servicos,curso preferido,pai,2,3,0,no,no,no,no,yes,yes,yes,no,5,3,2,1,1,4,0,19,17,18
+618,Escola2,F,18,R,LE3,A,1,2,em_casa,outro,curso preferido,mae,3,2,0,no,no,no,no,yes,yes,no,yes,4,3,4,1,4,5,0,16,15,15
+619,Escola2,F,18,U,GT3,T,3,3,servicos,servicos,outro,mae,2,2,0,no,yes,no,no,yes,yes,yes,yes,4,3,2,1,3,3,6,13,12,13
+620,Escola2,F,17,U,LE3,T,4,4,em_casa,em_casa,curso preferido,mae,1,2,0,no,yes,no,yes,yes,yes,yes,yes,2,3,4,1,1,1,4,15,14,15
+621,Escola2,F,17,R,GT3,T,1,2,outro,servicos,curso preferido,pai,2,2,0,no,no,no,no,no,yes,no,no,3,2,2,1,2,3,0,13,13,13
+622,Escola2,M,18,R,GT3,T,1,3,em_casa,outro,curso preferido,mae,2,2,0,no,yes,yes,no,yes,yes,no,no,3,3,4,2,4,3,0,8,10,9
+623,Escola2,M,18,U,LE3,T,4,4,professor,servicos,outro,mae,2,3,0,no,no,no,no,yes,yes,yes,yes,4,2,2,2,2,5,0,15,16,16
+624,Escola2,F,17,R,GT3,T,1,1,outro,servicos,reputacao,mae,3,1,1,no,yes,no,no,yes,yes,yes,yes,5,2,1,1,2,1,0,8,8,9
+625,Escola2,F,18,U,GT3,T,2,3,em_casa,servicos,curso preferido,pai,2,1,0,no,yes,no,no,yes,yes,yes,yes,5,2,3,1,2,4,0,10,10,10
+626,Escola2,F,18,R,GT3,T,4,4,outro,professor,outro,pai,3,2,0,no,yes,no,no,no,yes,yes,yes,3,2,2,4,2,5,0,7,5,0
+627,Escola2,M,18,R,LE3,T,1,2,em_casa,servicos,outro,pai,3,1,0,no,yes,no,yes,yes,no,yes,yes,4,3,3,2,3,3,3,9,10,10
+628,Escola2,F,17,U,GT3,T,2,2,outro,em_casa,proximidade,mae,1,3,0,no,no,no,yes,yes,yes,no,yes,3,4,3,1,1,3,8,10,11,12
+629,Escola2,F,17,R,GT3,T,1,2,outro,outro,curso preferido,mae,1,1,0,no,no,no,yes,yes,yes,yes,no,3,5,5,1,3,1,4,7,8,9
+630,Escola2,F,18,R,LE3,T,4,4,outro,outro,reputacao,mae,2,3,0,no,no,no,no,yes,yes,yes,no,5,4,4,1,1,1,0,15,17,17
+631,Escola2,F,18,R,GT3,T,1,1,outro,outro,proximidade,mae,4,3,0,no,no,no,no,yes,yes,yes,no,4,3,2,1,2,4,4,10,11,12
+632,Escola2,F,19,R,GT3,T,1,1,em_casa,outro,curso preferido,outro,2,2,1,no,yes,no,no,yes,yes,yes,yes,4,3,3,1,1,3,4,7,8,9
+633,Escola2,F,18,R,LE3,T,4,4,professor,servicos,curso preferido,mae,1,2,0,no,no,no,yes,yes,yes,yes,no,5,4,3,3,4,2,1,13,14,14
+634,Escola2,F,18,U,GT3,T,3,3,outro,outro,proximidade,mae,1,2,0,no,no,no,no,yes,yes,yes,yes,4,1,3,1,2,1,1,16,16,16
+635,Escola2,F,17,R,GT3,T,3,1,em_casa,outro,reputacao,mae,1,2,0,no,yes,no,yes,no,yes,yes,no,4,5,4,2,3,1,10,8,9,9
+636,Escola2,M,18,U,GT3,T,4,4,professor,professor,proximidade,pai,1,2,0,no,no,no,yes,no,yes,yes,no,3,2,4,1,4,2,4,17,18,19
+637,Escola2,M,18,R,GT3,T,2,1,outro,outro,outro,mae,2,1,0,no,no,no,yes,no,yes,yes,yes,4,4,3,1,3,5,0,7,7,0
+638,Escola2,M,17,U,GT3,T,2,3,outro,servicos,proximidade,pai,2,2,0,no,no,no,yes,yes,yes,yes,no,4,4,3,1,1,3,4,14,15,16
+639,Escola2,M,19,R,GT3,T,1,1,outro,servicos,outro,mae,2,1,1,no,no,no,no,yes,yes,no,no,4,3,2,1,3,5,0,5,8,0
+640,Escola2,M,18,R,GT3,T,4,2,outro,outro,proximidade,pai,2,1,1,no,no,yes,no,yes,yes,no,no,5,4,3,4,3,3,0,7,7,0
+641,Escola2,F,18,R,GT3,T,2,2,em_casa,outro,outro,mae,2,3,0,no,no,no,no,yes,yes,no,no,5,3,3,1,3,4,0,14,17,15
+642,Escola2,F,17,U,GT3,T,4,3,professor,outro,outro,mae,2,2,0,no,no,no,no,yes,yes,yes,no,5,5,4,1,1,1,0,6,9,11
+643,Escola2,F,18,R,GT3,T,4,4,professor,em_casa,reputacao,mae,3,1,0,no,yes,no,yes,yes,yes,yes,yes,4,4,3,2,2,5,4,7,9,10
+644,Escola2,F,19,R,GT3,T,2,3,servicos,outro,curso preferido,mae,1,3,1,no,no,no,yes,no,yes,yes,no,5,4,2,1,2,5,4,10,11,10
+645,Escola2,F,18,U,LE3,T,3,1,professor,servicos,curso preferido,mae,1,2,0,no,yes,no,no,yes,yes,yes,no,4,3,4,1,1,1,4,15,15,16
+646,Escola2,F,18,U,GT3,T,1,1,outro,outro,curso preferido,mae,2,2,0,no,no,no,yes,yes,yes,no,no,1,1,1,1,1,5,6,11,12,9
+647,Escola2,M,17,U,LE3,T,3,1,servicos,servicos,curso preferido,mae,2,1,0,no,no,no,no,no,yes,yes,no,2,4,5,3,4,2,6,10,10,10
+648,Escola2,M,18,R,LE3,T,3,2,servicos,outro,curso preferido,mae,3,1,0,no,no,no,no,no,yes,yes,no,4,4,1,3,4,5,4,10,11,11
