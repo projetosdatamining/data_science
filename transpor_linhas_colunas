@@ -1,0 +1,62 @@
+﻿CREATE TABLE aluno(   id serial NOT NULL,  nome character varying(50),
+  CONSTRAINT aluno_pkey PRIMARY KEY (id) ) WITH ( OIDS=FALSE);
+  
+ALTER TABLE aluno  OWNER TO postgres;
+
+CREATE TABLE disciplina (  id serial NOT NULL,  nome character varying(50),
+  CONSTRAINT disciplina_pkey PRIMARY KEY (id)) WITH ( OIDS=FALSE);
+  
+ALTER TABLE disciplina  OWNER TO postgres;
+
+CREATE TABLE nota(  id serial NOT NULL,  id_aluno integer,  id_disciplina integer,  nota float,
+  CONSTRAINT nota_pkey PRIMARY KEY (id),
+  CONSTRAINT nota_id_aluno_fkey FOREIGN KEY (id_aluno)
+      REFERENCES aluno (id) MATCH SIMPLE
+      ON UPDATE NO ACTION ON DELETE NO ACTION,
+  CONSTRAINT nota_id_disciplina_fkey FOREIGN KEY (id_disciplina)
+      REFERENCES disciplina (id) MATCH SIMPLE
+      ON UPDATE NO ACTION ON DELETE NO ACTION
+) WITH (   OIDS=FALSE ); 
+
+ALTER TABLE nota   OWNER TO postgres;
+
+
+INSERT INTO aluno(nome) VALUES ('Pedro');
+INSERT INTO aluno(nome) VALUES ('Marcos');
+INSERT INTO aluno(nome) VALUES ('Maria');
+
+
+INSERT INTO disciplina(nome) VALUES ('Banco de Dados');
+INSERT INTO disciplina(nome) VALUES ('Machine Learning');
+INSERT INTO disciplina(nome) VALUES ('BI');
+
+
+INSERT INTO nota(id_aluno, id_disciplina, nota) VALUES (1, 1, 7);
+INSERT INTO nota(id_aluno, id_disciplina, nota) VALUES (1, 2, 8);
+INSERT INTO nota(id_aluno, id_disciplina, nota) VALUES (1, 3, 10);
+INSERT INTO nota(id_aluno, id_disciplina, nota) VALUES (2, 1, 4);
+INSERT INTO nota(id_aluno, id_disciplina, nota) VALUES (2, 2, 9);
+INSERT INTO nota(id_aluno, id_disciplina, nota) VALUES (2, 3, 10);
+INSERT INTO nota(id_aluno, id_disciplina, nota) VALUES (3, 1, 10);
+INSERT INTO nota(id_aluno, id_disciplina, nota) VALUES (3, 2, 10);
+INSERT INTO nota(id_aluno, id_disciplina, nota) VALUES (3, 3, 10);
+
+
+
+-- Pronto já temos estrutura e o banco de dados já está populado, agora segue abaixo o SELECT que é o objetivo desse artigo.
+
+
+select * from aluno
+inner join nota on (aluno.id=nota.id_aluno)
+inner join disciplina on (disciplina.id=nota.id_disciplina);
+
+select nota,d.nome from nota nt,aluno a,disciplina d where nt.id_aluno = a.id and id_disciplina = 1 and d.id=nt.id_disciplina;
+
+
+
+select a.nome,
+(select nota from nota nt where nt.id_aluno = a.id and id_disciplina = 1) as BancoDeDados,
+(select nota from nota nt where nt.id_aluno = a.id and id_disciplina = 2) as MachineLearning,
+(select nota from nota nt where nt.id_aluno = a.id and id_disciplina = 2) as BI
+from aluno a
+
